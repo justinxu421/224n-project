@@ -1,4 +1,4 @@
-#!/bin/bash
+  #!/bin/bash
 
 # Makes programs, downloads sample data, trains a GloVe model, and then evaluates it.
 # One optional argument can specify the language used for eval script: matlab, octave or [default] python
@@ -14,7 +14,7 @@ if [ ! -e text8 ]; then
   rm text8.zip
 fi
 
-CORPUS=text8
+CORPUS=life_biology_sentences_tokenized
 VOCAB_FILE=vocab.txt
 COOCCURRENCE_FILE=cooccurrence.bin
 COOCCURRENCE_SHUF_FILE=cooccurrence.shuf.bin
