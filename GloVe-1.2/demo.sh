@@ -15,11 +15,11 @@ if [ ! -e text8 ]; then
 fi
 
 CORPUS=life_biology_sentences_tokenized
-VOCAB_FILE=vocab.txt
+VOCAB_FILE=life_vocab.txt
 COOCCURRENCE_FILE=cooccurrence.bin
 COOCCURRENCE_SHUF_FILE=cooccurrence.shuf.bin
 BUILDDIR=build
-SAVE_FILE=vectors
+SAVE_FILE=life_vectors
 VERBOSE=2
 MEMORY=4.0
 VOCAB_MIN_COUNT=5
