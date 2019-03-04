@@ -1,0 +1,319 @@
+accuracy
+base quantity
+base unit
+conversion factor
+derived quantity
+derived units
+dimension
+dimensionally consistent
+dimensionless
+discrepancy
+English units
+estimation
+kilogram
+law
+meter
+method of adding percents
+metric system
+model
+order of magnitude
+percent uncertainty
+physical quantity
+physics
+precision
+second
+SI units
+significant figures
+theory
+uncertainty
+units
+anticommutative property
+antiparallel vectors
+associative
+commutative
+component form of a vector
+corkscrew right-hand rule
+cross product
+difference of two vectors
+direction angle
+displacement
+distributive
+dot product
+equal vectors
+magnitude
+null vector
+orthogonal vectors
+parallel vectors
+parallelogram rule
+polar coordinate system
+polar coordinates
+radial coordinate
+resultant vector
+scalar
+scalar component
+scalar equation
+scalar product
+scalar quantity
+tail-to-head geometric construction
+unit vector
+unit vectors of the axes
+vector
+vector components
+vector equation
+vector product
+vector quantity
+vector sum
+acceleration due to gravity
+average acceleration
+average speed
+average velocity
+displacement
+distance traveled
+elapsed time
+free fall
+instantaneous acceleration
+instantaneous speed
+instantaneous velocity
+kinematics
+position
+total displacement
+two-body pursuit problem
+acceleration vector
+angular frequency
+centripetal acceleration
+relative velocity
+tangential acceleration
+time of flight
+total acceleration
+trajectory
+velocity vector
+dynamics
+external force
+force
+free fall
+free-body diagram
+Hooke’s law
+inertia
+inertial reference frame
+law of inertia
+net external force
+newton
+Newton’s first law of motion
+Newton’s second law of motion
+Newton’s third law of motion
+normal force
+tension
+thrust
+weight
+w→
+banked curve
+centripetal force
+Coriolis force
+friction
+ideal banking
+drag force
+inertial force
+kinetic friction
+noninertial frame of reference
+static friction
+terminal velocity
+average power
+kinetic energy
+net work
+power
+work
+work done by a force
+work-energy theorem
+conservative force
+conserved quantity
+energy conservation
+equilibrium point
+exact differential
+mechanical energy
+non-conservative force
+non-renewable
+potential energy
+potential energy diagram
+potential energy difference
+renewable
+turning point
+center of mass
+closed system
+elastic
+explosion
+external force
+impulse
+impulse-momentum theorem
+inelastic
+internal force
+Law of Conservation of Momentum
+linear mass density
+momentum
+perfectly inelastic
+rocket equation
+system
+angular acceleration
+angular position
+angular velocity
+instantaneous angular acceleration
+instantaneous angular velocity
+kinematics of rotational motion
+lever arm
+linear mass density
+moment of inertia
+Newton’s second law for rotation
+parallel axis
+parallel-axis theorem
+rotational dynamics
+rotational kinetic energy
+rotational work
+surface mass density
+torque
+total linear acceleration
+work-energy theorem for rotation
+angular momentum
+law of conservation of angular momentum
+precession
+rolling motion
+breaking stress ; ultimate stress
+bulk modulus
+bulk strain
+bulk stress
+center of gravity
+compressibility
+compressive strain
+compressive stress
+elastic
+elastic limit
+elastic modulus
+equilibrium
+first equilibrium condition
+gravitational torque
+linearity limit ; proportionality limit
+normal pressure
+pascal ; Pa
+plastic behavior
+pressure
+second equilibrium condition
+shear modulus
+shear strain
+shear stress
+static equilibrium
+strain
+stress
+stress-strain diagram
+tensile strain
+tensile stress
+Young’s modulus
+action-at-a-distance force
+aphelion
+apparent weight
+black hole
+escape velocity
+Kepler’s first law
+Kepler’s second law
+Kepler’s third law
+neap tide
+neutron star
+Newton’s law of gravitation
+event horizon
+gravitational field
+gravitationally bound
+non-Euclidean geometry
+orbital period
+orbital speed
+perihelion
+principle of equivalence
+Schwarzschild radius
+space-time
+spring tide
+theory of general relativity
+tidal force
+universal gravitational constant
+absolute pressure
+Archimedes’ principle
+Bernoulli’s equation
+Bernoulli’s principle
+buoyant force
+density
+flow rate
+fluids
+gauge pressure
+hydraulic jack
+hydrostatic equilibrium
+ideal fluid
+laminar flow
+Pascal’s principle
+Poiseuille’s law
+Poiseuille’s law for resistance
+pressure
+Reynolds number
+specific gravity
+turbulence
+turbulent flow
+viscosity
+amplitude ; A
+critically damped
+elastic potential energy
+equilibrium position
+force constant ; k
+frequency ; f
+natural angular frequency
+oscillation
+physical pendulum
+resonance
+restoring force
+simple harmonic motion ; SHM
+overdamped
+period ; T
+periodic motion
+phase shift
+simple harmonic oscillator
+simple pendulum
+stable equilibrium point
+torsional pendulum
+underdamped
+antinode
+constructive interference
+destructive interference
+fixed boundary condition
+free boundary condition
+fundamental frequency
+intensity ; I
+interference
+linear wave equation
+longitudinal wave
+mechanical wave
+node
+normal mode
+overtone
+pulse
+standing wave
+superposition
+transverse wave
+wave
+wave function
+wave number
+wave speed
+wave velocity
+wavelength
+beat frequency
+beats
+bow wake
+Doppler effect
+Doppler shift
+fundamental
+harmonics
+hearing
+loudness
+notes
+overtones
+phon
+pitch
+shock wave
+sonic boom
+sound
+sound intensity level
+sound pressure level
+timbre
+transducer

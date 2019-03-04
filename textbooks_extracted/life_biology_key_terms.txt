@@ -1,0 +1,2301 @@
+abiotic
+abomasum
+abortion
+abscisic acid;ABA
+abscission
+aboral
+absorption spectrum
+absorptive heterotrophs
+absorptive state
+acquired immune deficiency syndrome;AIDS
+accessory fruits
+accessory sex organs
+acclimation
+acclimatization
+acetyl coenzyme A;acetyl CoA
+acetylcholine;ACh
+acid
+acid growth hypothesis
+acid rain
+acoelomate
+acrosome
+ACTH
+actin
+action potentials;APs
+action spectrum
+activation energy;Ea
+activation gate
+activator
+active site
+active transport
+adaptation
+adaptive defenses
+adaptive radiation
+addition rule
+adenine;A
+adeno-associated virus
+ADH
+adhesion
+adrenal cortex
+adrenal gland
+adrenal medulla
+adrenergic receptors
+adrenocorticotropic hormone;ACTH
+adventitious roots
+aerenchyma
+aerobic
+aerotolerant anaerobe
+afferent
+after-hyperpolarization
+aggregate fruit
+agonist
+AIDS
+air sacs
+albedo effect
+alcoholic fermentation
+aldosterone
+aleurone layer
+allantoic membrane
+allantois
+Allee effect
+allele
+allergic reaction
+allopatric speciation
+allopolyploidy
+allosteric regulation
+alpha diversity
+&#945; (alpha) helix
+alternation of generations
+alternative hypothesis
+alternative splicing
+alternative states
+altricial
+altruistic
+alveolus
+amacrine cells
+amensalism
+amine hormones
+amino acid
+ammonia
+ammonotelic
+amnion
+amniote egg
+amniotic fluid
+amphipathic
+amplitude
+amygdala
+anabolic reaction
+anaerobic
+anaerobic respiration
+analogous
+ancestral trait
+androgen
+aneuploidy
+angiosperms
+angiotensin
+angular gyrus
+animal hemisphere
+animal physiology
+animal pole
+anion
+annual
+antagonist
+anterior pituitary
+anterior
+anther
+antheridium
+antibody
+anticodon
+antidiuretic hormone;ADH
+antigen
+antigen presentation
+antigenic determinant
+antiparallel
+antiporter
+antisense RNA
+anus
+aorta
+aortic body
+aortic valve
+aphasia
+apical dominance
+apical hook
+apical meristem
+apomixis
+apoplast
+apoptosis
+appendix
+aquaporin
+aquifer
+archegonium
+archenteron
+arcuate nucleus
+arteriole
+artery
+artificial insemination
+ascospores
+ascus
+assimilation efficiency
+assisted reproductive technologies;ARTs
+association cortex
+asthenosphere
+astrocyte
+atherosclerosis
+atmosphere
+atom
+atomic number
+atomic weight
+adenosine triphosphate;ATP)
+ATP synthase
+atrial natriuretic peptide;ANP
+atrioventricular node
+atrioventricular valve;AV
+atrium
+autocatalysis
+autocrine
+autoimmunity
+autonomic nervous system;ANS
+autonomous specification
+autophagy
+autopolyploidy
+autoregulatory mechanisms
+autosome
+autotroph
+auxin
+avirulence (Avr) genes
+Avogadro's number
+axillary bud
+axon
+axon hillock
+axon terminal
+B cell
+B horizon
+bacillus
+bacterial conjugation
+bacteriophage
+bacteroids
+bar chart
+bark
+baroreceptor
+basal metabolic rate;BMR
+base
+base pair;bp
+basidioma
+basidium
+Batesian mimicry
+behavioral ecology
+behaviorism
+benign
+beta diversity
+&#946; (beta) pleated sheet
+biased gene conversion
+bicuspid valve
+biennial
+bilateral symmetry
+bilayer
+bile
+binary fission
+bindin
+binocular vision
+binomial nomenclature
+biodiversity
+biofilm
+biogeochemical cycle
+biogeographic region
+biogeography
+bioinformatics
+biological control
+biological species concept
+biology
+biome
+biosphere
+biota
+biotechnology
+biotic
+biotic resistance
+bipedal locomotion
+bipolar cells
+blastocoel
+blastocyst
+blastoderm
+blastodisc
+blastomere
+blastopore
+blastula
+block to polyspermy
+blood clotting
+blood plasma
+blood&#8211;brain barrier
+blue-light receptors
+BMR
+body cavity
+body plan
+Bohr effect
+bone
+Bowman's capsule
+brain
+brainstem
+brassinosteroids
+Broca's area
+bronchioles
+bronchus
+brown fat
+bud
+budding
+buffer
+bulbourethral glands
+bulbus arteriosus
+bulk flow
+bulk transport
+bundle of His
+bundle sheath cell
+C horizon
+C<sub>3</sub> plants
+C<sub>4</sub> plants
+calcitonin
+calcitriol
+calorie
+Calvin cycle
+CAM
+Cambrian explosion
+cyclic AMP;cAMP
+cancellous bone
+capillaries
+capsid
+capsule
+carbohydrases
+carbohydrates
+carbon skeleton
+carbonic anhydrase;CA
+carboxylase
+cardiac cycle
+cardiac muscle
+cardiovascular system
+carnivore
+carnivorous plant
+carnivory
+carotid body
+carpel
+carrier proteins
+carrying capacity;K
+cartilage bone
+cartilage
+Casparian strip
+caspase
+catabolic reaction
+catabolite repression
+categorical variables
+cation
+cation exchange
+CCK
+Cdk
+cDNA
+cDNA library
+cecum
+cell
+cell adhesion
+cell body
+cell cycle checkpoints
+cell cycle
+cell fate
+cell junctions
+cell membrane
+cell potency
+cell recognition
+cell theory
+cell wall
+cellular immune response
+cellular respiration
+cellular respiration
+cellular specialization
+cellulose
+central dogma
+central nervous system;CNS
+central vacuole
+centriole
+centromere
+centrosome
+cephalization
+cerebellum
+cerebral cortex
+cerebral hemispheres
+cerebrum
+cervix
+channel protein
+chaperone
+character displacement
+character
+chemical bond
+chemical equilibrium
+chemical evolution
+chemical reaction
+chemical synapse
+chemically gated channel
+chemiosmosis
+chemoautotroph
+chemoheterotroph
+chemoreceptor
+chemosynthesis
+chi-square goodness-of-fit
+chiasma
+chief cells
+chitin
+chlorophyll
+chloroplast
+choanocyte
+cholecystokinin;CCK
+chorion
+chromatin
+chromosomal mutation
+chromosome
+chylomicrons
+chyme
+cilia
+circadian rhythm
+circulatory system
+cis-trans isomers
+clade
+class
+class I MHC proteins
+class II MHC proteins
+class switching
+cleavage
+climate
+climax community
+clinal variation
+clonal deletion
+clonal lineages
+clonal selection
+clone
+closed circulatory system
+clumped dispersion
+CONSTANS;CO
+co-repressor
+coastal zone
+coccus
+cochlea
+codominance
+codon
+coelomate
+coenocytic
+coevolution
+cohesion
+cohort life table
+cold-hardening
+coleoptile
+collagen
+collecting duct
+collenchyma
+colon
+commensalism
+communication
+community
+community function
+community structure
+compact bone
+companion cell
+comparative experiment
+comparative genomics
+comparator
+competition
+competitive coexistence
+competitive exclusion
+competitive inhibitor
+complement system
+complementary base pairing
+complementary diet
+complementary DNA;cDNA
+complete cleavage
+complete gut
+complete metamorphosis
+complex ions
+complex life cycle
+composite transposon
+compound
+concentration gradient
+concerted evolution
+condensation reaction
+conditional mutation
+conditioned reflex
+conduction
+cone cells
+cone
+confidence interval
+conidium
+conjugation
+connective tissue
+connexon
+conservation biology
+conspecifics
+constant region
+constitutive
+constitutive proteins
+consumption efficiency
+continental drift
+continuous variables
+contraception
+contractile vacuole
+controlled experiment
+controlled system
+convection
+convergent evolution
+convergent extension
+convolutions
+coprophagy
+copulation
+coral bleaching
+Coriolis effect
+cork cambium
+cornea
+coronary artery
+coronary thrombosis
+corpora allata
+corpora cardiaca
+corpus luteum
+correlation coefficient
+cortex
+corticosteroids
+corticotropin
+corticotropin-releasing hormone;CRH
+cortisol
+cost&#8211;benefit approach
+cotyledon
+countercurrent flow
+countercurrent heat exchange
+countercurrent multiplier
+coupled human&#8211;natural system ecology
+coupled transporters
+covalent bond
+CpG islands
+cranial nerves
+crassulacean acid metabolism;CAM
+creatine phosphate;CP
+CRISPR
+critical period
+crop
+crossing over
+crosstalk
+crustose
+crypsis
+cryptochromes
+ctene
+cumulus
+cupula
+cuticle
+cyclic AMP
+cyclic electron transport
+cyclin
+cyclin-dependent kinase;Cdk
+cytokine
+cytokinesis
+cytokinin
+cytoplasm
+cytoplasmic determinants
+cytoplasmic segregation
+cytoplasmic streaming
+cytosine;C
+cytoskeleton
+cytotoxic T cells;T<sub>C</sub>
+DAG
+daily torpor
+dalton;DA
+data
+daughter chromosomes
+dead space
+declarative memory
+decomposer
+decomposition
+deductive logic
+defensin
+deficiency disease
+delayed hypersensitivity
+deletion
+demethylase
+demographic stochasticity
+demography
+denaturation
+dendrites
+denitrifiers
+density-dependent
+density-independent
+dentine
+deoxyribose
+depolarization
+deprivation experiments
+derived trait
+dermal tissue system
+descent with modification
+descriptive statistics
+desmosome
+desmotubule
+determinate growth
+determination
+detritivore
+development
+diacylglycerol;DAG
+diaphragm
+diastole
+dichotomous
+diencephalon
+differentiation
+diffusion
+digestive vacuole
+dihybrid cross
+dikaryon
+dioecious
+diploblastic
+diploid
+direct development
+direct fitness
+direct interaction
+directional selection
+disaccharide
+discoidal cleavage
+discrete variables
+dispersal
+dispersion patterns
+disruptive selection
+dissociation constant;K<sub>D</sub>
+distal convoluted tubule
+disturbance
+disulfide bridge
+deoxyribonucleic acid;DNA
+DNA fingerprint
+DNA helicase
+DNA ligase
+DNA methyltransferase
+DNA microarray
+DNA polymerase
+DNA replication
+DNA testing
+domain
+dominance
+dormancy
+dorsal
+dorsal lip
+double fertilization
+double helix
+duodenum
+duplication
+early successional species
+easterlies
+ecdysone
+ecology
+ecosystem
+ecosystem engineering species
+ecosystem science
+ecosystem values
+ecosystems services
+ectoderm
+ectomycorrhizae
+ectoparasite
+ectotherm
+edge effects
+effective population size
+effector
+effector cells
+effector mechanisms
+effector protein
+efferent
+egg
+ejaculatory duct
+electrical synapse
+electrocardiogram;ECG or EKG
+electrochemical gradient
+electroencephalogram;EEG
+electromagnetic radiation
+electron
+electron shell
+electronegativity
+element
+elicitors
+elongation
+embolus
+embryo
+embryo sac
+embryonic stem cell;ESC
+emigration
+enamel
+endemic
+endergonic
+endocrine gland
+endocrines
+endocytosis
+endoderm
+endodermis
+endogenous retroviruses
+endomembrane system
+endometrium
+endoparasite
+endophytic fungi
+endoplasmic reticulum;ER
+endorphins
+endoskeleton
+endosperm
+endospore
+endosymbiosis theory
+endotherm
+endotoxin
+energetic cost
+energy budget
+energy
+enhancers
+enkephalins
+enteric nervous system
+enthalpy;H
+entrain
+entropy;S
+enveloped virus
+environmental genomics
+environmentalism
+enzyme&#8211;substrate complex;ES
+epiblast
+epiboly
+epidermis
+epididymis
+epigenetics
+epiglottis
+epinephrine
+epiphyseal plates
+epistasis
+epithelial tissue
+epitope
+epoch
+equilibrium
+ER
+erection
+error signal
+ERV
+erythrocyte
+erythropoietin;EPO
+ESC
+esophagus
+essential amino acids
+essential element
+essential fatty acids
+ester linkage
+estivation
+estrogen
+estrus
+estuary
+ether linkage
+ethology
+ethylene
+etiolated
+euchromatin
+eudicots
+eukaryotes
+eusocial
+eustachian tube
+eutrophication
+evaporation
+evapotranspiration
+evolution
+evolutionary developmental biology;evo-devo
+evolutionary radiation
+evolutionary reversal
+evolutionary theory
+ex vivo gene therapy
+excision repair
+excretory systems
+executive functions
+exergonic
+exocrine gland
+exocytosis
+exon
+exoskeleton
+exotoxin
+expanding triplet repeat
+expiratory reserve volume;ERV
+exploitation competition
+exponential growth
+expression vector
+expressivity
+extensor
+external fertilization
+external gills
+extracellular fluid
+extracellular matrix
+extraembryonic membranes
+extreme halophiles
+extremophiles
+eye cups
+F<sub>1</sub>
+F<sub>2</sub>
+facilitated diffusion
+facilitation
+facultative
+facultative anaerobe
+facultative parasite
+fast-twitch fibers
+fat
+fate map
+fatty acid
+fauna
+FLOWERING LOCUS D;FD
+feather
+feces
+fecundity;m<sub>x</sub>
+feedback
+feedforward information
+fenestrations
+fermentation
+fertilization
+fertilizer
+fiber
+fibrin
+fibrinogen
+fibrous root system
+Fick's law of diffusion
+fight-or-flight response
+filament
+filter feeder
+first filial generation
+first law of thermodynamics
+first polar body
+fitness
+fixed action pattern
+fixed
+flagellum
+flexor
+flora
+floral meristem
+floral organ identity genes
+florigen
+flower
+fluid feeder
+fluid mosaic model
+foliose
+follicle
+follicle-stimulating hormone;FSH
+food web
+forebrain
+fossil fuels
+foundation species
+founder effect
+fovea
+frame-shift mutation
+Frank&#8211;Starling law
+free energy;G
+free-running
+frequency distribution
+frequency-dependent selection
+frontal lobe
+frugivore
+fruit
+fruticose
+FSH
+FLOWERING LOCUS T;
+fugitive species
+full census
+functional genomics
+functional group
+functional residual volume;FRV
+fundamental niche
+G protein
+G protein&#8211;coupled receptors
+G0
+G1
+G1-to-S transition
+G2
+gain-of-function mutation
+gallbladder
+gametangium
+gamete
+gametogenesis
+gametophyte
+gamma diversity
+ganglion
+ganglion cells
+gap genes
+gap junction
+gastric pits
+gastrin
+gastrointestinal system
+gastrovascular cavity
+gastrovascular system
+gastrulation
+gated channel
+gel electrophoresis
+gene
+gene duplication
+gene expression
+gene family
+gene pool
+gene therapy
+gene tree
+gene-for-gene concept
+general transcription factors
+generation time;G
+genetic code
+genetic drift
+genetic marker
+genetic screen
+genetic structure
+genetic switches
+genetic toolkit
+genetics
+genitalia
+genome
+genome sequencing
+genomic equivalence
+genomic library
+genomics
+genotype
+genus
+geographic range
+geological time scale
+germ cell
+germ layers
+germ line gene therapy
+germ line mutation
+germination
+gestation
+GH
+GHIH
+ghrelin
+gibberellin
+gizzard
+glans penis
+glia
+glomerular filtration rate;GFR
+glomerulus
+glucagon
+gluconeogenesis
+glucose
+glyceraldehyde 3-phosphate;G3P
+glycerol
+glycogen
+glycolipid
+glycolysis
+glycoprotein
+glycosidic linkage
+glycosylation
+glyoxysome
+goiter
+Goldman equation
+Golgi apparatus
+Golgi tendon organ
+gonad
+gonadotropin
+gonadotropin-releasing hormone;GnRH
+Gondwana
+graded membrane potential
+grafting
+Gram-negative bacteria
+Gram-positive bacteria
+Gram stain
+granulosa cells
+gravitropism
+gray crescent
+gray matter
+greenhouse gases
+gross primary production;GPP
+ground meristem
+ground tissue system
+growth
+growth factor
+growth hormone;GH
+growth hormone inhibiting hormone;GHIH
+guanine;G
+guard cells
+guild
+gustation
+gut
+gymnosperms
+gyres
+gyri
+habitat
+habitat degradation
+habitat loss
+hair cell
+half-life
+halophytes
+Hamilton's rule
+haplodiploidy
+haploid
+haplotype
+Hardy&#8211;Weinberg equilibrium
+haustorium
+Haversian systems
+hCG
+HDLs
+heart
+heat of vaporization
+heat shock proteins
+hematocrit
+hemiparasite
+hemizygous
+hemocoel
+hemoglobin
+hemolymph
+Hensen's node
+hepatic portal vein
+herbivore
+herbivory
+hermaphroditism
+heterochromatin
+heterochrony
+heterocyst
+heterometry
+heteromorphic
+heterosis
+heterosporous
+heterotherm
+heterotopy
+heterotroph
+heterotypy
+heterozygous
+hexose
+hibernation
+high-density lipoproteins;HDLs
+high-throughput sequencing
+highly repetitive sequences
+hindbrain
+hippocampus
+histamine
+histogram
+HIV
+holometabolous
+holoparasite
+homeobox
+homeodomain
+homeostasis
+homeotherms
+homeotic genes
+homeotic mutation
+homing
+hominin
+homolog
+homologous pair
+homology
+homoplasy
+homosporous
+homotypic
+homozygous
+horizons
+horizontal cells
+hormone
+host
+Hox genes
+human chorionic gonadotropin;hCG
+Human Genome Project
+human immunodeficiency virus;HIV
+humoral immune response
+humus
+hybrid vigor
+hybrid zone
+hydrocarbon
+hydrogen bond
+hydrologic cycle
+hydrolysis reaction
+hydrophilic
+hydrophobic
+hydrophobic interaction
+hydroponic
+hydrostatic skeleton
+hyperaccumulators
+hyperpolarization
+hypersensitive response
+hypertonic
+hypertonic regulation
+hypha
+hypoblast
+hypothalamus
+hypothermia
+hypothesis
+hypotonic
+hypotonic regulation
+hypoxia
+hysteresis
+igneous rocks
+ileum
+imbibition
+immediate hypersensitivity
+immediate memory
+immigration
+immunity
+immunoglobulins
+immunological memory
+imperfect flower
+implantation
+imprinting
+in vitro evolution
+in vivo gene therapy
+inactivation gate
+inbreeding
+inbreeding depression
+inclusive fitness
+incomplete cleavage
+incomplete dominance
+incomplete metamorphosis
+independent assortment
+indeterminate growth
+indirect fitness
+indirect interaction
+induced
+induced fit
+induced mutation
+induced pluripotent stem cells;iPS cells
+inducer
+inducible
+inducible genes
+induction
+inductive logic
+inferior vena cava
+inflammation
+inflorescence
+inflorescence meristem
+ingroup
+initials
+initiation
+initiation complex
+initiation site
+innate defenses
+inner cell mass
+inorganic fertilizer
+inositol trisphosphate;IP<sub>3</sub>
+inspiratory reserve volume;IRV
+instar
+insular cortex
+insular lobe
+insulin
+integral membrane proteins
+integrin
+integument
+interaction strength
+interaction webs
+intercalated discs
+intercostal muscles
+interference competition
+interference RNA;RNAi
+interferons
+intermediate disturbance hypothesis
+intermediate filaments
+internal environment
+internal fertilization
+internal gills
+internal skeleton
+interneuron
+internode
+interphase
+interspecific interactions
+interstitial fluid
+intertidal zone
+intestine
+intracellular receptor
+intraspecific competition
+intron
+invasive species
+inversion
+involution
+ion
+ion channel
+ionic attraction
+iris
+islets of Langerhans
+isomers
+isomorphic
+isotonic
+isotope
+isozymes
+iteroparity
+jasmonic acid (jasmonate)
+jejunum
+joint
+juvenile hormone
+juxtacrine
+K-strategist
+karyogamy
+karyotype
+K<sub>D</sub>
+keystone species
+kidneys
+kilocalorie;kcal
+kin selection
+kinetic energy
+kinetochore
+Koch's postulates
+lacteals
+lactic acid fermentation
+lagging strand
+landscape
+larva
+larynx
+lateral gene transfer
+lateral meristem
+lateral root
+lateralization
+laticifers
+Laurasia
+law of independent assortment
+law of mass action
+law of segregation
+laws of thermodynamics
+LDLs
+LDP
+leaching
+leading strand
+leaf
+leaf primordium
+leghemoglobin
+lek
+lens
+lenticels
+leptin
+Leydig cells
+LH
+lichen
+life history
+life history strategy
+life table
+ligament
+ligand
+light reactions
+light-harvesting complex
+light-independent reactions
+lignin
+limbic system
+limiting resource
+lineage
+lineage species concept
+linear regression
+linkage analysis
+lipases
+lipid
+lipid bilayer
+lipoproteins
+liposome
+lithosphere
+liver
+loading
+loam
+locus
+logistic growth
+long-day plant;LDP
+long-term depression;LTD
+long-term memory
+long-term potentiation;LTP
+loop of Henle
+lophophore
+loss-of-function mutation
+lottery model
+low-density lipoproteins;LDLs
+lower critical temperature
+lumen
+lung
+luteinizing hormone;LH
+lymph
+lymph node
+lymphatic duct
+lymphocyte
+lysogeny
+lysosome
+lysozyme
+lytic cycle
+macroevolution
+macroglia
+macromolecule
+macronutrient
+macroparasites
+MADS box
+maintenance methylase
+major histocompatibility complex;MHC
+malignant
+malnutrition
+Malpighian tubule
+mandible
+mantle
+mark&#8211;recapture method
+mass
+mass extinction event
+mass number
+mast cells
+maternal effect genes
+mating
+mating type
+maximum likelihood
+mean
+measures of center
+measures of dispersion
+mechanically gated channel
+mechanoreceptor
+median
+medulla
+medusa
+megagametophyte
+megakaryocytes
+megaphyll
+megasporangia
+megaspore
+megastrobilus
+meiosis
+meiosis I
+meiosis II
+Meissner's corpuscles
+melanocyte-stimulating hormone;MSH
+melatonin
+membrane
+membrane potential
+membranous bone
+memory cells
+menopause
+menstrual cycle
+menstruation
+meristem
+meristem culture
+meristem identity genes
+Merkel's discs
+mesenchyme
+mesoderm
+mesoglea
+mesophyll
+messenger RNA;mRNA
+metabolism
+metabolome
+metagenomics
+metamorphosis
+metanephridia
+metapopulation
+metastasis
+methanogens
+methylation
+MHC
+MI
+micelle
+microbiome
+microbiota
+microevolution
+microfilament
+microgametophyte
+microglia
+micronutrient
+microparasites
+microphyll
+micropyle
+microRNA;miRNA
+microsporangia
+microspore
+microstrobilus
+microtubules
+microvilli
+midbrain
+middle lamella
+migration
+mineral nutrients
+mineralization
+mismatch repair
+missense mutation
+missense substitution
+mitochondria
+mitosis
+mitosomes
+mitral valve
+mode
+model organisms
+moderately repetitive sequences
+molds
+mole
+molecular clock
+molecular evolution
+molecular weight
+molecule
+molting
+monoblastic
+monocots
+monoculture
+monoecious
+monohybrid cross
+monomer
+monophyletic
+monosaccharide
+monosomic
+morphogen
+morphogenesis
+morphological species concept
+morphology
+mosaic development
+motile
+motor cortex
+motor end plate
+motor proteins
+motor unit
+MSH
+mucosa
+mucus
+Muller's ratchet
+M&#252;llerian mimicry
+multifactorial
+multiple fruits
+multiplication rule
+multipotent
+muscle fiber
+muscle spindles
+muscle tissue
+mutagen
+mutation
+mutualism
+mycelium
+mycologists
+mycorrhiza
+myelin
+myocardial infarction;MI
+MyoD
+myofibril
+myoglobin
+myosin
+myxamoeba
+natural killer cell
+natural selection
+nauplius
+necrosis
+negative feedback
+negative regulation
+negative-sense RNA
+nematocyst
+neoteny
+nephron
+Nernst equation
+nerve
+nerve nets
+nervous tissue
+net primary production;NPP
+net reproductive rate ;R<sub>0</sub>
+net secondary production
+neural crest cells
+neural network
+neural tube
+neurohormone
+neuromuscular junction
+neuron
+neurotransmitter
+neurulation
+neutral allele
+neutral model
+neutral theory
+neutron
+niche
+nitrate reduction
+nitrification
+nitrifiers
+nitrogen fixation
+nitrogen fixers
+nitrogenase
+node
+node of Ranvier
+non-disjunction
+non-REM sleep
+noncompetitive inhibitor
+noncyclic electron transport
+nonpolar
+nonpolar covalent bond
+nonsense mutation
+nonsense substitution
+nonsynonymous substitution
+nonvascular land plants
+norepinephrine
+notochord
+nuclear envelope
+nucleases
+nucleic acid
+nucleic acid hybridization
+nucleoid
+nucleolus
+nucleoside
+nucleosome
+nucleotide
+nucleus
+null hypothesis
+nutrient
+obligate
+obligate aerobe
+obligate anaerobe
+obligate parasites
+occipital lobe
+ocean zone
+odorant
+oil
+Okazaki fragments
+olfaction
+olfactory bulb
+olfactory receptor neurons;ORNs
+oligodendrocyte
+oligosaccharide
+omasum
+ommatidia
+omnivore
+omnivory
+oncogene
+one gene&#8211;one polypeptide
+one-gene, one-enzyme hypothesis
+one-gene, one-polypeptide relationship
+oogonium
+ootid
+open circulatory system
+operant conditioning
+operator
+operon
+opportunity cost
+opsin
+optic chiasm
+optic nerve
+optical isomers
+optimal foraging theory
+oral
+orbital
+ordinal variables
+organ
+organ identity genes
+organ of Corti
+organ system
+organelle
+organic fertilizers
+organizer
+organogenesis
+origin of replication;ori 
+ortholog
+osmoconformer
+osmolarity
+osmoregulator
+osmosis
+ossicles
+osteoblast
+osteoclast
+osteocyte
+otoliths
+outgroup
+oval window
+ovarian cycle
+ovary
+overtopping
+oviduct
+oviparity
+ovoviviparity
+ovulation
+ovule
+ovum
+oxaloacetate
+oxidation
+oxidation&#8211;reduction reaction;redox
+oxidative phosphorylation
+oxygenase
+oxytocin
+P-value
+pacemaker cells
+Pacinian corpuscles
+pair rule genes
+pancreas
+parabronchi
+paracrine
+parallel evolution
+paralog
+paraphyletic
+parasite
+parasitic plants
+parasitism
+parasympathetic nervous system
+parathyroid glands
+parathyroid hormone;PTH
+parenchyma
+parent rock
+parental (P) generation
+parietal cells
+parietal lobe
+parsimony principle
+parthenocarpy
+parthenogenesis
+partial pressures
+passive transport
+patch clamping
+pathogen
+pathogen associated molecular patterns;PAMPs
+pathogenesis-related (PR) protein
+pattern formation
+pattern recognition receptors;PRRs
+PCR
+peat
+pedigree
+penetrance
+penis
+pentaradial symmetry
+pentose
+PEP carboxylase
+peptidases
+peptide hormones
+peptide linkage
+peptidoglycan
+peptidyl transferase
+per capita birth rate;b
+per capita death rate;d
+per capita growth rate;r
+perennial
+perfect flower
+pericycle
+periderm
+period
+periodic table
+peripheral membrane proteins
+peripheral nervous system;PNS
+peristalsis
+peritoneum
+peritubular capillaries
+peroxisome
+petal
+P<sub>fr</sub>
+pH
+phage therapy
+phagocyte
+phagocytosis
+pharmacogenomics
+pharming
+pharynx
+phenotype
+pheromone
+phloem
+phloem sap
+phosphatidyl inositol-bisphosphate;PIP2
+phosphodiester linkage
+phosphoenolpyruvate;PEP
+phospholipid
+phospholipid bilayer
+phosphorylation
+photic zone
+photoautotroph
+photoheterotroph
+photomorphogenesis
+photon
+photoperiodism
+photophosphorylation
+photoreceptors
+photorespiration
+photosensitivity
+photosynthates
+photosynthesis
+photosynthetic lamellae
+photosystem
+photosystem I
+photosystem II
+phototropin
+phototropism
+phycoerythrin
+phylogenetic tree
+phylogeny
+phytoalexins
+phytochrome
+phytomers
+phytoremediation
+pie chart
+pigment
+piloting
+pilus
+pineal gland
+pinocytosis
+pioneer species
+pistil
+pith
+pituitary gland
+placenta
+plankton
+planula
+plaque
+plasma cell
+plasmid
+plasmodesmata
+plasmogamy
+plate tectonics
+platelet
+pleiotropy
+pleural membrane
+pluripotent
+pneumatophores
+podocytes
+poikilotherms
+point mutation
+polar
+polar covalent bond
+polar nuclei
+polarity
+pole plasm
+pollen grain
+pollen tube
+pollination
+poly A tail
+polyandry
+polyculture
+polygyny
+polymer
+polymerase chain reaction;PCR
+polymorphic
+polyp
+polypeptide
+polyphyletic
+polyploid
+polyploidy
+polyribosome (polysome)
+polysaccharide
+pons
+population
+population bottleneck
+population density
+population dynamics
+population growth rate
+population growth
+population size
+portal blood vessels
+positional information
+positive cooperativity
+positive feedback
+positive interaction
+positive regulation
+positive relationship
+positive selection
+postabsorptive state
+posterior
+posterior pituitary
+postzygotic isolating mechanisms
+potassium equilibrium potential;E<sub>K</sub>
+potential energy
+power
+P<sub>r</sub>
+pre-motor cortex
+precursor mRNA;re-mRN
+Precambrian
+precapillary sphincter
+precocial
+predation
+predator
+pressure flow model
+pressure potential;&#936;<sub>p</sub>
+prevailing winds
+prey
+prezygotic isolating mechanisms
+primary active transport
+primary bronchi
+primary cell wall
+primary consumer
+primary embryonic organizer
+primary endosymbiosis
+primary growth
+primary immune response
+primary lysosomes
+primary meristem
+primary motor cortex
+primary oocyte
+primary producer
+primary sex determination
+primary sex organs
+primary somatosensory cortex
+primary spermatocyte
+primary structure
+primary succession
+primase
+primer
+primitive streak
+probability
+probe
+proboscis
+procambium
+processive
+production efficiency
+products
+progesterone
+prokaryotes
+promoter
+proofreading
+prop roots
+prophage
+prostaglandin
+prostate gland
+proteases
+proteasome
+protected areas
+protein
+protein hormones
+protein kinase
+protein kinase cascade
+proteoglycan
+proteolysis
+proteome
+prothoracic gland
+prothoracicotropic hormone;PTTH
+prothrombin
+protocells
+protoderm
+proton
+proton pump
+proton-motive force
+protonephridium
+provirus
+proximal convoluted tubule
+proximate causes
+PRRs
+pseudocoelomate
+pseudogene
+pseudoplasmodium
+PTH
+pulmonary arteries
+pulmonary circuit
+pulmonary valve
+pulmonary veins
+pulp cavity
+Punnett square
+pupil
+purifying selection
+purine
+Purkinje fibers
+pyrimidine
+pyrogen
+pyruvate
+Q<sub>10</sub>
+quadrat
+qualitative
+quantitative
+quantitative trait loci
+quantitative variables
+quaternary structure
+quorum sensing
+R group
+r-strategist
+radial cleavage
+radial symmetry
+radiation
+radicle
+radioactive decay
+radioisotope
+radiometric dating
+radula
+rain shadow
+random dispersion
+range
+rapid eye movement (REM) sleep
+reactant
+reaction center
+realized niche
+receptive field
+receptor potential
+receptor protein
+receptor
+receptor-mediated endocytosis
+recessive
+recognition sequence
+recombinant chromatid
+recombinant DNA
+recombinant frequency
+rectum
+redox reaction
+reduction
+refractory period
+regeneration
+regional species pool
+regular (uniform) dispersion
+regulated specification
+regulative development
+regulatory sequence
+regulatory system
+regulatory T cells;Tregs
+reinforcement
+releaser
+renal
+renal artery
+renal pyramids
+renal tubule
+renal vein
+renin
+replication
+replication fork
+replicon
+reporter gene
+repressor
+reproductive isolation
+reproductive signal
+residual volume;RV
+residuals
+resistance (R) genes
+resource
+resource partitioning
+resource-mediated coexistence
+respiratory chain
+respiratory gases
+resting potential
+restoration ecology
+restriction digestion
+restriction enzyme
+restriction point;R
+restriction site
+reticular-activating system
+reticulation
+reticulum
+retina
+retrovirus
+reverse transcriptase
+reverse transcription
+reversible reaction
+reversion mutation
+rhizoids
+rhizome
+rhodopsin
+ribose
+ribosomal RNA;rRNA
+ribosome
+ribozyme
+ribulose bisphosphate carboxylase/oxygenase
+risk cost
+RNA (ribonucleic acid)
+RNA interference;RNAi
+RNA polymerase
+RNA processing
+RNA splicing
+rod cells
+root
+root apical meristem
+root cap
+root hair
+root nodule
+root system
+rotational cleavage
+rough endoplasmic reticulum;RER
+round window
+RT-PCR
+rubisco
+Ruffini endings
+rumen
+ruminant
+S phase
+salt glands
+saltatory conduction
+sample
+saprobe
+sarcomere
+sarcoplasm
+sarcoplasmic reticulum
+saturated fatty acid
+scatter plot
+scavenger
+Schwann cell
+scion
+sclera
+sclereid
+scrotum
+SDP
+second filial generation
+second law of thermodynamics
+second messenger
+second polar body
+secondary active transport
+secondary bronchi
+secondary cell wall
+secondary consumer
+secondary endosymbiosis
+secondary growth
+secondary immune response
+secondary lysosome
+secondary metabolite
+secondary oocyte
+secondary production
+secondary sex characteristics
+secondary spermatocyte
+secondary structure
+secondary succession
+secretin
+sedimentary rock
+seed
+seedling
+segment polarity genes
+segmentation
+segmentation genes
+segregation
+selectable marker
+selective permeability
+self-incompatability
+semelparity
+semen
+semicircular canals
+semiconservative replication
+seminal vesicles
+seminiferous tubules
+sensitive period
+sensor
+sensory mechanisms
+sensory organs
+sensory system
+sensory transduction
+sepal
+septate
+septum
+sequence alignment
+Sertoli cells
+sessile
+set point
+sex chromosome
+sex pilus
+sex-linked
+sex-linked inheritance
+sexual reproduction
+sexual selection
+Shannon index
+shoot apical meristem
+shoot system
+short tandem repeats;STRs
+short-day plant;SDP
+short-term memory
+side chain
+sieve tube element
+sigma factor
+signal sequence
+signal transduction pathway
+signaling mechanisms
+significance level
+silencer
+silent mutation
+silent substitution
+similarity matrix
+simple diffusion
+simple fruit
+single nucleotide polymorphisms;SNPs
+single-strand binding protein
+sink
+sink populations
+sinoatrial node
+sinus venosus
+small interfering RNAs;siRNAs
+sister chromatid
+sister clades
+sister species
+skeletal muscle
+skeletal systems
+sliding DNA clamp
+sliding filament model
+slow-twitch fibers
+slow-wave sleep
+small interfering RNAs
+small intestine
+smooth endoplasmic reticulum;SER
+smooth muscle
+sodium&#8211;potassium (Na<sup>+</sup>&#8211;K<sup>+</sup>) pump
+soil fertility
+soil solution
+soils
+solute
+solute potential;&#936;<sub>s</sub>
+solution
+solvent
+solvent drag
+somatic cell
+somatic cell gene therapy
+somatic mutation
+somatosensory cortex
+somatostatin
+somite
+soredia
+sorus
+source
+source populations
+spatial summation
+spawning
+speciation
+species
+species composition
+species concepts
+species diversity
+species evenness
+species richness
+species&#8211;area relationship
+specific heat
+sperm
+sperm cells
+spermatid
+spermatogonium
+spherical symmetry
+sphincter
+spicule
+spinal reflex
+spindle apparatus
+spiral cleavage
+spirillum
+spleen
+spontaneous generation
+spontaneous mutation
+sporangiophore
+sporangium
+spore
+sporophyte
+sporulation
+stability
+stabilizing selection
+stamen
+standard deviation
+standard error
+standard error of the mean
+standard free energy
+starch
+Starling's forces
+start codon
+static life table
+statistic
+stele
+stem
+stem cell
+stereocilia
+steroid hormones
+sticky ends
+stigma
+stock
+stoma
+stomach
+stomatal crypt
+stop codon
+STR
+stratigraphy
+stratum
+stress
+stretch receptor
+strigolactones
+strobilus
+stroke
+structural gene
+structural isomers
+structural motif
+style
+subduction
+submucosa
+subsoil
+substrate
+succession
+succulence
+sulci
+superficial cleavage
+superior vena cava
+suprachiasmatic nuclei;SCN
+surface area-to-volume ratio
+surface tension
+surfactant
+survivorship;lx
+survivorship curve
+suspension feeders
+suspensor
+sustainable
+swim bladder
+symbiosis
+symbiotic
+symmetry
+sympathetic nervous system
+sympatric speciation
+symplast
+symporter
+synapomorphy
+synapse
+synapsis
+synaptic cleft
+syncytium
+synonymous (silent) substitution
+systematics
+systemic acquired resistance
+systemic circuit
+systems biology
+systole
+T cell
+T cell receptor
+T tubules
+T-helper (T<sub>H</sub>) cell
+taproot
+taproot system
+taste bud
+TATA box
+taxon
+telencephalon
+telomerase
+telomeres
+temperature inversions
+template
+temporal lobe
+temporal summation
+tendon
+terminal bud
+termination
+territorial behavior
+tertiary endosymbiosis
+tertiary structure
+test cross
+testis
+tetanus
+tetrad
+thalamus
+thallus
+thecal cells
+theory
+theory of island biogeography
+thermogenin
+thermoneutral zone
+thermoregulatory adaptations
+thoracic cavity
+thoracic duct
+threshold
+thrombin
+thrombus
+thylakoid
+thymine;T
+thyroid gland
+thyroid-stimulating hormone;TSH
+thyrotropin
+thyrotropin-releasing hormone;TRH
+thyroxine
+tidal
+tidal volume;TV
+tight junction
+tissue
+titin
+Toll-like receptors;TLRs
+tonoplast
+topography
+topsoil
+totipotent
+trachea
+tracheary element
+tracheid
+trade winds
+trade-off
+trait
+transcription
+transcription factors
+transect
+transfection
+transfer RNA;tRNA
+transformation
+transgenic
+transition
+transition state
+transition-state intermediate
+translation
+translocation
+transmembrane domain
+transmembrane protein
+transpiration
+transposable element;transposon
+transversion
+tree of life
+TRH
+tricuspid valve
+triglyceride
+trimesters
+tripartite synapse
+triploblastic
+triploid (3n) cell
+trisomic
+trochophore
+trophic
+trophic cascade
+trophic efficiency
+trophic level
+trophoblast
+tropic hormones
+tropomyosin
+troponin
+trypsin
+TSH
+tube feet
+tubulin
+tumor
+tumor necrosis factor
+tumor suppressor
+turgid
+turgor pressure
+twitch
+tympanic membrane
+Type I error
+type I survivorship curve
+Type II error
+type II survivorship curves
+type III survivorship curve
+ubiquitin
+ultimate causes
+uncompetitive inhibitor
+undershoot
+unequal crossing over
+uniporter
+unipotent
+unloading
+unsaturated fatty acid
+upper critical temperature
+upwelling
+uracil;U
+urea
+ureotelic
+ureter
+urethra
+uric acid
+uricotelic
+urinary bladder
+urine
+uterine cycle
+uterus
+vaccination
+vacuole
+vagina
+valence shell
+van der Waals forces
+variable region
+vas deferens
+vasa recta
+vascular bundle
+vascular cambium
+vascular tissue system
+vasopressin
+vector
+vegetal hemisphere
+vegetal pole
+vegetative
+vegetative meristem
+vegetative reproduction
+vein
+ventral
+ventricle
+venule
+vernalization
+vertebral column
+very low-density lipoproteins;VLDLs
+vessel element
+vestibular system
+vestibule
+vicariance
+villi
+virion
+virus
+visceral mass
+vital capacity;VC
+vitamin
+vitelline envelope
+viviparity
+vivipary
+voltage
+voltage-gated channel
+vomeronasal organ;VNO
+waggle dance
+Walter climate diagram
+warning signal
+water potential;&#936;, psi
+water vascular system
+wavelength
+weather
+weathered
+Wernicke's area
+westerlies
+white blood cells
+white matter
+wild type
+wood
+xerophyte
+xylem
+xylem sap
+xylem vessels
+yeasts
+yolk
+yolk sac
+zeatin
+zeaxanthin
+zona pellucida
+zone of cell division
+zone of cell elongation
+zone of maturation
+zygospore
+zygote
+zymogen

@@ -1,0 +1,290 @@
+absolute temperature scale
+absolute zero
+calorie ; cal
+calorimeter
+calorimetry
+Celsius scale
+coefficient of linear expansion
+coefficient of volume expansion
+conduction
+convection
+critical point
+critical pressure
+critical temperature
+degree Celsius
+degree Fahrenheit
+emissivity
+Fahrenheit scale
+heat
+heat of fusion
+heat of sublimation
+heat of vaporization
+heat transfer
+Kelvin scale ; K
+kilocalorie ; kcal
+greenhouse effect
+latent heat coefficient
+mechanical equivalent of heat
+net rate of heat transfer by radiation
+phase diagram
+sublimation
+temperature
+thermal conductivity
+thermal equilibrium
+thermal expansion
+thermal stress
+triple point
+vapor
+vapor pressure
+zeroth law of thermodynamics
+radiation
+rate of conductive heat transfer
+specific heat
+Stefan-Boltzmann law of radiation
+Avogadro’s number
+Boltzmann constant
+critical temperature
+Dalton’s law of partial pressures
+degree of freedom
+equipartition theorem
+Maxwell-Boltzmann distribution
+ideal gas
+ideal gas law
+internal energy
+kinetic theory of gases
+mean free path
+mean free time
+mole
+most probable speed
+partial pressure
+peak speed
+pV diagram
+root-mean-square  speed; rms speed
+supercritical
+universal gas constant
+van der Waals equation of state
+vapor pressure
+adiabatic process
+boundary
+closed system
+cyclic process
+environment
+equation of state
+equilibrium
+extensive variable
+first law of thermodynamics
+intensive variable
+internal energy
+isobaric process
+isochoric process
+isothermal process
+molar heat capacity at constant pressure
+molar heat capacity at constant volume
+open system
+quasi-static process
+reversible process
+surroundings
+thermodynamic process
+thermodynamic system
+Carnot cycle
+Carnot engine
+Carnot principle
+Clausius statement of the second law of thermodynamics
+coefficient of performance
+cold reservoir
+disorder
+efficiency ; e
+entropy
+entropy statement of the second law of thermodynamics
+heat engine
+heat pump
+hot reservoir
+irreversibility
+irreversible process
+isentropic
+Kelvin statement of the second law of thermodynamics
+perfect engine
+perfect refrigerator ; heat pump
+refrigerator
+reversible process
+third law of thermodynamics
+charging by induction
+conduction electron
+conductor
+continuous charge distribution
+coulomb
+Coulomb force
+Coulomb’s law
+dipole
+dipole moment
+electric charge
+induced dipole
+infinite plane
+infinite straight wire
+insulator
+ion
+law of conservation of charge
+linear charge density
+neutron
+permanent dipole
+electric field
+electric force
+electron
+electrostatic attraction
+electrostatic force
+electrostatic repulsion
+electrostatics
+field line
+field line density
+permittivity of vacuum
+polarization
+principle of superposition
+proton
+static electricity
+superposition
+surface charge density
+volume charge density
+area vector
+cylindrical symmetry
+electric flux
+flux
+free electrons
+Gaussian surface
+planar symmetry
+spherical symmetry
+electric dipole
+electric dipole moment
+electric potential
+electric potential difference
+electric potential energy
+electron-volt
+electrostatic precipitators
+equipotential line
+equipotential surface
+grounding
+p→
+d→
+ink jet printer
+photoconductor
+Van de Graaff generator
+voltage
+xerography
+capacitance
+capacitor
+dielectric
+dielectric breakdown
+dielectric constant
+dielectric strength
+energy density
+induced electric-dipole moment
+induced electrical field
+induced surface charges
+parallel combination
+parallel-plate capacitor
+series combination
+ampere ; amp
+circuit
+conventional current
+critical temperature
+current density
+diode
+drift velocity
+electrical conductivity
+electrical current
+electrical power
+Josephson junction
+Meissner effect
+nonohmic
+ohm
+ohmic
+Ohm’s law
+resistance
+resistivity
+schematic
+SQUID
+superconductivity
+ammeter
+electromotive force ; emf
+equivalent resistance
+internal resistance
+junction rule
+Kirchhoff’s rules
+loop rule
+potential difference
+potential drop
+RC circuit
+shock hazard
+terminal voltage
+thermal hazard
+three-wire system
+voltmeter
+cosmic rays
+cyclotron
+dees
+gauss
+Hall effect
+helical motion
+magnetic dipole
+magnetic dipole moment
+magnetic field lines
+magnetic force
+mass spectrometer
+motor ; dc
+north magnetic pole
+right-hand rule-1
+south magnetic pole
+tesla
+velocity selector
+Ampère’s law
+Biot-Savart law
+diamagnetic materials
+ferromagnetic materials
+hysteresis
+paramagnetic materials
+permeability of free space
+solenoid
+toroid
+magnetic domains
+magnetic susceptibility
+back emf
+henry ; H
+inductance
+inductive time constant
+inductor
+LC circuit
+magnetic energy density
+mutual inductance
+RLC circuit
+self-inductance
+ac current
+ac voltage
+alternating current ; ac
+average power
+bandwidth
+capacitive reactance
+direct current ; dc
+impedance
+inductive reactance
+phase angle
+power factor
+quality factor
+resonant frequency
+rms current
+rms voltage
+step-down transformer
+step-up transformer
+transformer
+transformer equation
+displacement current
+gamma ray ;  γ ray
+infrared radiation
+Maxwell’s equations
+microwaves
+Poynting vector
+radar
+radiation pressure
+radio waves
+thermal agitation
+ultraviolet radiation
+visible light
+X-ray

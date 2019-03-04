@@ -1,0 +1,409 @@
+birefringent
+Brewster’s angle
+Brewster’s law
+corner reflector
+critical angle
+Malus’s law
+direction of polarization
+dispersion
+fiber optics
+geometric optics
+horizontally polarized
+Huygens’s principle
+index of refraction
+law of reflection
+law of refraction
+optically active
+polarization
+polarized
+ray
+refraction
+total internal reflection
+unpolarized
+vertically polarized
+wave optics
+aberration
+accommodation
+angular magnification
+apparent depth
+Cassegrain design
+charge-coupled device ; CCD
+coma
+compound microscope
+concave mirror
+converging  lens; or convex lens
+convex mirror
+curved mirror
+diverging  lens; or concave lens
+eyepiece
+far point
+farsightedness ; or hyperopia
+first focus or object focus
+focal length
+focal plane
+focal point
+image distance
+linear magnification
+magnification
+near point
+nearsightedness ; or myopia
+net magnification
+Newtonian design
+object distance
+objective
+optical axis
+optical power
+plane mirror
+ray tracing
+real image
+second focus or image focus
+simple magnifier ; or magnifying glass
+small-angle approximation
+spherical aberration
+thin-lens approximation
+vertex
+virtual image
+coherent waves
+fringes
+incoherent
+interferometer
+monochromatic
+Newton’s rings
+order
+principal maximum
+secondary maximum
+thin-film interference
+Bragg planes
+destructive interference for a single slit
+diffraction
+diffraction grating
+diffraction limit
+hologram
+holography
+missing order
+Rayleigh criterion
+resolution
+two-slit diffraction pattern
+width of the central peak
+X-ray diffraction
+classical  velocity addition; Galilean velocity addition
+event
+first postulate of special relativity
+Galilean relativity
+Galilean transformation
+inertial frame of reference
+length contraction
+Lorentz transformation
+Michelson-Morley experiment
+proper length
+proper time
+Δτ
+relativistic kinetic energy
+p→
+relativistic momentum
+relativistic velocity addition
+rest energy
+p→
+u→
+rest frame
+rest mass
+second postulate of special relativity
+special theory of relativity
+speed of light
+time dilation
+total energy
+world line
+absorber
+absorption spectrum
+Balmer formula
+Balmer series
+blackbody
+blackbody radiation
+Bohr radius of hydrogen
+Bohr’s model of the hydrogen atom
+Brackett series
+Compton effect
+Compton shift
+Compton wavelength
+cut-off frequency
+cut-off wavelength
+Davisson–Germer experiment
+de Broglie wave
+de Broglie’s hypothesis of matter waves
+double-slit interference experiment
+electron microscopy
+emission spectrum
+emitter
+energy of a photon
+energy spectrum of hydrogen
+excited energy states of the H atom
+Fraunhofer lines
+ground state energy of the hydrogen atom
+group velocity
+Heisenberg uncertainty principle
+Humphreys series
+hydrogen-like atom
+inelastic scattering
+ionization energy
+ionization limit of the hydrogen atom
+Lyman series
+nuclear model of the atom
+Paschen series
+Pfund series
+photocurrent
+photoelectric effect
+photoelectrode
+photoelectron
+photon
+Planck’s hypothesis of energy quanta
+postulates of Bohr’s model
+power intensity
+propagation vector
+quantized energies
+quantum number
+quantum phenomenon
+quantum state of a Planck’s oscillator
+reduced Planck’s constant
+Rutherford’s gold foil experiment
+Rydberg constant for hydrogen
+Rydberg formula
+scattering angle
+Stefan–Boltzmann constant
+stopping potential
+wave number
+wave quantum mechanics
+wave-particle duality
+work function
+α -particle
+α -ray
+β-ray
+γ-ray
+anti-symmetric function
+Born interpretation
+complex function
+Copenhagen interpretation
+correspondence principle
+energy levels
+energy quantum number
+energy-time uncertainty principle
+even function
+expectation value
+field emission
+ground state energy
+Heisenberg’s uncertainty principle
+infinite square well
+momentum operator
+nanotechnology
+normalization condition
+odd function
+position operator
+potential barrier
+principal quantum number
+probability density
+quantum dot
+quantum tunneling
+resonant tunneling
+resonant-tunneling diode
+scanning tunneling microscope ; STM
+Schrӧdinger’s time-dependent equation
+Schrӧdinger’s time-independent equation
+standing wave state
+state reduction
+stationary state
+time-modulation factor
+transmission probability
+tunnel diode
+tunneling probability
+wave function
+wave function collapse
+wave packet
+angular momentum orbital quantum number ; l
+angular momentum projection quantum number ; m
+atomic orbital
+Bohr magneton
+braking radiation
+chemical group
+coherent light
+covalent bond
+electron configuration
+fine structure
+fluorescence
+hyperfine structure
+ionic bond
+laser
+magnetic orbital quantum number
+magnetogram
+metastable state
+monochromatic
+Moseley plot
+Moseley’s law
+orbital magnetic dipole moment
+Pauli’s exclusion principle
+population inversion
+principal quantum number ; n
+radial probability density function
+selection rules
+spin projection quantum number ;  ms 
+spin quantum number ; s
+spin-flip transitions
+spin-orbit coupling
+stimulated emission
+transition metal
+valence electron
+Zeeman effect
+acceptor impurity
+amplifier
+base current
+BCS theory
+body-centered cubic ; BCC
+breakdown voltage
+collector current
+conduction band
+Cooper pair
+covalent bond
+critical magnetic field
+critical temperature
+density of states
+depletion layer
+dissociation energy
+donor impurity
+doping
+drift velocity
+electric dipole transition
+electron affinity
+electron number density
+energy band
+energy gap
+equilibrium separation distance
+exchange symmetry
+face-centered cubic ; FCC
+Fermi energy
+Fermi factor
+Fermi temperature
+forward bias configuration
+free electron model
+hole
+hybridization
+impurity atom
+impurity band
+ionic bond
+junction transistor
+lattice
+Madelung constant
+majority carrier
+minority carrier
+n-type semiconductor
+p-n junction
+p-type semiconductor
+polyatomic molecule
+repulsion constant
+reverse bias configuration
+rotational energy level
+selection rule
+semiconductor
+simple cubic
+type I superconductor
+type II superconductor
+valence band
+van der Waals bond
+vibrational energy level
+activity
+alpha  rays; α rays
+alpha decay
+antielectrons
+antineutrino
+atomic mass
+atomic mass unit
+atomic nucleus
+atomic number
+becquerel ; Bq
+beta  rays;  β  rays
+beta decay
+binding energy ; BE
+binding energy per nucleon ; BEN
+breeder reactor
+carbon-14 dating
+chart of the nuclides
+critical mass
+criticality
+curie ; Ci
+daughter nucleus
+decay
+decay series
+fission
+gamma  rays;  γ  rays
+gamma decay
+half-life
+high dose
+isotopes
+lifetime
+liquid drop model
+decay constant
+low dose
+mass defect
+mass number
+moderate dose
+neutrino
+neutron number
+nuclear fusion
+nuclear fusion reactor
+nucleons
+nucleosynthesis
+nuclide
+parent nucleus
+positron
+positron emission tomography ; PET
+proton-proton chain
+radiation dose unit ; rad
+radioactive dating
+radioactive decay law
+radioactive tags
+radioactivity
+radiopharmaceutical
+radius of a nucleus
+relative biological effectiveness ; RBE
+roentgen equivalent man ; rem
+sievert ; Sv
+single-photon-emission computed tomography ; SPECT
+strong nuclear force
+transuranic element
+antiparticle
+baryon number
+baryons
+Big Bang
+boson
+color
+cosmic microwave background radiation ; CMBR
+cosmology
+dark energy
+dark matter
+mesons
+nucleosynthesis
+particle accelerator
+particle detector
+positron
+quantum chromodynamics ; QCD
+quantum electrodynamics ; QED
+electroweak force
+exchange symmetry
+fermion
+Feynman diagram
+fundamental force
+gluon
+grand unified theory
+hadron
+Hubble’s constant
+Hubble’s law
+lepton
+lepton number
+redshift
+Standard Model
+strangeness
+strong nuclear force
+quark
+synchrotron
+synchrotron radiation
+theory of everything
+virtual particle
+W and Z boson
+weak nuclear force

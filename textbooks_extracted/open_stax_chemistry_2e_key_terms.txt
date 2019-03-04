@@ -1,0 +1,774 @@
+accuracy
+atom
+Celsius ; °C
+chemical change
+chemical property
+chemistry
+compound
+cubic centimeter ; cm3 or cc
+cubic meter ; m3
+density
+dimensional analysis
+element
+exact number
+extensive property
+Fahrenheit
+gas
+heterogeneous mixture
+homogeneous mixture
+hypothesis
+intensive property
+kelvin ; K
+kilogram ; kg
+law
+law of conservation of matter
+length
+liquid
+liter ; L
+macroscopic domain
+mass
+matter
+meter ; m
+microscopic domain
+milliliter ; mL
+mixture
+molecule
+physical change
+physical property
+plasma
+precision
+pure substance
+rounding
+scientific method
+second ; s
+SI units ; International System of Units
+significant figures
+solid
+symbolic domain
+temperature
+theory
+uncertainty
+unit
+unit conversion factor
+volume
+weight
+actinide
+alkali metal
+alkaline earth metal
+alpha particle ; α particle
+anion
+atomic mass
+atomic mass unit ; amu
+atomic number ; Z
+binary acid
+binary compound
+cation
+chalcogen
+chemical symbol
+covalent bond
+covalent compound
+Dalton ; Da
+Dalton’s atomic theory
+electron
+empirical formula
+fundamental unit of charge
+group
+halogen
+hydrate
+inert gas
+inner transition metal
+ion
+ionic bond
+ionic compound
+isomers
+isotopes
+lanthanide
+law of constant composition
+law of definite proportions
+law of multiple proportions
+main-group element
+mass number ; A
+metal
+metalloid
+molecular compound
+molecular formula
+monatomic ion
+neutron
+noble gas
+nomenclature
+nonmetal
+nucleus
+oxyacid
+oxyanion
+period
+periodic law
+periodic table
+pnictogen
+polyatomic ion
+proton
+representative element
+series
+spatial isomers
+structural formula
+structural isomer
+transition metal
+unified atomic mass unit ; u
+aqueous solution
+Avogadro’s number ; NA
+concentrated
+concentration
+dilute
+dilution
+dissolved
+empirical formula mass
+formula mass
+mass percentage
+mass-volume percent
+molar mass
+molarity ; M
+mole
+parts per billion ; ppb
+parts per million ; ppm
+percent composition
+solute
+solvent
+volume percentage
+acid
+acid-base reaction
+actual yield
+analyte
+balanced equation
+base
+buret
+chemical equation
+coefficient
+combustion analysis
+combustion reaction
+complete ionic equation
+end point
+equivalence point
+excess reactant
+gravimetric analysis
+half-reaction
+indicator
+insoluble
+limiting reactant
+molecular equation
+net ionic equation
+neutralization reaction
+oxidation
+oxidation number
+oxidation-reduction reaction
+oxidizing agent
+percent yield
+precipitate
+precipitation reaction
+product
+quantitative analysis
+reactant
+reducing agent
+reduction
+salt
+single-displacement reaction
+solubility
+soluble
+spectator ion
+stoichiometric factor
+stoichiometry
+strong acid
+strong base
+theoretical yield
+titrant
+titration analysis
+weak acid
+weak base
+bomb calorimeter
+calorie ; cal
+calorimeter
+calorimetry
+chemical thermodynamics
+endothermic process
+energy
+enthalpy ; H
+enthalpy change ; ΔH
+exothermic process
+expansion work ; pressure-volume work
+first law of thermodynamics
+heat ; q
+heat capacity ; C
+Hess’s law
+hydrocarbon
+internal energy ; U
+joule ; J
+kinetic energy
+nutritional calorie ; Calorie
+potential energy
+specific heat capacity ; c
+standard enthalpy of combustion ; ΔHc° 
+standard enthalpy of formation ; ΔHf° 
+standard state
+state function
+surroundings
+system
+temperature
+thermal energy
+thermochemistry
+work ; w
+amplitude
+atomic orbital
+Aufbau principle
+blackbody
+Bohr’s model of the hydrogen atom
+continuous spectrum
+core electron
+covalent radius
+d orbital
+degenerate orbitals
+effective nuclear charge
+electromagnetic radiation
+electromagnetic spectrum
+electron affinity
+electron configuration
+electron density
+excited state
+f orbital
+frequency ; ν
+ground state
+Heisenberg uncertainty principle
+hertz ; Hz
+Hund’s rule
+intensity
+interference pattern
+ionization energy
+isoelectronic
+line spectrum
+magnetic quantum number ; ml
+node
+orbital diagram
+p orbital
+Pauli exclusion principle
+photon
+principal quantum number ; n
+quantization
+quantum mechanics
+quantum number
+s orbital
+secondary  quantum number ; angular momentum quantum number 
+shell
+spin quantum number ; ms
+standing wave
+subshell
+valence electrons
+valence shell
+wave
+wave-particle duality
+wavefunction ; ψ
+wavelength ; λ
+axial position
+bond angle
+bond dipole moment
+bond distance
+bond energy
+bond length
+Born-Haber cycle
+covalent bond
+dipole moment
+double bond
+electron-pair geometry
+electronegativity
+equatorial position
+formal charge
+free radical
+hypervalent molecule
+inert pair effect
+ionic bond
+lattice energy ; ΔHlattice
+Lewis structure
+Lewis symbol
+linear
+lone pair
+molecular structure
+molecular structure
+octahedral
+octet rule
+polar covalent bond
+polar molecule
+pure covalent bond
+resonance
+resonance forms
+resonance hybrid
+single bond
+tetrahedral
+trigonal bipyramidal
+trigonal planar
+triple bond
+valence shell electron-pair repulsion theory ; VSEPR
+vector
+antibonding orbital
+bond order
+bonding orbital
+degenerate orbitals
+diamagnetism
+homonuclear diatomic molecule
+hybrid orbital
+hybridization
+linear combination of atomic orbitals
+molecular orbital
+molecular orbital diagram
+molecular orbital theory
+node
+overlap
+paramagnetism
+pi bond ; π bond
+s-p mixing
+sigma bond ; σ bond
+sp hybrid orbital
+sp2 hybrid orbital
+sp3 hybrid orbital
+sp3d hybrid orbital
+sp3d2 hybrid orbital
+valence bond theory
+π bonding orbital
+π* bonding orbital
+σ bonding orbital
+σ* bonding orbital
+absolute zero
+Amontons’s law
+atmosphere ; atm
+Avogadro’s law
+bar
+barometer
+Boyle’s law
+Charles’s law
+compressibility factor ; Z
+Dalton’s law of partial pressures
+diffusion
+effusion
+Graham’s law of effusion
+hydrostatic pressure
+ideal gas
+ideal gas constant ; R
+ideal gas law
+kinetic molecular theory
+manometer
+mean free path
+mole fraction ; X
+partial pressure
+pascal ; Pa
+pounds per square inch ; psi
+pressure
+rate of diffusion
+root mean square velocity ; urms
+standard conditions of temperature and pressure ; STP
+standard molar volume
+torr
+van der Waals equation
+vapor pressure of water
+adhesive force
+amorphous solid
+body-centered cubic  solid; BCC solid
+body-centered cubic unit cell
+boiling point
+Bragg equation
+capillary action
+Clausius-Clapeyron equation
+cohesive force
+condensation
+coordination number
+covalent network solid
+critical point
+crystalline solid
+cubic closest packing ; CCP
+deposition
+diffraction
+dipole-dipole attraction
+dispersion force
+dynamic equilibrium
+face-centered cubic  solid; FCC solid
+face-centered cubic unit cell
+freezing
+freezing point
+hexagonal closest packing ; HCP
+hole
+hydrogen bonding
+induced dipole
+instantaneous dipole
+intermolecular force
+interstitial sites
+ionic solid
+isomorphous
+melting
+melting point
+metallic solid
+molecular solid
+normal boiling point
+octahedral hole
+phase diagram
+polarizability
+simple cubic structure
+simple cubic unit cell
+space lattice
+sublimation
+supercritical fluid
+surface tension
+tetrahedral hole
+triple point
+unit cell
+vacancy
+van der Waals force
+vapor pressure
+vaporization
+viscosity
+X-ray crystallography
+alloy
+amphiphilic
+boiling point elevation
+boiling point elevation constant
+colligative property
+colloid
+crenation
+dispersed phase
+dispersion medium
+dissociation
+electrolyte
+emulsifying agent
+emulsion
+freezing point depression
+freezing point depression constant
+gel
+hemolysis
+Henry’s law
+hypertonic
+hypotonic
+ideal solution
+immiscible
+ion pair
+ion-dipole attraction
+isotonic
+miscible
+molality ; m
+nonelectrolyte
+osmosis
+osmotic pressure ; Π
+partially miscible
+Raoult’s law
+saturated
+semipermeable membrane
+solubility
+solvation
+spontaneous process
+strong electrolyte
+supersaturated
+suspension
+Tyndall effect
+unsaturated
+van’t Hoff factor ; i
+weak electrolyte
+activated complex
+activation energy ; Ea
+Arrhenius equation
+average rate
+bimolecular reaction
+catalyst
+collision theory
+elementary reaction
+frequency factor ; A
+half-life of a reaction ; tl/2
+heterogeneous catalyst
+homogeneous catalyst
+initial rate
+instantaneous rate
+integrated rate law
+intermediate
+method of initial rates
+molecularity
+overall reaction order
+rate constant ; k
+rate expression
+rate law
+rate of reaction
+rate-determining step
+reaction diagram
+reaction mechanism
+reaction order
+termolecular reaction
+unimolecular reaction
+equilibrium
+equilibrium constant ; K
+heterogeneous equilibria
+homogeneous equilibria
+law of mass action
+Le Châtelier’s principle
+reaction quotient ; Q
+reversible reaction
+acid ionization
+acid ionization constant ; Ka
+acid-base indicator
+acidic
+amphiprotic
+amphoteric
+autoionization
+base ionization
+base ionization constant ; Kb
+basic
+Brønsted-Lowry acid
+Brønsted-Lowry base
+buffer
+buffer capacity
+color-change interval
+conjugate acid
+conjugate base
+diprotic acid
+diprotic base
+Henderson-Hasselbalch equation
+ion-product constant for water ; Kw
+leveling effect
+monoprotic acid
+neutral
+oxyacid
+percent ionization
+pH
+pOH
+stepwise ionization
+titration curve
+triprotic acid
+common ion effect
+complex ion
+coordinate covalent bond
+coupled equilibria
+dissociation constant
+Kd
+formation constant
+Kf
+Lewis acid
+Lewis acid-base adduct
+Lewis acid-base chemistry
+Lewis base
+ligand
+molar solubility
+selective precipitation
+solubility product constant ; Ksp
+entropy ; S
+Gibbs free energy change ; G
+microstate
+nonspontaneous process
+reversible process
+second law of thermodynamics
+spontaneous change
+standard entropy ; S°
+standard entropy change ; ΔS°
+standard free energy change ; ΔG°
+standard free energy of formation ; ΔGf° 
+third law of thermodynamics
+active electrode
+alkaline battery
+anode
+battery
+cathode
+cathodic protection
+cell notation ; schematic
+cell potential ; Ecell
+concentration cell
+corrosion
+dry cell
+electrode potential ; EX
+electrolysis
+electrolytic cell
+Faraday’s constant ; F
+fuel cell
+galvanic  cell; voltaic cell
+galvanization
+half cell
+inert electrode
+lead acid battery
+lithium ion battery
+Nernst equation
+nickel-cadmium battery
+primary cell
+sacrificial anode
+salt bridge
+secondary cell
+standard cell potential ; Ecell° 
+standard electrode potential EX° ;  EX° 
+standard hydrogen electrode ; SHE
+acid anhydride
+alkaline earth metal
+allotropes
+amorphous
+base anhydride
+bicarbonate anion
+bismuth
+borate
+carbonate
+chemical reduction
+chlor-alkali process
+disproportionation reaction
+Downs cell
+Frasch process
+Haber process
+halide
+Hall–Héroult cell
+hydrogen carbonate
+hydrogen halide
+hydrogen sulfate
+hydrogen sulfite
+hydrogenation
+hydroxide
+interhalogen
+metal ; representative
+metalloid
+nitrate
+nitrogen fixation
+Ostwald process
+oxide
+ozone
+passivation
+peroxide
+photosynthesis
+Pidgeon process
+polymorph
+representative element
+representative metal
+silicate
+sulfate
+sulfite
+superoxide
+actinide series
+bidentate ligand
+central metal
+chelate
+chelating ligand
+cis configuration
+coordination compound
+coordination compound
+coordination number
+coordination sphere
+crystal field splitting ; Δoct
+crystal field theory
+d-block element
+donor atom
+eg orbitals
+f-block element
+first transition series
+fourth transition series
+geometric isomers
+high-spin complex
+hydrometallurgy
+ionization isomer
+lanthanide series
+ligand
+linkage isomer
+low-spin complex
+monodentate
+optical isomer
+pairing energy ; P
+platinum metals
+polydentate ligand
+rare earth element
+second transition series
+smelting
+spectrochemical series
+steel
+strong-field ligand
+superconductor
+t2g orbitals
+third transition series
+trans configuration
+weak-field ligand
+addition reaction
+alcohol
+aldehyde
+alkane
+alkene
+alkyl group
+alkyne
+amide
+amine
+aromatic hydrocarbon
+carbonyl group
+carboxylic acid
+ester
+ether
+functional group
+ketone
+organic compound
+saturated hydrocarbon
+skeletal structure
+substituent
+substitution reaction
+alpha  decay; α decay
+alpha particle
+4He
+4α
+antimatter
+band of stability
+becquerel ; Bq
+beta  decay; β decay
+beta particle
+−1
+0 e
+−1
+0 β
+binding energy per nucleon
+chain reaction
+chemotherapy
+containment system
+control rod
+critical mass
+curie ; Ci
+daughter nuclide
+electron capture
+electron volt ; eV
+external beam radiation therapy
+fissile ; or fissionable
+fission
+fusion
+fusion reactor
+gamma  emission; γ emission
+gamma ray
+0γ
+Geiger counter
+gray ; Gy
+half-life ; t1/2
+internal radiation therapy
+ionizing radiation
+magic number
+mass defect
+mass-energy equivalence equation
+millicurie ; mCi
+nonionizing radiation
+nuclear binding energy
+nuclear chemistry
+nuclear fuel
+nuclear moderator
+nuclear reaction
+nuclear reactor
+nuclear transmutation
+nucleon
+nuclide
+parent nuclide
+particle accelerator
+positron
+0 β or +1
+0 e
+positron emission
+radiation absorbed dose ; rad
+radiation dosimeter
+radiation therapy
+radioactive decay
+radioactive decay series
+radioactive tracer
+radioactivity
+radiocarbon dating
+radioisotope
+radiometric dating
+reactor coolant
+relative biological effectiveness ; RBE
+roentgen equivalent man ; rem
+scintillation counter
+sievert ; Sv
+strong nuclear force
+subcritical mass
+supercritical mass
+transmutation reaction
+transuranium element

@@ -1,0 +1,1669 @@
+454 sequencing  ; pyrosequencing 
+5’ cap
+70S ribosome
+80S ribosome
+α-helix
+A  site ; aminoacyl site 
+A-B exotoxin
+ABO blood group system
+absorbance
+Acanthamoeba keratitis
+acellular
+acid-fast stain
+acidic dye
+acidophile
+acne
+acquired immunodeficiency syndrome ; AIDS
+actin
+activation energy
+activator
+active carrier
+active immunity
+active site
+acute disease
+acute glomerulonephritis
+acute necrotizing ulcerative gingivitis
+acute otitis media
+acute rheumatic fever
+acute-phase proteins
+acyclovir
+adaptive immunity
+Addison disease
+adenine
+adenosine diphosphate  ; ADP 
+adenosine monophosphate  ; AMP 
+adenosine triphosphate  ; ATP 
+adhesins
+adhesion
+aerobic respiration
+aerotolerant anaerobe
+affinity maturation
+affinity
+aflatoxin
+African sleeping sickness
+agarose gel electrophoresis
+agglutination
+agranulocytes
+alarmone
+albendazole
+algae
+alkaliphile
+alkylating agent
+allergen
+allergy
+allograft
+allosteric activator
+allosteric site
+allylamines
+Alphaproteobacteria
+alveoli
+amantadine
+amensalism
+Ames test
+amino acid
+aminoacyl-tRNA synthetase
+aminoglycosides
+amoebiasis
+amoebic dysentery
+amphipathic
+amphitrichous
+amphotericin B
+amplitude
+anabolism
+anaerobe chamber
+anaerobe jar
+anaerobic respiration
+analytical epidemiology
+anaphylactic shock
+anaphylaxis
+anergy
+annealing
+anoxygenic photosynthesis
+anthrax
+antibiogram
+antibiotic-associated diarrhea
+antibody screen
+antibody
+antibody-dependent cell-mediated cytotoxicity
+ ; ADCC 
+anticodon
+antigen  ; also, immunogen 
+antigenic
+antigenic drift
+antigenic shift
+antigenic variation
+antigen-presenting cells  ; APC 
+antimetabolites
+antimicrobial drugs
+antimicrobial peptides  ; AMPs 
+antiparallel
+antisense RNA
+antisense strand
+antisepsis
+antiseptic
+antiserum
+apoenzyme
+apoptosis
+arachnoid mater
+arboviral encephalitis
+arbovirus
+archaea
+Archaea
+artemisinin
+artery
+Arthus reaction
+artificial active immunity
+artificial passive immunity
+ascariasis
+ascocarps
+ascospore
+ascus
+asepsis
+aseptic technique
+aspergillosis
+asymptomatic carrier
+asymptomatic
+atomic force microscope
+ATP synthase
+attachment
+attenuation
+autoclave
+autocrine function
+autograft
+autoimmune disease
+autoinducer
+autoradiography
+autotroph
+auxotroph
+avidity
+axon
+azithromycin
+β-lactamases
+β-lactams
+β-oxidation
+β-pleated sheet
+B-cell receptors  ; BCRs 
+B lymphocyte
+babesiosis
+bacillary dysentery
+bacillus
+bacitracin
+bacteremia
+bacteria
+bacterial lawn
+bacterial meningitis
+bacterial vaginosis
+bactericidal
+bactericide
+bacteriochlorophylls
+bacteriology
+bacteriophage
+bacteriostatic
+barophile
+basal body
+base sequence
+basic dye
+basidia  ; basidium, sing. 
+basidiocarps
+basidiospores
+basophils
+benzimidazoles
+Betaproteobacteria
+binary fission
+binocular
+binomial nomenclature
+biofilm
+biogeochemical cycle
+bioinformatics
+biological transmission
+biological vector
+biomarker
+biomolecule
+bioremediation
+biosynthesis
+biotechnology
+bisbiguanide
+blastomycosis
+blepharitis
+blocking antibodies
+blood-brain barrier
+blue-white screening
+blunt ends
+botulism
+bradykinin
+bridge reaction
+brightfield microscope
+broad-spectrum antimicrobial
+bronchi
+bronchioles
+bronchitis
+brucellosis
+bubo
+bubonic plague
+budding
+budding yeasts
+Burkitt lymphoma
+burst
+burst size
+Calvin-Benson cycle
+Campylobacter jejuni gastroenteritis
+candidiasis
+candle jar
+capillary
+capnophile
+capsid
+capsomere
+capsule staining
+capsule
+carbapenem-resistant Enterobacteriaceae ; CRE
+carbohydrate
+carbon skeleton
+carboxysome
+carbuncle
+carcinogen
+case-control study
+catabolic activator protein /cAMP receptor; CAP/cAMP receptor
+protein  ; CRP 
+catabolism
+catabolite repression
+catalase
+catalyst
+catarrhal stage
+cat-scratch disease
+causative agent
+CCA amino acid binding end
+celiac disease
+cell envelope
+cell membrane
+cell morphology
+cell theory
+cell wall
+cellular immunity
+cellulitis
+cellulose
+Centers for Disease Control and Prevention
+ ; CDC 
+central dogma
+central nervous system  ; CNS 
+central tolerance
+centriole
+centrosome
+cephalosporins
+cercarial dermatitis
+cerebrospinal fluid  ; CSF 
+cervix
+CFB group
+Chagas disease
+chancroid
+charged tRNA
+chemical mediators
+chemically defined media
+chemiosmosis
+chemokines
+chemotaxis
+chemotroph
+chickenpox
+chikungunya fever
+chirality
+chitin
+chlamydia
+chloramphenicol
+chlorophyll
+chloroplast
+cholera
+chromatin
+chromogenic substrate
+chromophores
+chromosome
+chronic disease
+chronic granulomatous disease
+chronic wasting disease
+cilia  ; singular: cilium 
+ciliated epithelial cells
+ciliates
+cisternae
+citric acid cycle
+class switching
+clindamycin
+clone
+Clostridium perfringens gastroenteritis
+clusters of differentiation  ; CD 
+coagulase
+coarse focusing knob
+coccidioidomycosis
+codon
+coenocyte
+coenocytic hyphae
+coenzyme
+cofactor
+cognate amino acid
+cohort method
+colistin
+colitis
+collagenase
+colony-forming unit  ; CFU 
+commensalism
+commercial sterilization
+common cold
+common source spread
+communicable
+community
+competitive inhibitor
+competitive interactions
+complement activation
+complement fixation test
+complement system
+complementary base pairs
+complementary DNA  ; cDNA 
+complex media
+complex virus
+compound microscope
+condenser lens
+conditional mutation
+confocal microscope
+conidia
+conjugate vaccine
+conjugated protein
+conjugation
+conjugation pilus  ; sex pilus 
+conjunctiva
+conjunctivitis
+constitutively expressed
+contact dermatitis
+contact
+contact transmission
+contagious
+continuous cell line
+continuous common source spread
+contractile vacuoles
+contrast
+convalescence stage
+Coombs’ reagent
+cooperative interactions
+cortex
+counterstain
+crenation
+Creutzfeldt-Jakob disease
+crisis phase
+critical item
+cross-match
+cross-presentation
+cross-resistance
+cross-sectional study
+crustose lichens
+cryptococcosis
+cryptosporidiosis
+culture density
+culture medium
+cutaneous mycosis
+cyanobacteria
+cyclic AMP  ; cAMP 
+cyclic photophosphorylation
+cyclosporiasis
+cystic echinococcosis
+cysticerci
+cystitis
+cysts
+cytochrome oxidase
+cytokine storm
+cytokines
+cytomegalovirus  infection ; CMV infection 
+cytopathic effect
+cytoplasm
+cytoplasmic membrane
+cytoproct
+cytosine
+cytoskeleton
+cytostome
+cytotoxic T cells
+cytotoxicity
+dacryocystitis
+daptomycin
+darkfield microscope
+death phase  ; decline phase 
+decimal reduction time  ; DRT 
+D-value
+decolorizing agent
+deeply branching bacteria
+definitive host
+degeneracy
+degerming
+degranulation
+dehydration synthesis
+deletion
+Deltaproteobacteria
+denatured protein
+dendrites
+dengue fever
+dental calculus
+dental caries
+deoxyribonucleic acid  ; DNA 
+deoxyribonucleotides
+dermatophyte
+dermis
+descriptive epidemiology
+desensitization
+desiccation
+desquamation
+diapedesis
+diaphragm
+differential interference-contrast microscope
+differential media
+differential staining
+diffraction
+dikaryotic
+dimorphic fungus
+dioecious
+diphtheria
+diploid
+direct agglutination assay
+direct antihuman globulin test  ; DAT 
+direct contact transmission
+direct Coombs’ test
+direct ELISA
+direct fluorescent antibody  test ; DFA test 
+direct hemagglutination assay
+direct microscopic cell count
+direct repair ; light repair or photoreactivation
+disaccharide
+disease
+disinfectant
+disinfection
+disk-diffusion method
+dispersion
+disulfide bridge
+DNA gyrase  ; topoisomerase II 
+DNA ligase
+DNA packaging
+DNA polymerase
+DNA primers
+DNA probe
+DNAse
+dosage
+double immunodiffusion
+doubling time
+droplet transmission
+drug resistance
+dry-heat sterilization
+dura mater
+dynein
+dysentery
+dysuria
+E  site ; exit site 
+East African trypanosomiasis
+eastern equine encephalitis
+Ebola virus disease  ; EVD 
+eclipse phase
+ectoplasm
+edema
+effector cells
+electron carrier
+electron microscope
+electron transport system  ; ETS 
+electroporation
+elementary bodies
+elongation in DNA replication
+elongation in transcription
+elongation of translation
+Embden-Meyerhof-Parnas  pathway ; EMP pathway 
+emerging infectious disease
+enantiomers
+encephalitis
+encystment
+endemic disease
+endergonic reaction
+endocarditis
+endocrine function
+endocytosis
+endomembrane system
+endoplasm
+endoplasmic reticulum
+endospore
+endospore staining
+endosymbiotic theory
+endothelia
+endotoxin
+enriched media
+enrichment culture
+enteric
+enteritis
+enterobiasis
+enterohemorrhagic E. coli  ; EHEC 
+enteroinvasive E. coli  ; EIEC 
+enteropathogenic E. coli  ; EPEC 
+enterotoxigenic E. coli  ; ETEC 
+enterotoxin
+Entner-Doudoroff  pathway ; ED pathway 
+enveloped virus
+enzyme
+enzyme immunoassay  ; EIA 
+enzyme-linked immunosorbent assay ; ELISA
+eosinophils
+epidemic disease
+epidemic typhus
+epidemiology
+epidermis
+epididymis
+epididymitis
+epigenetic regulation
+epiglottis
+epiglottitis
+epiphyte
+epitope
+Epsilonproteobacteria
+equivalence zone
+erysipelas
+erythema nodosum
+erythema
+erythrocyte
+erythrogenic toxin
+erythromycin
+eschar
+Etest
+etiologic agent
+etiology
+Eukarya
+eukaryote
+eukaryotic cell
+eustachian tube
+eutrophs
+excystment
+exergonic reaction
+exocytosis
+exoenzyme
+exon
+exonuclease
+exotoxin
+experimental epidemiology
+experimental study
+exposure
+extended-spectrum β-lactamases  ; ESBLs 
+extensively drug resistant Mycobacterium
+tuberculosis  ; XDR-TB 
+extracellular matrix
+extracellular polymeric substances  ; EPS 
+extrachromosomal DNA
+extravasation
+F–  cell ; recipient cell 
+F pilus  ; F pili 
+F plasmid  ; fertility factor 
+F’ plasmid
+F+  cell ; donor cell 
+Fab region
+facultative anaerobe
+false negative
+false positive
+fastidious organism
+fatty acid
+fatty acid methyl ester  analysis ; FAME analysis 
+Fc region
+feedback inhibition
+fermentation
+fever
+fifth disease
+fimbriae
+fine focusing knob
+fixation
+flagella
+flagella staining
+flagellum  ; eukaryotic 
+flavin adenine dinucleotide ; FAD/FADH2
+flocculant
+flow cytometry
+fluconazole
+fluid mosaic model
+flukes
+fluorescence microscope
+fluorescence-activated cell sorter ; FACS
+fluorescent antibody  techniques ; FA techniques 
+fluorescent enzyme immunoassay  ; FEIA 
+fluorescent
+fluorochromes
+fluorogen
+fluorophore
+fluoroquinolones
+focal infection
+focal length
+focal point
+foliose lichens
+folliculitis
+fomite
+foodborne disease
+fragmentation
+frameshift mutation
+free ribosome
+frequency
+fruticose lichens
+functional groups
+fungi
+fungicide
+fungistatic
+furuncle
+fusion inhibitor
+Gammaproteobacteria
+gas gangrene
+gastritis
+gastroenteritis
+gene expression
+gene gun
+gene silencing
+gene therapy
+generalized transduction
+generation time
+genes
+genetic code
+genetic engineering
+genital herpes
+genital warts
+genome
+genomic library
+genomics
+genotype
+germ theory of disease
+germination
+Ghon complex
+giardiasis
+gingivitis
+glial cell
+glomerulonephritis
+glomerulus
+glycocalyx
+glycogen
+glycolipid
+glycolysis
+glycopeptides
+glycoprotein
+glycosidic bond
+Golgi apparatus
+gonorrhea
+graft-versus-host disease
+Gram stain procedure
+granulocytes
+granuloma
+granulomatous amoebic encephalitis ; GAE
+granzymes
+Graves disease
+green nonsulfur bacteria
+green sulfur bacteria
+growth curve
+guanine
+Guillain-Barré syndrome
+gummas
+hair follicle
+halophile
+halotolerant
+Hansen’s Disease
+hantavirus pulmonary syndrome
+haploid
+hapten
+hard chancre
+Hashimoto thyroiditis
+healthcare-associated infection  ; HAI 
+heavy chains
+helical virus
+helicase
+helminth
+helper T cells
+hemagglutination
+hematopoiesis
+hematuria
+hemolysin
+hemolytic disease of the newborn  ; HDN 
+hemolytic transfusion reaction  ; HTR 
+hemorrhagic fever with renal syndrome
+HEPA filter
+hepatitis
+herd immunity
+herpes keratitis
+herpes simplex virus type 2  ; HSV-2 
+herpetic gingivostomatitis
+heterolactic fermentation
+heterotroph
+hexose monophosphate shunt
+Hfr cell
+high G+C gram-positive bacteria
+high-energy phosphate bond
+histamine
+histones
+histoplasmosis
+holoenzyme
+holozoic
+homolactic fermentation
+hookworm infection
+horizontal direct transmission
+horizontal gene transfer
+host range
+HTST
+human African trypanosomiasis
+human granulocytic anaplasmosis
+human immunodeficiency virus  ; HIV 
+human papillomavirus  ; HPV 
+humanized monoclonal antibodies
+humoral immunity
+hyaluronidase
+hybridization
+hybridoma
+hydatid disease
+hydrophilic
+hydrophobic
+hypersensitivity pneumonitis  ; HP 
+hypersensitivity
+hyperthermophile
+hypertonic medium
+hyphae
+hypodermis
+hypotonic medium
+iatrogenic disease
+icosahedral
+IgA
+IgD
+IgE
+IgG
+IgM
+illuminator
+image point  ; focus 
+imidazoles
+immune complex
+immunochromatographic assay
+immunocytochemistry  ; ICC 
+immunoelectrophoresis  ; IEP 
+immunofiltration
+immunofluorescence
+immunoglobulin
+immunohistochemistry  ; IHC 
+immunology
+immunostain
+impetigo
+in vitro
+in vivo
+inactivated vaccine
+incidence
+inclusion conjunctivitis
+inclusions
+incubation period
+indirect agglutination assay
+indirect antiglobulin test  ; IAT 
+indirect contact transmission
+indirect Coombs’ test
+indirect ELISA
+indirect fluorescent antibody test
+induced mutation
+inducer
+inducible operon
+induction
+infection
+infectious arthritis  ; septic arthritis 
+infectious disease
+infectious mononucleosis
+inflammation
+influenza
+initiation factors
+initiation of DNA replication
+initiation of transcription
+initiation of translation
+inoculum
+inorganic phosphate  ; Pi 
+insertion
+integrase inhibitors
+intercalating agent
+interference
+interferons
+interleukins
+intermediate filament
+intermediate host
+intermittent common source spread
+intertrigo
+intestinal fluke
+intracellular targeting toxin
+intrinsic growth rate
+intron
+intubation
+in-use test
+invasion
+iodophor
+ionizing radiation
+ischemia
+isograft
+isohemagglutinins
+isomers
+isoniazid
+isoprenoid
+isotonic medium
+ivermectin
+Japanese encephalitis
+jaundice
+keratin
+keratitis
+keratoconjunctivitis
+kidney
+Kinyoun technique
+Kirby-Bauer disk diffusion test
+Koplik’s spots
+Krebs cycle
+kuru
+lacrimal duct
+lacrimal gland
+lacrimal punctum
+lacrimal sac
+lag period
+lag phase
+lagging strand
+laryngitis
+laryngopharynx
+larynx
+latent disease
+latent virus
+lateral flow test
+leading strand
+Legionnaires disease
+leishmaniasis
+leprosy
+leptospirosis
+leukocidin
+leukocytes
+leukotrienes
+lichen
+ligation
+light chains
+light-dependent reaction
+light-harvesting complex
+light-independent reaction
+lincomycin
+lincosamides
+linked recognition
+lipase
+lipid bilayer
+lipid
+lipopolysaccharide  ; LPS 
+lipoprotein
+listeriosis
+lithotroph
+live attenuated vaccine
+liver fluke
+local infection
+log phase
+loiasis
+lophotrichous
+low G+C gram-positive bacteria
+lumen
+Lyme disease
+lymph nodes
+lymphadenitis
+lymphangitis
+lymphogranuloma venereum
+lyophilization
+lysis
+lysogen
+lysogenic conversion  ; phage conversion 
+lysogenic cycle
+lysogeny
+lysosome
+lytic cycle
+M protein
+macrolides
+macromolecule
+macronucleus
+macronutrient
+macrophages
+mad cow disease
+magnetosomes
+magnetotaxis
+magnification
+major histocompatibility complex ; MHC
+malaise
+malaria
+mast cells
+matrix assisted laser desorption/ionization time of
+flight mass spectrometry ; MALDI-TOF
+maturation
+mature naïve T cell
+maximum growth pH
+maximum growth temperature
+maximum permissible oxygen concentration
+measles
+mebendazole
+mechanical transmission
+mechanical vector
+median infectious dose  ; ID50 
+median lethal dose  ; LD50 
+medulla
+membrane attack complex  ; MAC 
+membrane filtration
+membrane filtration technique
+membrane-bound ribosome
+membrane-disrupting toxin
+memory B cell
+memory helper T cell
+memory
+meninges
+meningitis
+meningococcal meningitis
+meningoencephalitis
+MERS
+mesophile
+metabolism
+metachromatic granule
+metagenomics
+metatranscriptomics
+methanogen
+methicillin-resistant Staphylococcus aureus
+ ; MRSA 
+metronidazole
+MHC I molecule
+MHC II molecule
+micelle
+microaerophile
+microarray analysis
+microbe
+microbial death curve
+microbial ecology
+microbiome
+microfilament
+microinjection
+micronucleus
+micronutrient
+microorganism
+microsporidia
+microtiter plates
+microtubule
+miliary tuberculosis
+minimal bactericidal concentration  ; MBC 
+minimal inhibitory concentration  ; MIC 
+minimum growth pH
+minimum growth temperature
+minimum permissible oxygen concentration
+missense mutation
+mitochondrial matrix
+mitochondrion  ; plural: mitochondria 
+mode of action
+moist-heat sterilization
+mold
+molecular cloning
+monoclonal antibodies  ; mAbs 
+monocular
+monocytes
+monoecious
+monomer
+monosaccharide
+monotrichous
+morbidity
+Morbidity and Mortality Weekly Report ; MMWR
+morbidity rate
+mordant
+mortality
+mortality rate
+most probable number  ; MPN 
+mRNA
+mucociliary escalator
+mucormycosis
+mucous membrane
+mucus
+multidrug-resistant microbes  ; MDR 
+multidrug-resistant Mycobacterium tuberculosis
+ ; MDR-TB 
+multiple sclerosis
+mumps
+murine typhus
+mutagen
+mutant
+mutation
+mutualism
+myasthenia gravis
+mycelium
+mycolic acids
+mycology
+Mycoplasma pneumonia
+mycoses  ; mycosis, sing. 
+mycotoxin
+myelin sheath
+myocarditis
+naïve mature B cell
+naked virus
+nalidixic acid
+narrow-spectrum antimicrobial
+nasal cavity
+nasolacrimal duct
+nasolacrimal duct
+nasopharynx
+native structure
+natural active immunity
+natural antibiotic
+natural killer cells  ; NK cells 
+natural passive immunity
+necrotizing fasciitis
+negative  single-strand RNA ; – single-strand RNA 
+negative stain
+Nematoda
+neonatal herpes
+neonatal meningitis
+neonatal tetanus
+neurocysticercosis
+neuromycosis
+neuron
+neuropathy
+neurotoxoplasmosis
+neurotransmitter
+neutralism
+neutralization
+neutrophile
+neutrophils
+next generation sequencing
+nicotine adenine dinucleotide ; NAD+/NADH
+nicotine adenine dinucleotide phosphate
+ ; NADP+/NADPH 
+nitrogen fixation
+nitrogenous base
+noncoding DNA
+noncommunicable disease
+noncompetitive  inhibitor ; allosteric inhibitor 
+noncritical item
+noncyclic photophosphorylation
+nonenveloped virus
+nongonococcal urethritis  ; NGU 
+noninfectious disease
+nonionizing radiation
+nonsense mutation
+nontreponemal serologic tests
+northern blot
+nosocomial disease
+notifiable disease
+nuclear envelope
+nuclear lamina
+nucleic acid
+nucleoid
+nucleoid-associated protein  ; NAP 
+nucleolus
+nucleoside analog
+nucleotide excision repair  ; dark repair 
+nucleotide
+nucleus
+numerical aperture
+objective lenses
+obligate aerobe
+obligate anaerobe
+obligate intracellular pathogen
+observational study
+ocular lens
+oil immersion lens
+Okazaki fragment
+oligopeptide
+oligotroph
+opacity
+operator
+operon
+ophthalmia neonatorum
+opisthotonos
+opportunistic pathogen
+opsonin
+opsonization
+optimum growth pH
+optimum growth temperature
+optimum oxygen concentration
+oral herpes
+oral thrush
+orchitis
+organic molecule
+organotroph
+origin of replication
+oropharynx
+osmosis
+osmotic pressure
+osteomyelitis
+otitis externa
+otitis
+otitis media with effusion
+Ouchterlony assay
+outer membrane
+oxazolidinones
+oxidation reaction
+oxidative phosphorylation
+oxygenic photosynthesis
+P  site ; peptidyl site 
+palatine tonsil
+pandemic disease
+papilloma
+paracrine function
+parasitism
+parenteral route
+paroxysmal stage
+passive carrier
+passive immunity
+pasteurization
+pathogen
+pathogen-associated molecular patterns ; PAMPs
+pathogenicity
+pattern recognition receptors  ; PRRs 
+pellicle
+pelvic inflammatory disease  ; PID 
+penetration
+penicillin
+penis
+pentamidine
+pentose phosphate pathway  ; PPP 
+peptic ulcer
+peptide bond
+peptidoglycan  ; murein 
+peptidyl transferase
+perforin
+pericarditis
+period of convalescence
+period of decline
+period of illness
+periodontal disease
+periodontitis
+peripheral nervous system
+peripheral tolerance
+periplasmic space
+peristalsis
+peritrichous
+peroxidase
+peroxisome
+peroxygen
+persister
+pertussis
+pertussis toxin
+petechiae
+Petroff-Hausser counting chamber
+Peyer’s patches
+phagemid
+phagocytosis
+phagolysosome
+phagosome
+pharmacogenomics  ; toxicogenomics 
+pharyngitis
+pharynx
+phase-contrast microscope
+phenol coefficient
+phenolics
+phenotype
+phosphodiester bonds
+phosphogluconate pathway
+phospholipase
+phospholipid
+phospholipid-derived fatty acids  analysis; PLFA analysis
+phosphorescence
+photosynthesis
+photosynthetic pigment
+photosystem
+phototaxis
+phototroph
+phototrophic bacteria
+phylogeny
+phytoplankton
+pia mater
+pili
+pinocytosis
+plague
+plankton
+planktonic
+plantibodies
+plaque
+plasma cell
+plasma
+plasma membrane
+plasmalemma
+plasmid
+plasmolysis
+platelets
+Platyhelminthes
+pleconaril
+pleomorphic
+pneumococcal meningitis
+Pneumocystis pneumonia
+pneumonia
+pneumonic plague
+point mutation
+point source spread
+polar tubule
+poliomyelitis  ; polio 
+poly-A tail
+polyacrylamide gel electrophoresis  ; PAGE 
+polycistronic mRNA
+polyclonal antibodies
+polyenes
+polyhedral virus
+polyhydroxybutyrate  ; PHB 
+polylinker site
+multiple cloning site  ; MCS 
+polymer
+polymerase chain reaction  ; PCR 
+polymorphonuclear neutrophil  ; PMN 
+polymyxins
+polypeptide
+polyphyletic
+polyribosome  ; polysome 
+polysaccharide
+portal of entry
+portal of exit
+positive  strand ; + strand 
+positive stain
+pour plate method
+praziquantel
+precipitin
+precipitin ring test
+prevalence
+primary amoebic meningoencephalitis ; PAM
+primary antibody
+primary cell culture
+primary immunodeficiency
+primary infection
+primary lymphoid tissue
+primary pathogen
+primary response
+primary stain
+primary structure
+protein
+primary transcript
+primase
+primer
+prion
+prodromal period
+progeny virus
+proglottid
+prokaryote
+prokaryotic cell
+promoter
+propagated spread
+prophage
+prospective study
+prostate gland
+prostatitis
+protease
+protease inhibitor
+protein signature
+Proteobacteria
+proteomic analysis
+proteomics
+protists
+proton motive force
+protozoans
+provirus
+pseudohyphae
+pseudomembrane
+pseudomembranous colitis
+pseudopodia
+psittacosis
+psoriasis
+psychrophile
+psychrotroph
+puerperal sepsis
+purines
+purple nonsulfur bacteria
+purple sulfur bacteria
+purulent
+pus
+pyelonephritis
+pyocyanin
+pyoderma
+pyoverdin
+pyrimidines
+pyrophosphate  ; PPi 
+pyuria
+Q fever
+quarantine
+quaternary ammonium salts  ; quats 
+quaternary structure
+quinolines
+quorum sensing
+R plasmid
+rabies
+radial immunodiffusion
+rat-bite fever
+reaction center
+reactivation tuberculosis
+reactive oxygen species  ; ROS 
+reading frame
+real-time PCR  ; quantitative PCR, qPCR 
+receptor-mediated endocytosis
+recognition site
+recombinant DNA molecule
+recombinant DNA pharmaceuticals
+recombinant DNA technology
+redox potential
+redox reaction
+reduction reaction
+reemerging infectious disease
+reflection
+refraction
+refractive index
+regulatory T cells
+rejection
+relapsing fever
+replica plating
+replication bubble
+replication fork
+replication
+reporter genes
+repressible operon
+repressor
+reservoir
+resident microbiota
+resolution
+restriction endonuclease ; restriction enzyme
+restriction fragment length polymorphism
+ ; RFLP 
+retort
+retrospective study
+retrovirus
+reverse transcriptase
+reverse transcriptase inhibitor
+reverse transcriptase PCR  ; RT-PCR 
+Reye syndrome
+Rh factor
+rheostat
+rheumatic fever
+rheumatoid arthritis
+rhinitis
+rhizines
+ribonucleic acid  ; RNA 
+ribonucleotides
+ribosome
+riboswitch
+ribulose bisphosphate carboxylase ; RuBisCO
+rifampin
+rimantadine
+ringworm
+RNA interference  ; RNAi 
+RNA polymerase
+RNA splicing
+RNA transcript
+Rocky Mountain spotted fever
+rogue form
+rolling circle replication
+roseola
+rough endoplasmic reticulum
+route of administration
+rRNA
+rubella
+runs  ; running 
+σ factor
+saccharide
+salmonellosis
+salpingitis
+sandwich ELISA
+Sanger DNA sequencing
+termination method
+sanitization
+saprozoic
+SARS
+saturated fatty acid
+scanning electron microscope  ; SEM 
+scanning probe microscope
+scanning tunneling microscope
+scarlet fever
+schistosomiasis
+schizogony
+scolex
+scrapie
+sebaceous gland
+sebum
+secondary antibody
+secondary immunodeficiency
+secondary infection
+secondary lymphoid tissue
+secondary response
+secondary structure
+secretory vesicle
+selective IgA deficiency
+selective media
+selective toxicity
+semiconservative DNA replication
+semicritical item
+seminal vesicles
+semisynthetic antimicrobial
+sense strand
+sepsis
+septate hyphae
+septic arthritis
+septic shock
+septic
+septicemia
+septicemic plague
+septum
+sequela  ; plural: sequelae 
+serial dilution
+seroconversion
+serotype
+serovar
+serum
+serum sickness
+sessile
+severe combined immunodeficiency disease
+ ; SCID 
+sex pilus
+sheath
+shigellosis
+shingles
+shock
+shuttle vector
+side chain
+sign
+silent mutation
+simple microscope
+simple staining
+single-stranded binding protein
+sinusitis
+S-layer
+slime layer
+smear
+smooth endoplasmic reticulum
+soft chancres
+soma
+sonication
+Southern blot
+specialized transduction
+specificity
+spike
+spirochetes
+spleen
+spliceosome
+spontaneous generation
+spontaneous mutation
+sporadic disease
+spores
+sporotrichosis
+sporulation
+spread plate method
+St. Louis encephalitis
+stage
+staining
+staphylococcal food poisoning
+staphylolysins
+starch
+start codon
+stationary phase
+stereoisomers
+sterilant
+sterile field
+sterilization
+steroid
+sterol
+sticky ends
+stigma
+stop codon  ; nonsense codon 
+stratum corneum
+strep throat  ; streptococcal pharyngitis 
+streptococcal toxic shock-like syndrome ; STSS
+stroma
+strongyloidiasis
+structural formula
+structural isomers
+subacute bacterial endocarditis
+subclinical disease
+subcutaneous mycosis
+substrate
+substrate-level phosphorylation
+subunit vaccine
+sugar-phosphate backbone
+sulfonamides  ; sulfa drugs 
+superantigen
+supercoiled
+supercoiling
+supercritical fluid
+superinfection
+superoxide dismutase
+suppurative
+surfactant
+sweat gland
+symbiosis
+symptom
+synapse
+syncytia
+syndrome
+syngamy
+synthetic antimicrobial
+syphilis
+systemic autoimmune disease
+systemic infection
+systemic inflammatory response syndrome ; SIRS
+systemic lupus erythematosus  ; SLE 
+systemic mycosis
+T-cell receptors  ; TCR 
+T lymphocyte
+taeniasis
+tail fiber
+tail pins
+tapeworms
+tartar
+T-dependent antigen
+TDP
+TDT
+telomerase
+telomere
+temperate phage
+teratogenic
+terbinafine
+termination of DNA replication
+termination of transcription
+termination of translation
+tertiary structure
+test sensitivity
+test specificity
+testes
+tetanus
+tetracyclines
+TH1 cells
+TH17 cells
+TH2 cells
+thallus
+thermophile
+thin sections
+thioglycolate medium
+thioglycolate tube culture
+thrombocytes
+thylakoids
+thymic selection
+thymine dimer
+thymine
+tincture
+T-independent antigen
+tinea
+tinea capitis
+tinea corporis
+tinea cruris
+tinea pedis
+tissue tropism
+titer
+tolerance
+toll-like receptors  ; TLRs 
+tonsillitis
+topoisomerase
+topoisomerase II
+total magnification
+toxemia
+toxic shock syndrome
+toxigenicity
+toxin
+toxoid vaccine
+toxoplasmosis
+trace element
+trachea
+trachoma
+transcription bubble
+transcription factors
+transcription
+transcriptomics
+transduction
+transendothelial migration
+transfection
+transformation
+transgenic
+transient microbiota
+transition reaction
+translation  ; protein synthesis 
+transmissible spongiform encephalopathy
+transmission electron microscope  ; TEM 
+transmittance
+transparency
+transport vesicle
+transposition
+transposon  ; transposable element 
+trench fever
+trench mouth
+treponemal serologic tests
+triacylglycerol
+triazoles
+tricarboxylic acid cycle
+trichinosis
+trichomoniasis
+trichuriasis
+triglyceride
+trimethoprim
+tRNA
+trophozoite
+tubercle
+tuberculosis
+tularemia
+tumbles  ; tumbling 
+tumor
+tumor-inducing  plasmid ; Ti plasmid 
+turbidity
+two-photon microscope
+tympanic membrane
+type 1 diabetes mellitus
+type I hypersensitivity
+type II hypersensitivity
+type III hypersensitivity
+type IV hypersensitivity
+typhoid fever
+UHT pasteurization
+ulcer
+ultramicrotome
+unit membrane
+unsaturated fatty acid
+uracil
+ureter
+ureteritis
+urethra
+urethritis
+urinary bladder
+urinary meatus
+use-dilution test
+uterus
+vaccination
+vagina
+vaginitis
+vaginosis
+vancomycin
+zoonotic disease
+zooplankton
+Z-scheme
+zygospores
+vancomycin-intermediate Staphylococcus aureus
+ ; VISA 
+vancomycin-resistant enterococci ; VRE
+vancomycin-resistant Staphylococcus aureus
+ ; VRSA 
+variolation
+vas deferens
+vasculitis
+VDRL ; Venereal Disease Research Laboratory
+test
+vector
+vegetative cell
+vehicle transmission
+vein
+vertical direct transmission
+vertical gene transfer
+viable cell
+viable plate count
+viral conjunctivitis
+viral envelope
+viral hemagglutination inhibition assay
+viral titer
+viremia
+viricide
+virion
+viroid
+virology
+virulence
+virulence factor
+virulent phage
+virus
+virusoid
+volutin
+vulva
+water activity
+wavelength
+Weil’s disease
+West African trypanosomiasis
+West Nile encephalitis
+western blot
+western equine encephalitis
+wet mount
+wheal-flare reaction
+whooping cough
+wild type
+Winterbottom’s sign
+wobble position
+World Health Organization  ; WHO 
+xenobiotic
+xenograft
+X-linked agammaglobulinemia
+x-y mechanical stage knobs
+yeast
+yeast infection
+yellow fever
+Ziehl-Neelsen technique
+zone of inhibition
+zoonosis

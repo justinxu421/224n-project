@@ -1,0 +1,344 @@
+accelerate
+apparent magnitude
+astrology
+celestial equator
+celestial poles
+celestial sphere
+circumpolar zone
+cosmology
+ecliptic
+epicycle
+geocentric
+heliocentric
+horizon ; astronomical
+horoscope
+parallax
+planet
+precession ; of Earth
+retrograde motion
+year
+zenith
+zodiac
+angular momentum
+aphelion
+apogee
+asteroid belt
+astronomical unit ; AU
+density
+eccentricity
+ellipse
+escape speed
+focus
+gravity
+Kepler’s first law
+Kepler’s second law
+Kepler’s third law
+major axis
+momentum
+Newton’s first law
+Newton’s second law
+Newton’s third law
+orbit
+orbital period ; P
+orbital speed
+perigee
+perihelion
+perturbation
+satellite
+semimajor axis
+velocity
+apparent solar time
+declination
+great circle
+International Date Line
+lunar eclipse
+mean solar time
+meridian
+phases of the Moon
+right ascension
+sidereal day
+sidereal month
+solar day
+solar eclipse
+solar month
+synchronous rotation
+tides
+absorption spectrum
+blackbody
+continuous spectrum
+dispersion
+Doppler effect
+electromagnetic radiation
+electromagnetic spectrum
+emission spectrum
+energy flux
+energy level
+excitation
+frequency
+gamma rays
+ground state
+infrared
+inverse square law
+ion
+ionization
+isotope
+microwave
+nucleus ; of an atom
+photon
+radial velocity
+radio waves
+spectrometer
+Stefan-Boltzmann law
+ultraviolet
+visible light
+wavelength
+Wien’s law
+X-rays
+adaptive optics
+aperture
+charge-coupled device ; CCD
+chromatic aberration
+detector
+eyepiece
+focus
+interference
+interferometer
+interferometer array
+prime focus
+radar
+reflecting telescope
+refracting telescope
+resolution
+seeing
+telescope
+asteroid
+comet
+differentiation
+giant planet
+half-life
+meteor
+meteorite
+planetesimals
+radioactivity
+solar nebula
+terrestrial planet
+bar
+basalt
+convection
+core
+crust
+fault
+granite
+greenhouse effect
+greenhouse gas
+igneous rock
+magnetosphere
+mantle
+mass extinction
+metamorphic rock
+ozone
+photosynthesis
+plate tectonics
+primitive rock
+rift zone
+sedimentary rock
+seismic wave
+stratosphere
+subduction
+troposphere
+volcano
+highlands
+mare
+runaway greenhouse effect
+tectonic
+photochemistry
+synchrotron radiation
+resonance
+tidal heating
+asteroid
+asteroid belt
+comet
+Kuiper belt
+near-Earth asteroid ; NEA
+near-Earth object ; NEO
+nucleus ; of a comet
+Oort cloud
+tail
+accretion
+exoplanet
+iron meteorite
+meteor
+meteor shower
+meteorite
+stony meteorite
+stony-iron meteorite
+active region
+aurora
+chromosphere
+corona
+coronal hole
+coronal mass ejection ; CME
+differential rotation
+granulation
+Maunder Minimum
+photosphere
+plage
+plasma
+prominence
+solar flare
+solar wind
+sunspot
+sunspot cycle
+transition region
+conduction
+convection
+fission
+fusion
+helioseismology
+hydrostatic equilibrium
+neutrino
+positron
+proton-proton chain
+radiation
+apparent brightness
+brown dwarf
+color index
+giant
+luminosity
+magnitude
+proper motion
+radial velocity
+space velocity
+spectral class
+binary stars
+brown dwarf
+eclipsing binary
+H–R diagram
+main sequence
+mass-luminosity relation
+selection effect
+spectroscopic binary
+visual binary
+white dwarf
+cepheid
+light curve
+luminosity class
+parallax
+parsec
+period-luminosity relation
+pulsating variable star
+RR Lyrae
+baryon cycle
+cosmic rays
+H II region
+interstellar dust
+interstellar extinction
+interstellar medium ; ISM
+Local Bubble
+Local Fluff
+molecular cloud
+nebula
+reddening ; interstellar
+exoplanet
+giant molecular clouds
+Herbig-Haro  object; HH object
+mini-Neptune
+protostar
+stellar wind
+super-Earth
+transit
+association
+globular cluster
+helium flash
+main-sequence turnoff
+nucleosynthesis
+open cluster
+planetary nebula
+triple-alpha process
+zero-age main sequence
+Chandrasekhar limit
+degenerate gas
+millisecond pulsar
+neutron star
+nova
+pulsar
+type II supernova
+accretion disk
+black hole
+equivalence principle
+event horizon
+general theory of relativity
+gravitational redshift
+gravitational wave
+singularity
+spacetime
+central bulge
+dark matter
+dark matter halo
+differential galactic rotation
+halo
+Milky Way Galaxy
+population I star
+population II star
+spiral arm
+supermassive black hole
+elliptical galaxy
+Hubble constant
+Hubble’s law
+irregular galaxy
+mass-to-light ratio
+redshift
+spiral galaxy
+type Ia supernova
+active galactic nuclei ; AGN
+active galaxies
+quasar
+cold dark matter
+cosmological principle
+dark energy
+evolution ; of galaxies
+galactic cannibalism
+homogeneous
+hot dark matter
+isotropic
+Local Group
+merger
+starburst
+supercluster
+void
+anthropic principle
+Big Bang
+closed universe
+cosmic microwave background ; CMB
+cosmological constant
+cosmology
+critical density
+dark energy
+dark matter
+deuterium
+flat universe
+fusion
+grand unified theories
+inflationary universe
+lithium
+multiverse
+open universe
+photon decoupling time
+weakly interacting massive particles
+amino acids
+astrobiology
+biomarker
+DNA ; deoxyribonucleic acid
+Drake equation
+extremophile
+gene
+habitable environment
+habitable zone
+organic compound
+organic molecule
+photosynthesis
+protein
+RNA ; ribonucleic acid
+SETI
+stromatolites
+thermophile

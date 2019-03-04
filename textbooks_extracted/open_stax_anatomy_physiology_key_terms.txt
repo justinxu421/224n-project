@@ -1,0 +1,3187 @@
+abdominopelvic cavity
+anabolism
+anatomical position
+anatomy
+anterior
+anterior cavity
+catabolism
+caudal
+cell
+computed tomography ; CT
+control center
+cranial
+cranial cavity
+deep
+development
+differentiation
+distal
+dorsal
+dorsal cavity
+effector
+frontal plane
+gross anatomy
+growth
+homeostasis
+inferior
+lateral
+magnetic resonance imaging ; MRI
+medial
+metabolism
+microscopic anatomy
+negative feedback
+normal range
+nutrient
+organ
+organ system
+organism
+pericardium
+peritoneum
+physiology
+plane
+pleura
+positive feedback
+positron emission tomography ; PET
+posterior
+posterior cavity
+pressure
+prone
+proximal
+regional anatomy
+renewal
+reproduction
+responsiveness
+sagittal plane
+section
+sensor
+serosa
+serous membrane
+set point
+spinal cavity
+superficial
+superior
+supine
+systemic anatomy
+thoracic cavity
+tissue
+transverse plane
+ultrasonography
+ventral
+ventral cavity
+X-ray
+acid
+activation energy
+adenosine triphosphate ; ATP
+amino acid
+anion
+atom
+atomic number
+base
+bond
+buffer
+carbohydrate
+catalyst
+cation
+chemical energy
+colloid
+compound
+concentration
+covalent bond
+decomposition reaction
+denaturation
+deoxyribonucleic acid ; DNA
+disaccharide
+disulfide bond
+electron
+electron shell
+element
+enzyme
+exchange reaction
+functional group
+hydrogen bond
+inorganic compound
+ion
+ionic bond
+isotope
+kinetic energy
+lipid
+macromolecule
+mass number
+matter
+molecule
+monosaccharide
+neutron
+nucleotide
+organic compound
+peptide bond
+periodic table of the elements
+pH
+phospholipid
+phosphorylation
+polar molecule
+polysaccharide
+potential energy
+product
+prostaglandin
+protein
+proton
+purine
+pyrimidine
+radioactive isotope
+reactant
+ribonucleic acid ; RNA
+solution
+steroid
+substrate
+suspension
+synthesis reaction
+triglyceride
+valence shell
+active transport
+amphipathic
+anaphase
+anticodon
+autolysis
+autophagy
+cell cycle
+cell membrane
+centriole
+centromere
+centrosome
+channel protein
+checkpoint
+chromatin
+chromosome
+cilia
+cleavage furrow
+codon
+concentration gradient
+cyclin
+cyclin-dependent kinase ; CDK
+cytokinesis
+cytoplasm
+cytoskeleton
+cytosol
+diffusion
+diploid
+DNA polymerase
+DNA replication
+electrical gradient
+endocytosis
+endoplasmic reticulum ; ER
+exocytosis
+exon
+extracellular fluid ; ECF
+facilitated diffusion
+flagellum
+G0 phase
+G1 phase
+G2 phase
+gene
+gene expression
+genome
+glycocalyx
+glycoprotein
+Golgi apparatus
+helicase
+histone
+homologous
+hydrophilic
+hydrophobic
+hypertonic
+hypotonic
+integral protein
+intermediate filament
+interphase
+interstitial fluid ; IF
+intracellular fluid ; ICF
+intron
+isotonic
+kinetochore
+ligand
+lysosome
+messenger RNA ; mRNA
+metaphase
+metaphase plate
+microfilament
+microtubule
+mitochondrion
+mitosis
+mitotic phase
+mitotic spindle
+multipotent
+mutation
+nuclear envelope
+nuclear pore
+nucleolus
+nucleosome
+nucleus
+oligopotent
+organelle
+osmosis
+passive transport
+peripheral protein
+peroxisome
+phagocytosis
+pinocytosis
+pluripotent
+polypeptide
+polyribosome
+promoter
+prophase
+proteome
+reactive oxygen species ; ROS
+receptor
+receptor-mediated endocytosis
+ribosomal RNA ; rRNA
+ribosome
+RNA polymerase
+S phase
+selective permeability
+sister chromatid
+sodium-potassium pump
+somatic cell
+spliceosome
+splicing
+stem cell
+telophase
+totipotent
+transcription
+transcription factor
+transfer RNA ; tRNA
+translation
+triplet
+unipotent
+vesicle
+adipocytes
+adipose tissue
+anchoring junction
+apical
+apocrine secretion
+apoptosis
+areolar tissue
+astrocyte
+atrophy
+basal lamina
+basement membrane
+cardiac muscle
+cell junction
+chondrocytes
+clotting
+collagen fiber
+connective tissue
+connective tissue membrane
+connective tissue proper
+cutaneous membrane
+dense connective tissue
+ectoderm
+elastic cartilage
+elastic fiber
+endocrine gland
+endoderm
+endothelium
+epithelial membrane
+epithelial tissue
+exocrine gland
+fibroblast
+fibrocartilage
+fibrocyte
+fluid connective tissue
+gap junction
+goblet cell
+ground substance
+histamine
+histology
+holocrine secretion
+hyaline cartilage
+inflammation
+lacunae
+lamina propria
+loose connective tissue
+matrix
+merocrine secretion
+mesenchymal cell
+mesenchyme
+mesoderm
+mesothelium
+mucous connective tissue
+mucous gland
+mucous membrane
+muscle tissue
+myelin
+myocyte
+necrosis
+nervous tissue
+neuroglia
+neuron
+oligodendrocyte
+parenchyma
+primary union
+pseudostratified columnar epithelium
+reticular fiber
+reticular lamina
+reticular tissue
+Schwann cell
+secondary union
+serous gland
+serous membrane
+simple columnar epithelium
+simple cuboidal epithelium
+simple squamous epithelium
+skeletal muscle
+smooth muscle
+stratified columnar epithelium
+stratified cuboidal epithelium
+stratified squamous epithelium
+striation
+supportive connective tissue
+synovial membrane
+tight junction
+tissue
+tissue membrane
+totipotent
+transitional epithelium
+vasodilation
+wound contraction
+acne
+albinism
+anagen
+apocrine sweat gland
+arrector pili
+basal cell
+basal cell carcinoma
+bedsore
+callus
+catagen
+corn
+cortex
+cuticle
+dermal papilla
+dermis
+desmosome
+eccrine sweat gland
+eczema
+elastin fibers
+eleiden
+epidermis
+eponychium
+external root sheath
+first-degree burn
+fourth-degree burn
+glassy membrane
+hair
+hair bulb
+hair follicle
+hair matrix
+hair papilla
+hair root
+hair shaft
+hypodermis
+hyponychium
+integumentary system
+internal root sheath
+keloid
+keratin
+keratinocyte
+keratohyalin
+Langerhans cell
+lunula
+medulla
+Meissner corpuscle
+melanin
+melanocyte
+melanoma
+melanosome
+Merkel cell
+metastasis
+nail bed
+nail body
+nail cuticle
+nail fold
+nail root
+Pacinian corpuscle
+papillary layer
+reticular layer
+rickets
+scar
+sebaceous gland
+sebum
+second-degree burn
+squamous cell carcinoma
+stratum basale
+stratum corneum
+stratum granulosum
+stratum lucidum
+stratum spinosum
+stretch mark
+sudoriferous gland
+telogen
+third-degree burn
+vitamin D
+vitiligo
+articular cartilage
+articulation
+bone
+canaliculi
+cartilage
+central canal
+closed reduction
+compact bone
+diaphysis
+diploë
+endochondral ossification
+endosteum
+epiphyseal line
+epiphyseal plate
+epiphysis
+external callus
+flat bone
+fracture
+fracture hematoma
+hematopoiesis
+hole
+hypercalcemia
+hypocalcemia
+internal callus
+intramembranous ossification
+irregular bone
+lacunae
+long bone
+medullary cavity
+modeling
+nutrient foramen
+open reduction
+orthopedist
+osseous tissue
+ossification
+ossification center
+osteoblast
+osteoclast
+osteocyte
+osteogenic cell
+osteoid
+osteon
+osteoporosis
+perforating canal
+perichondrium
+periosteum
+primary ossification center
+projection
+proliferative zone
+red marrow
+remodeling
+reserve zone
+secondary ossification center
+sesamoid bone
+short bone
+skeletal system
+spongy bone
+trabeculae
+yellow marrow
+zone of calcified matrix
+zone of maturation and hypertrophy
+alveolar process of the mandible
+alveolar process of the maxilla
+angle of the mandible
+angle of the rib
+anterior  sacral foramen; ventral sacral foramen
+anterior arch
+anterior cranial fossa
+anterior longitudinal ligament
+anulus fibrosus
+appendicular skeleton
+articular tubercle
+atlas
+axial skeleton
+axis
+body of the rib
+brain case
+calvaria
+carotid canal
+cervical curve
+cervical vertebrae
+clavicular notch
+coccyx
+condylar process of the mandible
+condyle
+coronal suture
+coronoid process of the mandible
+costal cartilage
+costal facet
+costal groove
+cranial cavity
+cranium
+cribriform plate
+crista galli
+dens
+ear ossicles
+ethmoid air cell
+ethmoid bone
+external acoustic meatus
+external occipital protuberance
+facet
+facial bones
+false ribs
+floating ribs
+fontanelle
+foramen lacerum
+foramen magnum
+foramen ovale of the middle cranial fossa
+foramen rotundum
+foramen spinosum
+frontal bone
+frontal sinus
+glabella
+greater wings of sphenoid bone
+hard palate
+head of the rib
+horizontal plate
+hyoid bone
+hypoglossal canal
+hypophyseal  fossa; pituitary fossa
+inferior articular process
+inferior nasal concha
+infraorbital foramen
+infratemporal fossa
+internal acoustic meatus
+intervertebral disc
+intervertebral foramen
+jugular  notch; suprasternal notch
+jugular foramen
+kyphosis
+lacrimal bone
+lacrimal fossa
+lambdoid suture
+lamina
+lateral pterygoid plate
+lateral sacral crest
+lesser wings of the sphenoid bone
+ligamentum flavum
+lingula
+lordosis
+lumbar curve
+lumbar vertebrae
+mandible
+mandibular foramen
+mandibular fossa
+mandibular notch
+manubrium
+mastoid process
+maxillary bone
+maxillary sinus
+medial pterygoid plate
+median sacral crest
+mental foramen
+mental protuberance
+middle cranial fossa
+middle nasal concha
+mylohyoid line
+nasal bone
+nasal cavity
+nasal conchae
+nasal septum
+nasolacrimal canal
+neck of the rib
+notochord
+nuchal ligament
+nucleus pulposus
+occipital bone
+occipital condyle
+optic canal
+orbit
+palatine bone
+palatine process
+paranasal sinuses
+parietal bone
+pedicle
+perpendicular plate of the ethmoid bone
+petrous ridge
+posterior  sacral foramen; dorsal sacral foramen
+posterior arch
+posterior cranial fossa
+posterior longitudinal ligament
+primary curve
+pterion
+ramus of the mandible
+ribs
+sacral canal
+sacral foramina
+sacral hiatus
+sacral promontory
+sacrococcygeal curve
+sacrum
+sagittal suture
+sclerotome
+scoliosis
+secondary curve
+sella turcica
+septal cartilage
+skeleton
+skull
+somite
+sphenoid bone
+sphenoid sinus
+spinous process
+squamous suture
+sternal angle
+sternum
+styloid process
+stylomastoid foramen
+superior articular process
+superior articular process of the sacrum
+superior nasal concha
+superior nuchal line
+superior orbital fissure
+supraorbital foramen
+supraorbital margin
+supraspinous ligament
+suture
+temporal bone
+temporal fossa
+temporal process of the zygomatic bone
+thoracic cage
+thoracic curve
+thoracic vertebrae
+transverse foramen
+transverse process
+true ribs
+tubercle of the rib
+vertebra
+vertebral  canal; spinal canal
+vertebral arch
+vertebral column
+vertebral foramen
+vomer bone
+xiphoid process
+zygomatic arch
+zygomatic bone
+zygomatic process of the temporal bone
+acetabulum
+acromial end of the clavicle
+acromial process
+acromioclavicular joint
+acromion
+adductor tubercle
+anatomical neck
+ankle joint
+anterior border of the tibia
+anterior inferior iliac spine
+anterior sacroiliac ligament
+anterior superior iliac spine
+apical ectodermal ridge
+arcuate line of the ilium
+arm
+auricular surface of the ilium
+base of the metatarsal bone
+bicipital groove
+calcaneus
+capitate
+capitulum
+carpal bone
+carpal tunnel
+carpometacarpal joint
+clavicle
+coracoclavicular ligament
+coracoid process
+coronoid fossa
+coronoid process of the ulna
+costoclavicular ligament
+coxal bone
+cuboid
+deltoid tuberosity
+distal radioulnar joint
+distal tibiofibular joint
+elbow joint
+femur
+fibula
+fibular notch
+flexor retinaculum
+foot
+forearm
+fossa
+fovea capitis
+glenohumeral joint
+glenoid cavity
+gluteal tuberosity
+greater pelvis
+greater sciatic foramen
+greater sciatic notch
+greater trochanter
+greater tubercle
+hallux
+hamate
+hand
+head of the femur
+head of the fibula
+head of the humerus
+head of the metatarsal bone
+head of the radius
+head of the ulna
+hip bone
+hip joint
+hook of the hamate bone
+humerus
+iliac crest
+iliac fossa
+ilium
+inferior angle of the scapula
+inferior pubic ramus
+infraglenoid tubercle
+infraspinous fossa
+intercondylar eminence
+intercondylar fossa
+intermediate cuneiform
+interosseous border of the fibula
+interosseous border of the radius
+interosseous border of the tibia
+interosseous border of the ulna
+interosseous membrane of the forearm
+interosseous membrane of the leg
+interphalangeal joint
+intertrochanteric crest
+intertrochanteric line
+intertubercular groove ; sulcus
+ischial ramus
+ischial spine
+ischial tuberosity
+ischiopubic ramus
+ischium
+knee joint
+lateral border of the scapula
+lateral condyle of the femur
+lateral condyle of the tibia
+lateral cuneiform
+lateral epicondyle of the femur
+lateral epicondyle of the humerus
+lateral malleolus
+lateral supracondylar ridge
+leg
+lesser pelvis
+lesser sciatic foramen
+lesser sciatic notch
+lesser trochanter
+lesser tubercle
+ligament of the head of the femur
+limb bud
+linea aspera
+lunate
+medial border of the scapula
+medial condyle of the femur
+medial condyle of the tibia
+medial cuneiform
+medial epicondyle of the femur
+medial epicondyle of the humerus
+medial malleolus
+metacarpal bone
+metacarpophalangeal joint
+metatarsal bone
+metatarsophalangeal joint
+midcarpal joint
+navicular
+neck of the femur
+neck of the radius
+obturator foramen
+olecranon fossa
+olecranon process
+patella
+patellar surface
+pectineal line
+pectoral girdle
+pelvic brim
+pelvic girdle
+pelvic inlet
+pelvic outlet
+pelvis
+phalanx bone of the foot
+phalanx bone of the hand
+pisiform
+pollex
+posterior inferior iliac spine
+posterior sacroiliac ligament
+posterior superior iliac spine
+proximal radioulnar joint
+proximal tibiofibular joint
+pubic arch
+pubic body
+pubic symphysis
+pubic tubercle
+pubis
+radial fossa
+radial notch of the ulna
+radial tuberosity
+radiocarpal joint
+radius
+sacroiliac joint
+sacrospinous ligament
+sacrotuberous ligament
+scaphoid
+scapula
+shaft of the femur
+shaft of the fibula
+shaft of the humerus
+shaft of the radius
+shaft of the tibia
+shaft of the ulna
+soleal line
+spine of the scapula
+sternal end of the clavicle
+sternoclavicular joint
+styloid process of the radius
+styloid process of the ulna
+subpubic angle
+subscapular fossa
+superior angle of the scapula
+superior border of the scapula
+superior pubic ramus
+supraglenoid tubercle
+suprascapular notch
+supraspinous fossa
+surgical neck
+sustentaculum tali
+talus
+tarsal bone
+thigh
+tibia
+tibial tuberosity
+trapezium
+trapezoid
+triquetrum
+trochlea
+trochlear notch
+ulna
+ulnar notch of the radius
+ulnar tuberosity
+abduction
+acetabular labrum
+adduction
+amphiarthrosis
+annular ligament
+anterior cruciate ligament
+anterior talofibular ligament
+articular capsule
+articular cartilage
+articular disc
+articulation
+atlanto-occipital joint
+atlantoaxial joint
+ball-and-socket joint
+biaxial joint
+bursa
+calcaneofibular ligament
+cartilaginous joint
+circumduction
+condyloid joint
+coracohumeral ligament
+deltoid ligament
+depression
+diarthrosis
+dorsiflexion
+elbow joint
+elevation
+eversion
+extension
+extrinsic ligament
+femoropatellar joint
+fibrous joint
+fibular collateral ligament
+flexion
+fontanelles
+glenohumeral joint
+glenohumeral ligament
+glenoid labrum
+gomphosis
+hinge joint
+humeroradial joint
+humeroulnar joint
+hyperextension
+hyperflexion
+iliofemoral ligament
+inferior rotation
+interosseous membrane
+intracapsular ligament
+intrinsic ligament
+inversion
+ischiofemoral ligament
+joint
+joint cavity
+joint interzone
+lateral  rotation; external rotation
+lateral excursion
+lateral flexion
+lateral meniscus
+lateral tibiofemoral joint
+ligament
+ligament of the head of the femur
+medial  rotation; internal rotation
+medial excursion
+medial meniscus
+medial tibiofemoral joint
+meniscus
+multiaxial joint
+opposition
+patellar ligament
+periodontal ligament
+pivot joint
+plane joint
+plantar flexion
+posterior cruciate ligament
+posterior talofibular ligament
+pronated position
+pronation
+protraction
+proximal radioulnar joint
+pubofemoral ligament
+radial collateral ligament
+reposition
+retraction
+rotation
+rotator cuff
+saddle joint
+subacromial bursa
+subcutaneous bursa
+submuscular bursa
+subscapular bursa
+subtalar joint
+subtendinous bursa
+superior rotation
+supinated position
+supination
+suture
+symphysis
+synarthrosis
+synchondrosis
+syndesmosis
+synostosis
+synovial fluid
+synovial joint
+synovial membrane
+talocrural joint
+temporomandibular joint ; TMJ
+tendon
+tendon sheath
+tibial collateral ligament
+ulnar collateral ligament
+uniaxial joint
+zygapophysial joints
+acetylcholine ; ACh
+actin
+action potential
+aerobic respiration
+angiogenesis
+aponeurosis
+ATPase
+atrophy
+autorhythmicity
+calmodulin
+cardiac muscle
+concentric contraction
+contractility
+contraction phase
+creatine phosphate
+dense body
+depolarize
+desmosome
+eccentric contraction
+elasticity
+endomysium
+epimysium
+excitability
+excitation-contraction coupling
+extensibility
+fascicle
+fast glycolytic ; FG
+fast oxidative ; FO
+fibrosis
+glycolysis
+graded muscle response
+hyperplasia
+hypertonia
+hypertrophy
+hypotonia
+intercalated disc
+isometric contraction
+isotonic contraction
+lactic acid
+latch-bridges
+latent period
+motor end-plate
+motor unit
+muscle tension
+muscle tone
+myoblast
+myofibril
+myogram
+myosin
+myotube
+neuromuscular junction ; NMJ
+neurotransmitter
+oxygen debt
+pacesetter cell
+pericyte
+perimysium
+power stroke
+pyruvic acid
+recruitment
+relaxation phase
+sarcolemma
+sarcomere
+sarcopenia
+sarcoplasm
+sarcoplasmic reticulum ; SR
+satellite cell
+skeletal muscle
+slow oxidative ; SO
+smooth muscle
+somites
+stress-relaxation response
+synaptic cleft
+T-tubule
+tetanus
+thick filament
+thin filament
+treppe
+triad
+tropomyosin
+troponin
+twitch
+varicosity
+visceral muscle
+voltage-gated sodium channels
+wave summation
+abduct
+abductor
+abductor digiti minimi
+abductor pollicis brevis
+abductor pollicis longus
+adductor
+adductor brevis
+adductor longus
+adductor magnus
+adductor pollicis
+agonist
+anal triangle
+anconeus
+antagonist
+anterior compartment of the arm
+anterior compartment of the forearm
+anterior compartment of the leg
+anterior compartment of the thigh
+anterior scalene
+appendicular
+axial
+belly
+bi
+biceps brachii
+biceps femoris
+bipennate
+brachialis
+brachioradialis
+brevis
+buccinator
+calcaneal tendon
+caval opening
+circular
+compressor urethrae
+convergent
+coracobrachialis
+corrugator supercilii
+deep anterior compartment
+deep posterior compartment of the forearm
+deep transverse perineal
+deglutition
+deltoid
+diaphragm
+digastric
+dorsal group
+dorsal interossei
+epicranial aponeurosis
+erector spinae group
+extensor
+extensor carpi radialis brevis
+extensor carpi ulnaris
+extensor digiti minimi
+extensor digitorum
+extensor digitorum brevis
+extensor digitorum longus
+extensor hallucis longus
+extensor indicis
+extensor pollicis brevis
+extensor pollicis longus
+extensor radialis longus
+extensor retinaculum
+external intercostal
+external oblique
+extrinsic eye muscles
+extrinsic muscles of the hand
+fascicle
+femoral triangle
+fibularis brevis
+fibularis longus
+fibularis tertius
+fixator
+flexion
+flexor
+flexor carpi radialis
+flexor carpi ulnaris
+flexor digiti minimi brevis
+flexor digitorum longus
+flexor digitorum profundus
+flexor digitorum superficialis
+flexor hallucis longus
+flexor pollicis brevis
+flexor pollicis longus
+flexor retinaculum
+frontalis
+fusiform
+gastrocnemius
+genioglossus
+geniohyoid
+gluteal group
+gluteus maximus
+gluteus medius
+gluteus minimus
+gracilis
+hamstring group
+hyoglossus
+hypothenar
+hypothenar eminence
+iliacus
+iliococcygeus
+iliocostalis cervicis
+iliocostalis group
+iliocostalis lumborum
+iliocostalis thoracis
+iliopsoas group
+iliotibial tract
+inferior extensor retinaculum
+inferior gemellus
+infrahyoid muscles
+infraspinatus
+innermost intercostal
+insertion
+intercostal muscles
+intermediate
+internal intercostal
+internal oblique
+intrinsic muscles of the hand
+ischiococcygeus
+lateral compartment of the leg
+lateral pterygoid
+lateralis
+latissimus dorsi
+levator ani
+linea alba
+longissimus capitis
+longissimus cervicis
+longissimus group
+longissimus thoracis
+longus
+lumbrical
+masseter
+mastication
+maximus
+medial compartment of the thigh
+medial pterygoid
+medialis
+medius
+middle scalene
+minimus
+multifidus
+multipennate
+mylohyoid
+oblique
+obturator externus
+obturator internus
+occipitalis
+occipitofrontalis
+omohyoid
+opponens digiti minimi
+opponens pollicis
+orbicularis oculi
+orbicularis oris
+origin
+palatoglossus
+palmar interossei
+palmaris longus
+parallel
+patellar ligament
+pectineus
+pectoral girdle
+pectoralis major
+pectoralis minor
+pelvic diaphragm
+pelvic girdle
+pennate
+perineum
+piriformis
+plantar aponeurosis
+plantar group
+plantaris
+popliteal fossa
+popliteus
+posterior compartment of the leg
+posterior compartment of the thigh
+posterior scalene
+prime mover
+pronator quadratus
+pronator teres
+psoas major
+pubococcygeus
+quadratus femoris
+quadratus lumborum
+quadriceps femoris group
+quadriceps tendon
+rectus
+rectus abdominis
+rectus femoris
+rectus sheaths
+retinacula
+rhomboid major
+rhomboid minor
+rotator cuff
+sartorius
+scalene muscles
+segmental muscle group
+semimembranosus
+semispinalis capitis
+semispinalis cervicis
+semispinalis thoracis
+semitendinosus
+serratus anterior
+soleus
+sphincter urethrovaginalis
+spinalis capitis
+spinalis cervicis
+spinalis group
+spinalis thoracis
+splenius
+splenius capitis
+splenius cervicis
+sternocleidomastoid
+sternohyoid
+sternothyroid
+styloglossus
+stylohyoid
+subclavius
+subscapularis
+superficial anterior compartment of the forearm
+superficial posterior compartment of the forearm
+superior extensor retinaculum
+superior gemellus
+supinator
+suprahyoid muscles
+supraspinatus
+synergist
+temporalis
+tendinous intersections
+tensor fascia lata
+teres major
+teres minor
+thenar
+thenar eminence
+thyrohyoid
+tibialis anterior
+tibialis posterior
+transversospinales
+transversus abdominis
+trapezius
+tri
+triceps brachii
+unipennate
+urogenital triangle
+vastus intermedius
+vastus lateralis
+vastus medialis
+absolute refractory period
+action potential
+activation gate
+astrocyte
+autonomic nervous system ; ANS
+axon
+axon hillock
+axon segment
+axon terminal
+axoplasm
+biogenic amine
+bipolar
+blood-brain barrier ; BBB
+brain
+central nervous system ; CNS
+cerebral cortex
+cerebrospinal fluid ; CSF
+chemical synapse
+cholinergic system
+choroid plexus
+continuous conduction
+dendrite
+depolarization
+effector protein
+electrical synapse
+electrochemical exclusion
+enteric nervous system ; ENS
+ependymal cell
+excitable membrane
+excitatory postsynaptic potential ; EPSP
+G protein
+ganglion
+gated
+generator potential
+glial cell
+graded potential
+gray matter
+inactivation gate
+inhibitory postsynaptic potential ; IPSP
+initial segment
+integration
+ionotropic receptor
+leakage channel
+ligand-gated channels
+lower motor neuron
+mechanically gated channel
+membrane potential
+metabotropic receptor
+microglia
+multipolar
+muscarinic receptor
+myelin
+myelin sheath
+nerve
+neuron
+neuropeptide
+neurotransmitter
+nicotinic receptor
+node of Ranvier
+nonspecific channel
+nucleus
+oligodendrocyte
+peripheral nervous system ; PNS
+postsynaptic potential ; PSP
+precentral gyrus of the frontal cortex
+process
+propagation
+receptor potential
+refractory period
+relative refractory period
+repolarization
+resistance
+response
+resting membrane potential
+saltatory conduction
+satellite cell
+Schwann cell
+sensation
+size exclusion
+soma
+somatic nervous system ; SNS
+spatial summation
+spinal cord
+stimulus
+summate
+synapse
+synaptic cleft
+synaptic end bulb
+temporal summation
+thalamus
+thermoreceptor
+threshold
+tract
+unipolar
+upper motor neuron
+ventricle
+voltage-gated channel
+white matter
+abducens nerve
+alar plate
+amygdala
+anterior column
+anterior horn
+anterior median fissure
+anterior spinal artery
+arachnoid granulation
+arachnoid mater
+arachnoid trabeculae
+ascending tract
+axillary nerve
+basal forebrain
+basal nuclei
+basal plate
+basilar artery
+brachial plexus
+brain stem
+Broca’s area
+Brodmann’s areas
+carotid canal
+cauda equina
+caudate
+central canal
+central sulcus
+cephalic flexure
+cerebellum
+cerebral aqueduct
+cerebral cortex
+cerebral hemisphere
+cerebrum
+cervical plexus
+choroid plexus
+circle of Willis
+common carotid artery
+corpus callosum
+cranial nerve
+cranial nerve ganglion
+descending tract
+diencephalon
+direct pathway
+disinhibition
+dorsal  nerve root; posterior nerve root
+dorsal  root ganglion; posterior root ganglion
+dura mater
+dural sinus
+endoneurium
+enteric nervous system
+enteric plexus
+epineurium
+epithalamus
+esophageal plexus
+extraocular muscles
+facial nerve
+fascicle
+femoral nerve
+fibular nerve
+foramen magnum
+forebrain
+fourth ventricle
+frontal eye field
+frontal lobe
+gastric plexuses
+globus pallidus
+glossopharyngeal nerve
+gyrus
+hindbrain
+hippocampus
+hypoglossal nerve
+hypothalamus
+indirect pathway
+inferior colliculus
+inferior olive
+intercostal nerve
+internal carotid artery
+interventricular foramina
+jugular veins
+kinesthesia
+lateral apertures
+lateral column
+lateral horn
+lateral sulcus
+lateral ventricles
+limbic cortex
+limbic system
+longitudinal fissure
+lumbar plexus
+lumbar puncture
+median aperture
+median nerve
+meninges
+mesencephalon
+metencephalon
+midbrain
+myelencephalon
+nerve plexus
+neural crest
+neural fold
+neural groove
+neural plate
+neural tube
+neuraxis
+occipital lobe
+occipital sinuses
+oculomotor nerve
+olfaction
+olfactory nerve
+optic nerve
+orthostatic reflex
+paravertebral ganglia
+parietal lobe
+parieto-occipital sulcus
+perineurium
+phrenic nerve
+pia mater
+plexus
+postcentral gyrus
+posterior columns
+posterior horn
+posterior median sulcus
+posterolateral sulcus
+precentral gyrus
+prefrontal lobe
+premotor area
+prevertebral ganglia
+primary vesicle
+proprioception
+prosencephalon
+putamen
+radial nerve
+reticular formation
+rhombencephalon
+sacral plexus
+saphenous nerve
+sciatic nerve
+sciatica
+secondary vesicle
+sigmoid sinuses
+somatosensation
+spinal accessory nerve
+spinal nerve
+straight sinus
+striatum
+subarachnoid space
+subcortical nucleus
+substantia nigra pars compacta
+substantia nigra pars reticulata
+subthalamus
+sulcus
+superior colliculus
+superior sagittal sinus
+sympathetic chain ganglia
+systemic nerve
+tectum
+tegmentum
+telencephalon
+temporal lobe
+terminal ganglion
+thalamus
+third ventricle
+tibial nerve
+transverse sinuses
+trigeminal ganglion
+trigeminal nerve
+trochlear nerve
+ulnar nerve
+vagus nerve
+ventral  nerve root; anterior nerve root
+ventricles
+vertebral arteries
+vestibulocochlear nerve
+alkaloid
+amacrine cell
+ampulla
+anosmia
+anterior corticospinal tract
+aqueous humor
+ascending pathway
+association area
+audition
+auricle
+basilar membrane
+Betz cells
+binocular depth cues
+bipolar cell
+Broca’s area
+capsaicin
+cerebral peduncles
+cervical enlargement
+chemoreceptor
+chief sensory nucleus
+choroid
+ciliary body
+circadian rhythm
+cochlea
+cochlear duct
+cone photoreceptor
+contralateral
+cornea
+corneal reflex
+corticobulbar tract
+corticospinal tract
+cupula
+decussate
+dorsal column system
+dorsal stream
+encapsulated ending
+equilibrium
+executive functions
+external ear
+exteroceptor
+extraocular muscle
+extrapyramidal system
+fasciculus cuneatus
+fasciculus gracilis
+fibrous tunic
+fovea
+free nerve ending
+frontal eye fields
+general sense
+gustation
+gustatory receptor cells
+hair cells
+incus
+inferior colliculus
+inferior oblique
+inferior rectus
+inner ear
+inner segment
+inner synaptic layer
+interaural intensity difference
+interaural time difference
+internal capsule
+interoceptor
+ipsilateral
+iris
+kinesthesia
+lacrimal duct
+lacrimal gland
+lateral corticospinal tract
+lateral geniculate nucleus
+lateral rectus
+lens
+levator palpebrae superioris
+lumbar enlargement
+macula
+malleus
+mechanoreceptor
+medial geniculate nucleus
+medial lemniscus
+medial rectus
+mesencephalic nucleus
+middle ear
+multimodal integration area
+neural tunic
+nociceptor
+nucleus cuneatus
+nucleus gracilis
+odorant molecules
+olfaction
+olfactory bulb
+olfactory epithelium
+olfactory sensory neuron
+opsin
+optic chiasm
+optic disc
+optic nerve
+optic tract
+organ of Corti
+osmoreceptor
+ossicles
+otolith
+otolithic membrane
+outer segment
+outer synaptic layer
+oval window
+palpebral conjunctiva
+papilla
+photoisomerization
+photon
+photoreceptor
+premotor cortex
+primary sensory cortex
+proprioception
+proprioceptor
+pupil
+pyramidal decussation
+pyramids
+receptor cell
+red nucleus
+reticulospinal tract
+retina
+retinal
+retinal ganglion cell ; RGC
+rhodopsin
+rod photoreceptor
+round window
+rubrospinal tract
+saccule
+scala tympani
+scala vestibuli
+sclera
+semicircular canals
+sensory homunculus
+sensory modality
+solitary nucleus
+somatosensation
+special sense
+spinal trigeminal nucleus
+spinothalamic tract
+spiral ganglion
+stapes
+stereocilia
+stretch reflex
+submodality
+superior colliculus
+superior oblique
+superior rectus
+supplemental motor area
+suprachiasmatic nucleus
+taste buds
+tectorial membrane
+tectospinal tract
+thermoreceptor
+topographical
+transduction
+trochlea
+tympanic membrane
+umami
+utricle
+vascular tunic
+ventral posterior nucleus
+ventral stream
+vestibular ganglion
+vestibular nuclei
+vestibule
+vestibulo-ocular reflex ; VOR
+vestibulospinal tract
+visceral sense
+vision
+visual acuity
+vitreous humor
+working memory
+zonule fibers
+acetylcholine ; ACh
+adrenal medulla
+adrenergic
+afferent branch
+agonist
+alpha -adrenergic receptor; α-adrenergic receptor
+antagonist
+anticholinergic drugs
+autonomic tone
+baroreceptor
+beta -adrenergic receptor; β-adrenergic receptor
+cardiac accelerator nerves
+cardiovascular center
+celiac ganglion
+central neuron
+cholinergic
+chromaffin cells
+ciliary ganglion
+collateral ganglia
+craniosacral system
+dorsal longitudinal fasciculus
+dorsal nucleus of the vagus nerve
+Eddinger–Westphal nucleus
+efferent branch
+endogenous
+endogenous chemical
+epinephrine
+exogenous
+exogenous chemical
+fight-or-flight response
+G protein–coupled receptor
+ganglionic neuron
+gray rami communicantes
+greater splanchnic nerve
+inferior mesenteric ganglion
+intramural ganglia
+lesser splanchnic nerve
+ligand-gated cation channel
+limbic lobe
+long reflex
+medial forebrain bundle
+mesenteric plexus
+muscarinic receptor
+mydriasis
+nicotinic receptor
+norepinephrine
+nucleus ambiguus
+parasympathetic division
+parasympathomimetic drugs
+paravertebral ganglia
+postganglionic fiber
+preganglionic fiber
+prevertebral ganglia
+referred pain
+reflex arc
+rest and digest
+short reflex
+somatic reflex
+superior cervical ganglion
+superior mesenteric ganglion
+sympathetic chain ganglia
+sympathetic division
+sympatholytic drug
+sympathomimetic drug
+target effector
+terminal ganglia
+thoracolumbar system
+varicosity
+vasomotor nerves
+visceral reflex
+white rami communicantes
+accommodation
+accommodation–convergence reflex
+anterograde amnesia
+aphasia
+ataxia
+Babinski sign
+cerebrocerebellum
+check reflex
+clasp-knife response
+conduction aphasia
+conductive hearing
+conjugate gaze
+convergence
+coordination exam
+cortico-ponto-cerebellar pathway
+cranial nerve exam
+cytoarchitecture
+deep tendon reflex
+diplopia
+edema
+embolus
+episodic memory
+expressive aphasia
+extrinsic muscles of the tongue
+fasciculation
+fauces
+fibrillation
+flaccid paralysis
+flaccidity
+flocculonodular lobe
+gait
+gait exam
+gnosis
+graphesthesia
+hemisection
+hemorrhagic stroke
+hyperflexia
+hypotonicity
+hypovolemia
+inferior cerebellar peduncle ; ICP
+inferior olive
+internuclear ophthalmoplegia
+intorsion
+intrinsic muscles of the tongue
+ischemic stroke
+jaw-jerk reflex
+localization of function
+medial longitudinal fasciculus ; MLF
+mental status exam
+middle cerebellar peduncle ; MCP
+motor exam
+neurological exam
+paramedian pontine reticular formation ; PPRF
+paresis
+plantar reflex
+praxis
+procedural memory
+pronator drift
+receptive aphasia
+red nucleus
+retrograde amnesia
+Rinne test
+Romberg test
+rubrospinal tract
+saccade
+sensorineural hearing
+sensory exam
+short-term memory
+Snellen chart
+spasticity
+spinocerebellar tract
+spinocerebellum
+stereognosis
+stroke
+superficial reflex
+superior cerebellar peduncle ; SCP
+transient ischemic attack ; TIA
+vermis
+vestibulo-ocular reflex ; VOR
+vestibulocerebellum
+Weber test
+Wernicke’s area
+acromegaly
+adenylyl cyclase
+adrenal cortex
+adrenal glands
+adrenal medulla
+adrenocorticotropic hormone ; ACTH
+alarm reaction
+aldosterone
+alpha cell
+angiotensin-converting enzyme
+antidiuretic hormone ; ADH
+atrial natriuretic peptide ; ANP
+autocrine
+beta cell
+calcitonin
+chromaffin
+colloid
+cortisol
+cyclic adenosine monophosphate ; cAMP
+delta cell
+diabetes mellitus
+diacylglycerol ; DAG
+downregulation
+endocrine gland
+endocrine system
+epinephrine
+erythropoietin ; EPO
+estrogens
+exocrine system
+first messenger
+follicle-stimulating hormone ; FSH
+G protein
+general adaptation syndrome ; GAS
+gigantism
+glucagon
+glucocorticoids
+goiter
+gonadotropins
+growth hormone ; GH
+hormone
+hormone receptor
+hyperglycemia
+hyperparathyroidism
+hyperthyroidism
+hypoparathyroidism
+hypophyseal portal system
+hypothalamus
+hypothyroidism
+infundibulum
+inhibin
+inositol triphosphate ; IP3
+insulin
+insulin-like growth factors ; IGF
+leptin
+luteinizing hormone ; LH
+melatonin
+mineralocorticoids
+neonatal hypothyroidism
+norepinephrine
+osmoreceptor
+oxytocin
+pancreas
+pancreatic islets
+paracrine
+parathyroid glands
+parathyroid hormone ; PTH
+phosphodiesterase ; PDE
+phosphorylation cascade
+pineal gland
+pinealocyte
+pituitary dwarfism
+pituitary gland
+PP cell
+progesterone
+prolactin ; PRL
+protein kinase
+second messenger
+stage of exhaustion
+stage of resistance
+testosterone
+thymosins
+thymus
+thyroid gland
+thyroid-stimulating hormone ; TSH
+thyroxine
+triiodothyronine
+upregulation
+zona fasciculata
+zona glomerulosa
+zona reticularis
+ABO blood group
+agglutination
+agranular leukocytes
+albumin
+anemia
+antibodies
+anticoagulant
+antithrombin
+B lymphocytes
+basophils
+bilirubin
+biliverdin
+blood
+bone marrow biopsy
+bone marrow transplant
+buffy coat
+carbaminohemoglobin
+clotting factors
+coagulation
+colony-stimulating factors ; CSFs
+common pathway
+cross matching
+cytokines
+defensins
+deoxyhemoglobin
+diapedesis
+embolus
+emigration
+eosinophils
+erythrocyte
+erythropoietin ; EPO
+extrinsic pathway
+ferritin
+fibrin
+fibrinogen
+fibrinolysis
+formed elements
+globin
+globulins
+granular leukocytes
+hematocrit
+heme
+hemocytoblast
+hemoglobin
+hemolysis
+hemolytic disease of the newborn ; HDN
+hemophilia
+hemopoiesis
+hemopoietic growth factors
+hemopoietic stem cell
+hemorrhage
+hemosiderin
+hemostasis
+heparin
+hypoxemia
+immunoglobulins
+interleukins
+intrinsic pathway
+leukemia
+leukocyte
+leukocytosis
+leukopenia
+lymphocytes
+lymphoid stem cells
+lymphoma
+lysozyme
+macrophage
+megakaryocyte
+memory cell
+monocytes
+myeloid stem cells
+natural killer  cells; NK cells
+neutrophils
+oxyhemoglobin
+packed cell volume ; PCV
+plasma
+plasmin
+platelet plug
+platelets
+pluripotent stem cell
+polycythemia
+polymorphonuclear
+positive chemotaxis
+red blood cells ; RBCs
+reticulocyte
+Rh blood group
+serum
+sickle cell disease
+T lymphocytes
+thalassemia
+thrombin
+thrombocytes
+thrombocytopenia
+thrombocytosis
+thrombopoietin
+thrombosis
+thrombus
+tissue factor
+totipotent stem cell
+transferrin
+universal donor
+universal recipient
+vascular spasm
+white blood cells ; WBCs
+afterload
+anastomosis
+anterior cardiac veins
+anterior interventricular artery
+anterior interventricular sulcus
+aortic valve
+artificial pacemaker
+atrial reflex
+atrioventricular  node; AV node
+atrioventricular bundle
+atrioventricular bundle branches
+atrioventricular septum
+atrioventricular valves
+atrium
+auricle
+autonomic tone
+autorhythmicity
+Bachmann’s bundle
+Bainbridge reflex
+baroreceptor reflex
+bicuspid valve
+bulbus cordis
+bundle of His
+cardiac cycle
+cardiac notch
+cardiac output ; CO
+cardiac plexus
+cardiac reflexes
+cardiac reserve
+cardiac skeleton
+cardiogenic area
+cardiogenic cords
+cardiomyocyte
+chordae tendineae
+circumflex artery
+coronary arteries
+coronary sinus
+coronary sulcus
+coronary veins
+diastole
+ejection fraction
+electrocardiogram ; ECG
+end diastolic volume ; EDV
+end systolic volume ; ESV
+endocardial tubes
+endocardium
+endothelium
+epicardial coronary arteries
+epicardium
+filling time
+foramen ovale
+fossa ovalis
+Frank-Starling mechanism
+great cardiac vein
+heart block
+heart bulge
+heart rate ; HR
+heart sounds
+hypertrophic cardiomyopathy
+inferior vena cava
+interatrial band
+interatrial septum
+intercalated disc
+internodal pathways
+interventricular septum
+isovolumic contraction
+isovolumic ventricular relaxation phase
+left atrioventricular valve
+marginal arteries
+mesoderm
+mesothelium
+middle cardiac vein
+mitral valve
+moderator band
+murmur
+myocardial conducting cells
+myocardial contractile cells
+myocardium
+negative inotropic factors
+P wave
+pacemaker
+papillary muscle
+pectinate muscles
+pericardial cavity
+pericardial sac
+pericardium
+positive inotropic factors
+posterior cardiac vein
+posterior interventricular artery
+posterior interventricular sulcus
+preload
+prepotential depolarization
+primitive atrium
+primitive heart tube
+primitive ventricle
+pulmonary arteries
+pulmonary capillaries
+pulmonary circuit
+pulmonary trunk
+pulmonary valve
+pulmonary veins
+Purkinje fibers
+QRS complex
+right atrioventricular valve
+semilunar valves
+septum
+septum primum
+sinoatrial  node; SA node
+sinus rhythm
+sinus venosus
+small cardiac vein
+spontaneous depolarization
+stroke volume ; SV
+sulcus
+superior vena cava
+systemic circuit
+systole
+T wave
+target heart rate
+trabeculae carneae
+tricuspid valve
+truncus arteriosus
+valve
+ventricle
+ventricular ejection phase
+abdominal aorta
+adrenal artery
+adrenal vein
+anaphylactic shock
+angioblasts
+angiogenesis
+anterior cerebral artery
+anterior communicating artery
+anterior tibial artery
+anterior tibial vein
+aorta
+aortic arch
+aortic hiatus
+aortic sinuses
+arterial circle
+arteriole
+arteriovenous anastomosis
+artery
+ascending aorta
+atrial reflex
+axillary artery
+axillary vein
+azygos vein
+basilar artery
+basilic vein
+blood colloidal osmotic pressure ; BCOP
+blood flow
+blood hydrostatic pressure
+blood islands
+blood pressure
+brachial artery
+brachial vein
+brachiocephalic artery
+brachiocephalic vein
+bronchial artery
+bronchial vein
+capacitance
+capacitance vessels
+capillary
+capillary bed
+capillary hydrostatic pressure ; CHP
+cardiogenic shock
+carotid sinuses
+cavernous sinus
+celiac trunk
+cephalic vein
+cerebrovascular accident ; CVA
+circle of Willis
+circulatory shock
+common carotid artery
+common hepatic artery
+common iliac artery
+common iliac vein
+compliance
+continuous capillary
+cystic artery
+deep femoral artery
+deep femoral vein
+descending aorta
+diastolic pressure
+digital arteries
+digital veins
+dorsal arch
+dorsal venous arch
+dorsalis pedis artery
+ductus arteriosus
+ductus venosus
+elastic artery
+esophageal artery
+esophageal vein
+external carotid artery
+external elastic membrane
+external iliac artery
+external iliac vein
+external jugular vein
+femoral artery
+femoral circumflex vein
+femoral vein
+fenestrated capillary
+fibular vein
+filtration
+foramen ovale
+genicular artery
+gonadal artery
+gonadal vein
+great cerebral vein
+great saphenous vein
+hemangioblasts
+hemiazygos vein
+hepatic artery proper
+hepatic portal system
+hepatic vein
+hypertension
+hypervolemia
+hypovolemia
+hypovolemic shock
+hypoxia
+inferior mesenteric artery
+inferior phrenic artery
+inferior vena cava
+intercostal artery
+intercostal vein
+internal carotid artery
+internal elastic membrane
+internal iliac artery
+internal iliac vein
+internal jugular vein
+internal thoracic artery
+internal thoracic vein
+interstitial fluid colloidal osmotic pressure ; IFCOP
+interstitial fluid hydrostatic pressure ; IFHP
+ischemia
+Korotkoff sounds
+lateral circumflex artery
+lateral plantar artery
+left gastric artery
+lumbar arteries
+lumbar veins
+lumen
+maxillary vein
+mean arterial pressure ; MAP
+medial plantar artery
+median antebrachial vein
+median cubital vein
+median sacral artery
+mediastinal artery
+metarteriole
+microcirculation
+middle cerebral artery
+middle sacral vein
+muscular artery
+myogenic response
+nervi vasorum
+net filtration pressure ; NFP
+neurogenic shock
+obstructive shock
+occipital sinus
+ophthalmic artery
+ovarian artery
+ovarian vein
+palmar arches
+palmar venous arches
+parietal branches
+perfusion
+pericardial artery
+petrosal sinus
+phrenic vein
+plantar arch
+plantar veins
+plantar venous arch
+popliteal artery
+popliteal vein
+posterior cerebral artery
+posterior communicating artery
+posterior tibial artery
+posterior tibial vein
+precapillary sphincters
+pulmonary artery
+pulmonary circuit
+pulmonary trunk
+pulmonary veins
+pulse
+pulse pressure
+radial artery
+radial vein
+reabsorption
+renal artery
+renal vein
+resistance
+respiratory pump
+right gastric artery
+sepsis
+septic shock
+sigmoid sinuses
+sinusoid capillary
+skeletal muscle pump
+small saphenous vein
+sphygmomanometer
+splenic artery
+straight sinus
+subclavian artery
+subclavian vein
+subscapular vein
+superior mesenteric artery
+superior phrenic artery
+superior sagittal sinus
+superior vena cava
+systolic pressure
+temporal vein
+testicular artery
+testicular vein
+thoracic aorta
+thoroughfare channel
+thyrocervical artery
+transient ischemic attack ; TIA
+transverse sinuses
+trunk
+tunica externa
+tunica intima
+tunica media
+ulnar artery
+ulnar vein
+umbilical arteries
+umbilical vein
+vasa vasorum
+vascular shock
+vascular shunt
+vascular tone
+vascular tubes
+vasoconstriction
+vasodilation
+vasomotion
+vein
+venous reserve
+venule
+vertebral artery
+vertebral vein
+visceral branches
+active immunity
+acute inflammation
+adaptive immune response
+afferent lymphatic vessels
+antibody
+antigen
+antigen presentation
+antigen processing
+antigen receptor
+antigenic determinant
+B cells
+barrier defenses
+bone marrow
+bronchus-associated lymphoid tissue ; BALT
+central tolerance
+chemokine
+chronic inflammation
+chyle
+cisterna chyli
+class switching
+clonal anergy
+clonal deletion
+clonal expansion
+clonal selection
+clone
+complement
+constant region domain
+cytokine
+cytotoxic T cells ; Tc
+delayed hypersensitivity
+early induced immune response
+effector T cells
+efferent lymphatic vessels
+erythroblastosis fetalis
+fas ligand
+Fc region
+germinal centers
+graft-versus-host disease
+granzyme
+heavy chain
+helper T cells ; Th
+high endothelial venules
+histamine
+IgA
+IgD
+IgE
+IgG
+IgM
+immediate hypersensitivity
+immune system
+immunoglobulin
+immunological memory
+inflammation
+innate immune response
+interferons
+light chain
+lymph
+lymph node
+lymphatic capillaries
+lymphatic system
+lymphatic trunks
+lymphocytes
+lymphoid nodules
+macrophage
+macrophage oxidative metabolism
+major histocompatibility complex ; MHC
+mast cell
+memory T cells
+MHC class I
+MHC class II
+MHC polygeny
+MHC polymorphism
+monocyte
+mucosa-associated lymphoid tissue ; MALT
+natural killer cell ; NK
+naïve lymphocyte
+negative selection
+neutralization
+neutrophil
+opsonization
+passive immunity
+pattern recognition receptor ; PRR
+perforin
+peripheral tolerance
+phagocytosis
+plasma cell
+polyclonal response
+positive selection
+primary adaptive response
+primary lymphoid organ
+psychoneuroimmunology
+regulatory T cells ; Treg
+right lymphatic duct
+secondary adaptive response
+secondary lymphoid organs
+sensitization
+seroconversion
+severe combined immunodeficiency disease ; SCID
+spleen
+T cell
+T cell tolerance
+T cell-dependent antigen
+T cell-independent antigen
+Th1 cells
+Th2 cells
+thoracic duct
+thymocyte
+thymus
+tissue typing
+tonsils
+type I hypersensitivity
+type II hypersensitivity
+type III hypersensitivity
+variable region domain
+acclimatization
+acute mountain sickness ; AMS
+ala
+alar cartilage
+alveolar dead space
+alveolar duct
+alveolar macrophage
+alveolar pore
+alveolar sac
+alveolus
+anatomical dead space
+apex
+apneustic center
+atmospheric pressure
+Bohr effect
+Boyle’s law
+bridge
+bronchial bud
+bronchial tree
+bronchiole
+bronchoconstriction
+bronchodilation
+bronchus
+carbaminohemoglobin
+carbonic anhydrase ; CA
+cardiac notch
+central chemoreceptor
+chloride shift
+conducting zone
+cricoid cartilage
+Dalton’s law
+dorsal respiratory group ; DRG
+dorsum nasi
+epiglottis
+expiration
+expiratory reserve volume ; ERV
+external nose
+external respiration
+fauces
+fibroelastic membrane
+forced breathing
+foregut
+functional residual capacity ; FRC
+glottis
+Haldane effect
+Henry’s law
+hilum
+hyperpnea
+hyperventilation
+inspiration
+inspiratory capacity ; IC
+inspiratory reserve volume ; IRV
+internal respiration
+intra-alveolar pressure
+intrapleural pressure
+laryngeal prominence
+laryngopharynx
+laryngotracheal
+larynx
+lingual tonsil
+lung
+lung bud
+meatus
+naris
+nasal bone
+nasal septum
+nasopharynx
+olfactory pit
+oropharynx
+oxygen–hemoglobin dissociation curve
+oxyhemoglobin
+palatine tonsil
+paranasal sinus
+parietal pleura
+partial pressure
+peripheral chemoreceptor
+pharyngeal tonsil
+pharynx
+philtrum
+pleural cavity
+pleural fluid
+pneumotaxic center
+pulmonary artery
+pulmonary plexus
+pulmonary surfactant
+pulmonary ventilation
+quiet breathing
+residual volume ; RV
+respiratory bronchiole
+respiratory cycle
+respiratory epithelium
+respiratory membrane
+respiratory rate
+respiratory volume
+respiratory zone
+root
+thoracic wall compliance
+thyroid cartilage
+tidal volume ; TV
+total dead space
+total lung capacity ; TLC
+total pressure
+trachea
+trachealis muscle
+transpulmonary pressure
+true vocal cord
+type I alveolar cell
+type II alveolar cell
+ventilation
+ventral respiratory group ; VRG
+vestibular fold
+visceral pleura
+vital capacity ; VC
+absorption
+accessory digestive organ
+accessory duct
+acinus
+alimentary canal
+aminopeptidase
+anal canal
+anal column
+anal sinus
+appendix
+ascending colon
+bacterial flora
+bile
+bile canaliculus
+bilirubin
+body
+bolus
+brush border
+cardia
+cecum
+cementum
+central vein
+cephalic phase
+chemical digestion
+chief cell
+chylomicron
+chyme
+circular fold
+colon
+common bile duct
+common hepatic duct
+crown
+cuspid
+cystic duct
+deciduous tooth
+defecation
+deglutition
+dens
+dentin
+dentition
+deoxyribonuclease
+descending colon
+dipeptidase
+duodenal gland
+duodenum
+enamel
+enteroendocrine cell
+enterohepatic circulation
+enteropeptidase
+epiploic appendage
+esophagus
+external anal sphincter
+fauces
+feces
+flatus
+fundus
+G cell
+gallbladder
+gastric emptying
+gastric gland
+gastric phase
+gastric pit
+gastrin
+gastrocolic reflex
+gastroileal reflex
+gingiva
+haustral contraction
+haustrum
+hepatic artery
+hepatic lobule
+hepatic portal vein
+hepatic sinusoid
+hepatic vein
+hepatocytes
+hepatopancreatic ampulla
+hepatopancreatic sphincter
+hydrochloric acid ; HCl
+ileocecal sphincter
+ileum
+incisor
+ingestion
+internal anal sphincter
+intestinal gland
+intestinal juice
+intestinal phase
+intrinsic factor
+jejunum
+labial frenulum
+labium
+lactase
+lacteal
+large intestine
+laryngopharynx
+left colic flexure
+lingual frenulum
+lingual lipase
+lipoprotein lipase
+liver
+lower esophageal sphincter
+main pancreatic duct
+major duodenal papilla
+maltase
+mass movement
+mastication
+mechanical digestion
+mesoappendix
+micelle
+microvillus
+migrating motility complex
+mixing wave
+molar
+motilin
+motility
+mucosa
+mucosal barrier
+mucous neck cell
+muscularis
+myenteric plexus
+nucleosidase
+oral cavity
+oral vestibule
+oropharynx
+palatoglossal arch
+palatopharyngeal arch
+pancreas
+pancreatic amylase
+pancreatic juice
+pancreatic lipase
+pancreatic nuclease
+parietal cell
+parotid gland
+pectinate line
+pepsinogen
+peristalsis
+permanent tooth
+pharynx
+phosphatase
+porta hepatis
+portal triad
+premolar
+propulsion
+pulp cavity
+pyloric antrum
+pyloric canal
+pyloric sphincter
+pylorus
+rectal valve
+rectum
+reticuloendothelial cell
+retroperitoneal
+ribonuclease
+right colic flexure
+root
+ruga
+saccharolytic fermentation
+saliva
+salivary amylase
+salivary gland
+salivation
+segmentation
+serosa
+sigmoid colon
+small intestine
+soft palate
+stomach
+sublingual gland
+submandibular gland
+submucosa
+submucosal plexus
+sucrase
+tenia coli
+tongue
+transverse colon
+upper esophageal sphincter
+Valsalva’s maneuver
+villus
+voluntary phase
+α-dextrin
+α-dextrinase
+absorptive state
+acetyl coenzyme A ; acetyl CoA
+anabolic hormones
+anabolic reactions
+ATP synthase
+basal metabolic rate ; BMR
+beta -hydroxybutyrate; β-hydroxybutyrate
+beta -oxidation; β-oxidation
+bile salts
+biosynthesis reactions
+body mass index ; BMI
+calorie
+catabolic hormones
+catabolic reactions
+cellular respiration
+cholecystokinin ; CCK
+chylomicrons
+chymotrypsin
+chymotrypsinogen
+citric acid cycle
+conduction
+convection
+elastase
+electron transport chain ; ETC
+energy-consuming phase
+energy-yielding phase
+enterokinase
+evaporation
+FADH2
+fatty acid oxidation
+flavin adenine dinucleotide ; FAD
+glucokinase
+gluconeogenesis
+glucose-6-phosphate
+glycogen
+glycolysis
+hexokinase
+hydroxymethylglutaryl CoA ; HMG CoA
+inactive proenzymes
+insulin
+ketone bodies
+Krebs cycle
+lipogenesis
+lipolysis
+metabolic rate
+metabolism
+minerals
+monoglyceride molecules
+monosaccharide
+NADH
+nicotinamide adenine dinucleotide ; NAD
+oxidation
+oxidation-reduction reaction
+oxidative phosphorylation
+pancreatic lipases
+pepsin
+polysaccharides
+postabsorptive state
+proteolysis
+pyruvate
+radiation
+reduction
+salivary amylase
+secretin
+sodium bicarbonate
+terminal electron acceptor
+thermoneutral
+thermoregulation
+transamination
+tricarboxylic acid cycle ; TCA
+triglycerides
+trypsin
+trypsinogen
+urea cycle
+vitamins
+anatomical sphincter
+angiotensin I
+angiotensin II
+angiotensin-converting enzyme ; ACE
+angiotensinogen
+anuria
+aquaporin
+Bowman’s capsule
+brush border
+calyces
+cortical nephrons
+countercurrent multiplier system
+detrusor muscle
+distal convoluted tubules
+diuretic
+efferent arteriole
+endothelins
+external urinary sphincter
+fenestrations
+filtration slits
+forming urine
+glomerular filtration rate ; GFR
+glomerulus
+glycosuria
+incontinence
+intercalated cell
+internal urinary sphincter
+inulin
+juxtaglomerular apparatus ; JGA
+juxtaglomerular cell
+juxtamedullary nephrons
+leaky tight junctions
+leukocyte esterase
+loop of Henle
+macula densa
+medulla
+mesangial
+micturition
+myogenic mechanism
+nephrons
+net filtration pressure ; NFP
+oliguria
+osteomalacia
+pedicels
+peritubular capillaries
+physiological sphincter
+podocytes
+polyuria
+principal cell
+proximal convoluted tubules ; PCTs
+renal columns
+renal corpuscle
+renal cortex
+renal fat pad
+renal hilum
+renal papillae
+renal pyramids
+renin
+retroperitoneal
+sacral micturition center
+specific gravity
+systemic edema
+trigone
+tubuloglomerular feedback
+urethra
+urinalysis
+urochrome
+vasa recta
+antidiuretic hormone ; ADH
+dehydration
+dihydroxyvitamin D
+diuresis
+extracellular fluid ; ECF
+fluid compartment
+hydrostatic pressure
+hypercalcemia
+hypercapnia
+hyperchloremia
+hyperkalemia
+hypernatremia
+hyperphosphatemia
+hypocalcemia
+hypocapnia
+hypochloremia
+hypokalemia
+hyponatremia
+hypophosphatemia
+interstitial fluid ; IF
+intracellular fluid ; ICF
+metabolic acidosis
+metabolic alkalosis
+plasma osmolality
+respiratory acidosis
+respiratory alkalosis
+alveoli
+ampulla
+antrum
+areola
+Bartholin’s glands
+blood–testis barrier
+body of uterus
+broad ligament
+bulbourethral glands
+cervix
+clitoris
+corpus albicans
+corpus cavernosum
+corpus luteum
+corpus spongiosum
+ductus deferens
+ejaculatory duct
+endometrium
+epididymis
+fimbriae
+follicle
+folliculogenesis
+fundus
+gamete
+glans penis
+gonadotropin-releasing hormone ; GnRH
+gonads
+granulosa cells
+hymen
+infundibulum
+inguinal canal
+isthmus
+labia majora
+labia minora
+lactiferous ducts
+lactiferous sinus
+Leydig cells
+mammary glands
+menarche
+menses
+menses phase
+menstrual cycle
+mons pubis
+myometrium
+Müllerian duct
+oocyte
+oogenesis
+oogonia
+ovarian cycle
+ovaries
+ovulation
+ovum
+penis
+perimetrium
+polar body
+prepuce
+primary follicles
+primordial follicles
+proliferative phase
+prostate gland
+puberty
+rugae
+scrotum
+secondary follicles
+secondary sex characteristics
+secretory phase
+semen
+seminal vesicle
+seminiferous tubules
+Sertoli cells
+sperm
+spermatic cord
+spermatid
+spermatocyte
+spermatogenesis
+spermatogonia
+spermiogenesis
+suspensory ligaments
+tertiary follicles
+testes
+theca cells
+uterine tubes
+uterus
+vagina
+vulva
+Wolffian duct
+acrosomal reaction
+acrosome
+afterbirth
+allantois
+allele
+amnion
+amniotic cavity
+autosomal chromosome
+autosomal dominant
+autosomal recessive
+blastocoel
+blastocyst
+blastomere
+Braxton Hicks contractions
+brown adipose tissue
+capacitation
+carrier
+chorion
+chorionic membrane
+chorionic villi
+cleavage
+codominance
+colostrum
+conceptus
+corona radiata
+cortical reaction
+dilation
+dominant
+dominant lethal
+ductus arteriosus
+ductus venosus
+ectoderm
+ectopic pregnancy
+embryo
+embryonic folding
+endoderm
+epiblast
+episiotomy
+expulsion
+fertilization
+fertilization membrane
+fetus
+foramen ovale
+foremilk
+gastrulation
+genotype
+gestation
+heterozygous
+hindmilk
+homozygous
+human chorionic gonadotropin ; hCG
+hypoblast
+implantation
+incomplete dominance
+inner cell mass
+involution
+karyotype
+lactation
+lanugo
+let-down reflex
+lightening
+lochia
+meconium
+mesoderm
+morula
+mutation
+neural fold
+neural plate
+neural tube
+neurulation
+nonshivering thermogenesis
+notochord
+organogenesis
+parturition
+phenotype
+placenta
+placenta previa
+placentation
+polyspermy
+primitive streak
+prolactin
+Punnett square
+quickening
+recessive
+recessive lethal
+sex chromosomes
+shunt
+somite
+syncytiotrophoblast
+trait
+trimester
+trophoblast
+true labor
+umbilical cord
+vernix caseosa
+X-linked
+X-linked dominant
+X-linked recessive
+yolk sac
+zona pellucida
+zygote
