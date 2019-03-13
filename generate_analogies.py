@@ -3,8 +3,9 @@ from gensim.models import KeyedVectors
 from gensim.scripts.glove2word2vec import glove2word2vec
 import pprint
 import numpy as np
-# glove_file = './data/word_vectors/life_vectors.txt'
-glove_file = 'glove.6B.300d.txt'
+
+glove_file = './data/word_vectors/biology_vectors.txt'
+# glove_file = 'glove.6B.300d.txt'
 # tmp_file = get_tmpfile("word2vec_life.txt")
 tmp_file = get_tmpfile("pretrained_word2vec.txt")
 
