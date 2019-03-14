@@ -1,34 +1,44 @@
 from gensim.test.utils import datapath, get_tmpfile
 from gensim.models import KeyedVectors
+from gensim.models.wrappers import FastText
 from gensim.scripts.glove2word2vec import glove2word2vec
 import pprint
 import numpy as np
 
-glove_file = './data/word_vectors/biology_vectors.txt'
-# glove_file = 'glove.6B.300d.txt'
-# tmp_file = get_tmpfile("word2vec_life.txt")
-tmp_file = get_tmpfile("pretrained_word2vec.txt")
+# load different word vectors into gensim model
+def load_model(name):
+	if name == 'fasttext':
+		model = FastText.load_fasttext_format('./data/word_vectors/fast_text_biology.bin')
+		return model
 
-_ = glove2word2vec(glove_file, tmp_file)
+	if name == 'fasttext_pretrain':
+		model = FastText.load_fasttext_format('wiki.en/wiki.en.bin')
+		return model
 
-model = KeyedVectors.load_word2vec_format(tmp_file)
-# cellulose | Adhesion | plant | Photosynthesis
+	if name == 'biology':
+		glove_file = './data/word_vectors/biology_vectors.txt'
+	elif name == 'glove':
+		glove_file = 'glove.6B.300d.txt'
+	elif name == 'life':
+		glove_file = './data/word_vectors/life_vectors.txt'
 
-# scores = model.most_similar(positive=['adhesion' 'plant'], negative=['cellulose'])
-# print(scores)
+	tmp_file = get_tmpfile("pretrained_word2vec.txt")
+	_ = glove2word2vec(glove_file, tmp_file)
+	model = KeyedVectors.load_word2vec_format(tmp_file)
+	return model
 
-def get_most_similar_words(word1, word2, word3):
+def get_most_similar_words(model, word1, word2, word3):
 	scores = model.most_similar(positive=[word2, word3], negative=[word1])
 	return [word for word, score in scores], [score for word,score in scores]
 
-def get_successful_analogies(analogies):
+def get_successful_analogies(model, analogies):
 	successes = []
 	correct = []
 	scores = []
 	for analogy in analogies:
 		word1, word2, word3, word4 = analogy.split()
 		try:
-			words, sim_scores = get_most_similar_words(word1, word2, word3)
+			words, sim_scores = get_most_similar_words(model, word1, word2, word3)
 			if word4 in words:
 				successes.append(1)
 				correct.append(analogy)
@@ -43,7 +53,11 @@ def get_successful_analogies(analogies):
 
 with open('data/analogy_data/unigram_analogy.txt') as f:
 	analogies = f.readlines()
-	successes, correct,scores = get_successful_analogies(analogies)
+
+	# read in word vectors from defined wordvectors
+	model = load_model('fasttext_pretrain')
+
+	successes, correct,scores = get_successful_analogies(model, analogies)
 
 	print(sum(successes))
 	print(len(successes))
