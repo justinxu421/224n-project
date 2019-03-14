@@ -1,0 +1,38 @@
+14331 | galactose | organic molecule | chromoplast | organelle 
+18263 | nucleotide | double bond | carrier protein | kinetic energy 
+7693 | plant cell | Golgi apparatus | hydroxide ion | oxygen atom 
+18027 | NAD plus | covalent bond | alanine | nonpolar covalent bond 
+14635 | CAM plant | plasmodesmata | cell wall | carbohydrate 
+2315 | pyruvate | oxygen atom | rough endoplasmic reticulum | aqueous solution 
+15706 | hydrophilic substance | hydrophilic compound | thylakoid membrane | ATP synthase 
+10105 | mitogen-activated protein kinase | protein enzyme | rubisco | organic molecule 
+8929 | carboxylic acid | carboxyl group | thylakoid | thylakoid space 
+2468 | phosphodiester bond | ester linkage | cytochrome complex | cytochrome 
+16298 | Fermentation | Metabolic pathway | Cell signaling with cAMP and G-protein coupled receptor | Cell signaling with G-protein coupled receptor 
+3758 | chlorophyll A | methyl group | pentose | carbonyl group 
+17506 | P680 | carbon skeleton | P700 | methyl group 
+6593 | oligosaccharide | polar covalent bond | coenzyme A | kinetic energy 
+19746 | amphipathic molecule | kinetic energy | oxygen molecule | nonpolar covalent bond 
+10870 | glycoprotein | kinetic energy | ionic compound | ionic attraction 
+7268 | intermediate filament | carbon skeleton | monosaccharide | hydroxyl group 
+10830 | unsaturated fat | double bond | disaccharide | kinetic energy 
+12727 | amylopectin | hydrogen atom | sunlight | visible light 
+14476 | bound ribosome | ribosome | green light | light 
+8298 | triose | polar covalent bond | water | potential energy 
+14013 | actin | water soluble protein | Cellular respiration of fat | Catabolism 
+4651 | ketone | kinetic energy | AMP | kinetic energy 
+19498 | Golgi apparatus | cellular structure | chemical energy | potential energy 
+16536 | polymer | covalent bond | lactic acid | kinetic energy 
+51 | macrophage | Phagocytosis | lysosome | Intracellular digestion 
+17750 | aqueous solution | solution | polar covalent bond | covalent bond 
+6323 | AMP | single bond | aquaporin | kinetic energy 
+10303 | carboxylic acid | carboxyl group | ribulose bisphosphate | hydroxyl group 
+4016 | motor protein | carbon skeleton | phosphatidylcholine | hydrophilic head 
+7881 | coenzyme A | sulfhydryl group | ribulose bisphosphate | carbon skeleton 
+6891 | DNA | phosphodiester bond | phosphofructokinase | covalent bond 
+32 | rubisco | kinetic energy | plant cell | turgor pressure 
+19065 | hexose | polar covalent bond | disaccharide | polar covalent bond 
+15475 | photosynthetic pigment | molecule | uncoupling protein | transport membrane protein 
+5163 | maltose | organic molecule | actin | polymer 
+14017 | chlorophyll B | carbonyl group | endoplasmic reticulum | cisternal space 
+6914 | maltose | carbonyl group | coenzyme A | carbon skeleton 

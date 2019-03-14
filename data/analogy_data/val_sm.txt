@@ -1,0 +1,15 @@
+12975 | light | energy | actin | protein 
+7162 | oligosaccharide | polar covalent bond | fatty acid | kinetic energy 
+12512 | saturated fatty acid | kinetic energy | gradient | potential energy 
+3958 | Cellular respiration | Catabolic pathway | Inhibition | Regulation 
+7469 | Photosynthesis | Endergonic reaction | cellulose | polysaccharide 
+12726 | amylopectin | alpha glucose | sunlight | visible light 
+15748 | smooth endoplasmic reticulum | cisternal space | amino acid | carbon skeleton 
+16421 | carbohydrate side chain | molecule | carbohydrate side chain | carbohydrate 
+18411 | thylakoid | cellular structure | hexose | monosaccharide 
+15821 | basic amino acid | kinetic energy | polymer | covalent bond 
+18688 | connexon | transport membrane protein | proline | amino acid 
+15530 | pentose | double bond | RNA | phosphodiester bond 
+5996 | hydrophilic amino acid | amino group | pyruvate | carbonyl group 
+7597 | carbohydrate | kinetic energy | GTP | kinetic energy 
+895 | photosystem I | light-harvesting complex | thylakoid electron transport chain | plastocyanin 

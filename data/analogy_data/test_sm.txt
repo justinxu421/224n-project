@@ -1,0 +1,26 @@
+16441 | proton pump | kinetic energy | basic amino acid | single bond 
+120 | hydrophobic amino acid | hydrogen atom | polymer | monomer 
+13101 | lactic acid | organic molecule | ligase | organic molecule 
+5512 | phosphofructokinase | covalent bond | ATP synthase | peptide linkage 
+12272 | polysaccharide | glycosidic linkage | PGAP | double bond 
+10906 | AMP | kinetic energy | phosphofructokinase | covalent bond 
+5293 | aldehyde | carbonyl group | NADP Plus | carbon skeleton 
+6328 | transferase | polymer | oligosaccharide | molecule 
+17355 | gated Channel | polypeptide | basic solution | base 
+3040 | lysosomal enzyme | polypeptide | water molecule | oxygen atom 
+12756 | unsaturated fatty acid | kinetic energy | 3 phosphoglycerate | single bond 
+5775 | transport vesicle | cellular structure | motor protein | organic molecule 
+18681 | plant cell | turgor pressure | AMP | single bond 
+6741 | hydrogen ion gradient | proton-motive force | tyrosine | kinetic energy 
+13063 | Protein denaturation by denaturation agent | Protein denaturation | purine | nitrogenous base 
+8481 | water soluble protein | polymer | Lactic acid fermentation in muscle cell | Fermentation 
+7149 | alanine | hydrogen atom | animal | water 
+12484 | early prokaryote | prokaryote | plant | eukaryote 
+6154 | glycoprotein | carbon skeleton | lactic acid | carbon skeleton 
+15485 | diacylglycerol | amphipathic molecule | nucleotide | molecule 
+1345 | macrophage | cytoplasm | actin | monomer 
+4519 | ADP | double bond | cytochrome | kinetic energy 
+11789 | tyrosine | hydroxyl group | adenylyl cyclase | active site 
+11018 | sodium-potassium pump | peptide linkage | GTP | single bond 
+8912 | glycogen | kinetic energy | pentose | polar covalent bond 
+1314 | nucleotide | double bond | aspartic acid | kinetic energy 
