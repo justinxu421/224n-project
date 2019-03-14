@@ -219,7 +219,7 @@ if __name__ == '__main__':
 
     vocab = Vocab.build(src_sents, tgt_sents, int(args['--size']), int(args['--freq-cutoff']))
 
-    weight_embeddings,word2index,index2word = w2v_embeding('../GloVe-1.2/life_vectors.txt',vocab.src.word2id)
+    weight_embeddings,word2index,index2word = w2v_embeding('../GloVe-1.2/biology_vectors.txt',vocab.src.word2id)
     src = VocabEntry(word2index)
     tgt = VocabEntry(word2index)
     vocab = Vocab(src,tgt)

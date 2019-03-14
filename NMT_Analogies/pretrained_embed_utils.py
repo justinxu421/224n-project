@@ -4,7 +4,7 @@ def w2v_embeding(wordvecs,train_word2index):
     sents = []
 
     print("Reading in pretrained word vectors")
-    weight_embeddings = torch.zeros(4,50)
+    weight_embeddings = torch.zeros(4,300)
     index = 4
 
     word2index = {}
@@ -41,7 +41,7 @@ def w2v_embeding(wordvecs,train_word2index):
 
     additional_words  = [ word for word in train_word2index if word not in word2index]
     for word in additional_words:
-        torch_w = torch.zeros(1,50)
+        torch_w = torch.zeros(1,300)
         weight_embeddings = torch.cat((weight_embeddings,torch_w),0)      
         index2word[index] = word
         word2index[word] = index

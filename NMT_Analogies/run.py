@@ -128,7 +128,7 @@ def train(args: Dict):
 
 
     vocab = Vocab.load(args['--vocab'])
-    weight_embeddings,word2index,index2word = w2v_embeding('../GloVe-1.2/life_vectors.txt', vocab.src.word2id)
+    weight_embeddings,word2index,index2word = w2v_embeding('../GloVe-1.2/biology_vectors.txt', vocab.src.word2id)
 
     model = NMT(embed_size=int(args['--embed-size']),
                 hidden_size=int(args['--hidden-size']),

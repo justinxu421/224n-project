@@ -68,7 +68,7 @@ def deep_model_preprocessing(analogy_corpus,extract_all=False, ngram_abc="ngram_
     ngram_vald = base_address + "ngram_val.d"
 
     random.shuffle(analogy_corpus)
-    splits = [100,120,140] #splits for train,val, test
+    splits = [54351,62117,77645] #splits for train,val, test
     print(analogy_corpus[: splits[0]])
     if extract_all:
         print("Extract abc analogy")
@@ -147,7 +147,7 @@ def extract_unigram_analogies(analogy_corpus, unigram_file="unigram_tokens.txt")
 
 def main():
     analogy_corpus = read_analogies('./data/analogy_data/all-analogy-unique.txt');
-    deep_model_preprocessing_csv(analogy_corpus, ngram_abc="ngram_tokens.abc",ngram_d="ngram_tokens.d" )
+    deep_model_preprocessing(analogy_corpus, ngram_abc="ngram_tokens.abc",ngram_d="ngram_tokens.d" )
     # unigram_analogy = extract_unigram_analogies(analogy_corpus, "./data/unigram_tokens.txt")
 
 if __name__ == '__main__':
