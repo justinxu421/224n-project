@@ -1,0 +1,5 @@
+name: allennlp
+channels:
+  - defaults
+prefix: /Users/hanlin/anaconda/envs/allennlp
+
