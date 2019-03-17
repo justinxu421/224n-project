@@ -432,7 +432,133 @@ class NMT(nn.Module):
         return enc_masks.to(self.device)
 
 
+
     def beam_search(self, src_sent: List[str], beam_size: int=5, max_decoding_time_step: int=70) -> List[Hypothesis]:
+        """ Given a single source sentence, perform beam search, yielding translations in the target language.
+        @param src_sent (List[str]): a single source sentence (words)
+        @param beam_size (int): beam size
+        @param max_decoding_time_step (int): maximum number of time steps to unroll the decoding RNN
+        @returns hypotheses (List[Hypothesis]): a list of hypothesis, each hypothesis has two fields:
+                value: List[str]: the decoded target sentence, represented as a list of words
+                score: float: the log-likelihood of the target sentence
+        """
+        ## A4 code
+        # src_sents_var = self.vocab.src.to_input_tensor([src_sent], self.device)
+        ## End A4 code
+
+        src_char_sents_var = self.vocab.src.to_input_tensor_char([src_sent], self.device)
+        src_word_sents_var = self.vocab.src.to_input_tensor([src_sent], device=self.device)   # Tensor: (src_len, b)
+        char_embs = self.model_char_embeddings_source(src_char_sents_var)
+        word_embs = self.model_word_embeddings.source(src_word_sents_var)
+
+        embd = self.contextual_embedding_layer(word_embs,char_embs)
+
+
+        src_encodings, dec_init_vec = self.encode(embd, [len(src_sent)])
+        src_encodings_att_linear = self.att_projection(src_encodings)
+
+        h_tm1 = dec_init_vec
+        att_tm1 = torch.zeros(1, self.hidden_size, device=self.device)
+
+        eos_id = self.vocab.tgt['</s>']
+
+        hypotheses = [['<s>']]
+        hyp_scores = torch.zeros(len(hypotheses), dtype=torch.float, device=self.device)
+        completed_hypotheses = []
+
+
+        t = 0
+        while len(completed_hypotheses) < beam_size and t < max_decoding_time_step:
+            t += 1
+            hyp_num = len(hypotheses)
+
+            exp_src_encodings = src_encodings.expand(hyp_num,
+                                                     src_encodings.size(1),
+                                                     src_encodings.size(2))
+
+            exp_src_encodings_att_linear = src_encodings_att_linear.expand(hyp_num,
+                                                                           src_encodings_att_linear.size(1),
+                                                                           src_encodings_att_linear.size(2))
+            
+            ## A4 code
+            # y_tm1 = self.vocab.tgt.to_input_tensor(list([hyp[-1]] for hyp in hypotheses), device=self.device)
+            # y_t_embed = self.model_embeddings_target(y_tm1)
+            ## End A4 code
+
+            y_tm1 = self.vocab.src.to_input_tensor_char(list([hyp[-1]] for hyp in hypotheses), device=self.device)
+            y_t_embed = self.model_char_embeddings_target(y_tm1)
+            y_t_embed = torch.squeeze(y_t_embed, dim=0)
+
+
+            x = torch.cat([y_t_embed, att_tm1], dim=-1)
+
+            (h_t, cell_t), att_t, _  = self.step(x, h_tm1,
+                                                      exp_src_encodings, exp_src_encodings_att_linear, enc_masks=None)
+
+            # log probabilities over target words
+            log_p_t = F.log_softmax(self.target_vocab_projection(att_t), dim=-1)
+
+            live_hyp_num = beam_size - len(completed_hypotheses)
+            contiuating_hyp_scores = (hyp_scores.unsqueeze(1).expand_as(log_p_t) + log_p_t).view(-1)
+            top_cand_hyp_scores, top_cand_hyp_pos = torch.topk(contiuating_hyp_scores, k=live_hyp_num)
+
+            prev_hyp_ids = top_cand_hyp_pos / len(self.vocab.tgt)
+            hyp_word_ids = top_cand_hyp_pos % len(self.vocab.tgt)
+
+            new_hypotheses = []
+            live_hyp_ids = []
+            new_hyp_scores = []
+
+            decoderStatesForUNKsHere = []
+            for prev_hyp_id, hyp_word_id, cand_new_hyp_score in zip(prev_hyp_ids, hyp_word_ids, top_cand_hyp_scores):
+                prev_hyp_id = prev_hyp_id.item()
+                hyp_word_id = hyp_word_id.item()
+                cand_new_hyp_score = cand_new_hyp_score.item()
+
+                hyp_word = self.vocab.tgt.id2word[hyp_word_id]
+
+                # Record output layer in case UNK was generated
+                if hyp_word == "<unk>":
+                   hyp_word = "<unk>"+str(len(decoderStatesForUNKsHere))
+                   decoderStatesForUNKsHere.append(att_t[prev_hyp_id])
+
+                new_hyp_sent = hypotheses[prev_hyp_id] + [hyp_word]
+                if hyp_word == '</s>':
+                    completed_hypotheses.append(Hypothesis(value=new_hyp_sent[1:-1],
+                                                           score=cand_new_hyp_score))
+                else:
+                    new_hypotheses.append(new_hyp_sent)
+                    live_hyp_ids.append(prev_hyp_id)
+                    new_hyp_scores.append(cand_new_hyp_score)
+
+            if len(decoderStatesForUNKsHere) > 0 and self.charDecoder is not None: # decode UNKs
+                decoderStatesForUNKsHere = torch.stack(decoderStatesForUNKsHere, dim=0)
+                decodedWords = self.charDecoder.decode_greedy((decoderStatesForUNKsHere.unsqueeze(0), decoderStatesForUNKsHere.unsqueeze(0)), max_length=21, device=self.device)
+                assert len(decodedWords) == decoderStatesForUNKsHere.size()[0], "Incorrect number of decoded words" 
+                for hyp in new_hypotheses:
+                  if hyp[-1].startswith("<unk>"):
+                        hyp[-1] = decodedWords[int(hyp[-1][5:])]#[:-1]
+
+            if len(completed_hypotheses) == beam_size:
+                break
+
+            live_hyp_ids = torch.tensor(live_hyp_ids, dtype=torch.long, device=self.device)
+            h_tm1 = (h_t[live_hyp_ids], cell_t[live_hyp_ids])
+            att_tm1 = att_t[live_hyp_ids]
+
+            hypotheses = new_hypotheses
+            hyp_scores = torch.tensor(new_hyp_scores, dtype=torch.float, device=self.device)
+
+        if len(completed_hypotheses) == 0:
+            completed_hypotheses.append(Hypothesis(value=hypotheses[0][1:],
+                                                   score=hyp_scores[0].item()))
+
+        completed_hypotheses.sort(key=lambda hyp: hyp.score, reverse=True)
+        return completed_hypotheses
+
+
+
+    def beam_search_incorrect(self, src_sent: List[str], beam_size: int=5, max_decoding_time_step: int=70) -> List[Hypothesis]:
         """ Given a single source sentence, perform beam search, yielding translations in the target language.
         @param src_sent (List[str]): a single source sentence (words)
         @param beam_size (int): beam size
