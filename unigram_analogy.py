@@ -58,17 +58,18 @@ def deep_model_preprocessing_csv(analogy_corpus,extract_all=False, ngram_abc="ng
 
 def deep_model_preprocessing(analogy_corpus,extract_all=False, ngram_abc="ngram_tokens.abc",ngram_d="ngram_tokens.d",base_address="./NMT_Analogies/data/"):
     print(len(analogy_corpus))
-    ngram_trainabc= base_address + "ngram_train.abc"
-    ngram_traind= base_address + "ngram_train.d" 
+    ngram_trainabc= base_address + "ngram_local_train.abc"
+    ngram_traind= base_address + "ngram_local_train.d" 
 
-    ngram_testabc= base_address + "ngram_test.abc"
-    ngram_testd = base_address + "ngram_test.d"
+    ngram_testabc= base_address + "ngram_local_test.abc"
+    ngram_testd = base_address + "ngram_local_test.d"
 
-    ngram_valabc= base_address + "ngram_val.abc"
-    ngram_vald = base_address + "ngram_val.d"
+    ngram_valabc= base_address + "ngram_local_val.abc"
+    ngram_vald = base_address + "ngram_local_val.d"
 
     random.shuffle(analogy_corpus)
-    splits = [54351,62117,77645] #splits for train,val, test
+    # splits = [54351,62117,77645] #splits for train,val, test
+    splits = [100,120,140] #splits for train,val, test
     print(analogy_corpus[: splits[0]])
     if extract_all:
         print("Extract abc analogy")
