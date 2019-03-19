@@ -1,0 +1,594 @@
+0 | organ | tissue | bone | connective tissue 
+16 | bird | stomach | bone | connective tissue 
+17 | bird | lung | bone | connective tissue 
+18 | bird | pancreas | bone | connective tissue 
+19 | organ | tissue | organ | tissue 
+21 | bird | stomach | heart | tissue 
+22 | bird | lung | heart | tissue 
+23 | bird | pancreas | heart | tissue 
+25 | pancreas | tissue | tendon | connective tissue 
+26 | bone | connective tissue | organ | tissue 
+31 | blood | leukocyte | bone | connective tissue 
+32 | blood | erythrocyte | bone | connective tissue 
+33 | stomach | epithelium | pancreas | tissue 
+34 | stomach | tissue | pancreas | tissue 
+35 | organ | tissue | salivary gland | duct 
+37 | organ | tissue | bone | connective tissue 
+38 | pancreas | tissue | ligament | connective tissue 
+39 | bird | stomach | ligament | connective tissue 
+40 | bird | lung | ligament | connective tissue 
+41 | bird | pancreas | ligament | connective tissue 
+42 | blood | leukocyte | pancreas | tissue 
+43 | blood | erythrocyte | pancreas | tissue 
+44 | blood | leukocyte | organ | tissue 
+45 | blood | erythrocyte | organ | tissue 
+46 | skin | connective tissue | salivary gland | duct 
+47 | blood | leukocyte | bone | connective tissue 
+48 | blood | erythrocyte | bone | connective tissue 
+50 | ligament | connective tissue | tendon | connective tissue 
+51 | bone | connective tissue | organ | tissue 
+54 | stomach | epithelium | organ | tissue 
+55 | stomach | tissue | organ | tissue 
+60 | pancreas | tissue | ligament | connective tissue 
+61 | ligament | connective tissue | tendon | connective tissue 
+62 | heart | tissue | ligament | connective tissue 
+65 | pancreas | tissue | organ | tissue 
+66 | mammal | stomach | tendon | connective tissue 
+67 | mammal | pancreas | tendon | connective tissue 
+68 | mammal | epithelium | tendon | connective tissue 
+69 | mammal | bone | tendon | connective tissue 
+70 | mammal | heart | tendon | connective tissue 
+71 | mammal | lung | tendon | connective tissue 
+72 | tendon | connective tissue | ligament | connective tissue 
+73 | salivary gland | duct | organ | tissue 
+75 | pancreas | tissue | bone | connective tissue 
+76 | skin | connective tissue | tendon | connective tissue 
+77 | ligament | connective tissue | heart | tissue 
+78 | skin | connective tissue | pancreas | tissue 
+79 | salivary gland | duct | salivary gland | duct 
+80 | salivary gland | duct | organ | tissue 
+85 | organ | tissue | heart | tissue 
+86 | ligament | connective tissue | tendon | connective tissue 
+87 | bone | connective tissue | pancreas | tissue 
+88 | skin | connective tissue | tendon | connective tissue 
+89 | skin | connective tissue | salivary gland | duct 
+91 | bird | stomach | ligament | connective tissue 
+92 | bird | lung | ligament | connective tissue 
+93 | bird | pancreas | ligament | connective tissue 
+94 | skin | connective tissue | salivary gland | duct 
+95 | bone | connective tissue | salivary gland | duct 
+103 | heart | tissue | organ | tissue 
+104 | skin | connective tissue | bone | connective tissue 
+105 | mammal | stomach | bone | connective tissue 
+106 | mammal | pancreas | bone | connective tissue 
+107 | mammal | epithelium | bone | connective tissue 
+108 | mammal | bone | bone | connective tissue 
+109 | mammal | heart | bone | connective tissue 
+110 | mammal | lung | bone | connective tissue 
+114 | bird | stomach | organ | tissue 
+115 | bird | lung | organ | tissue 
+116 | bird | pancreas | organ | tissue 
+117 | bird | stomach | ligament | connective tissue 
+118 | bird | lung | ligament | connective tissue 
+119 | bird | pancreas | ligament | connective tissue 
+120 | organ | tissue | bone | connective tissue 
+122 | salivary gland | duct | bone | connective tissue 
+123 | tendon | connective tissue | heart | tissue 
+126 | organ | tissue | organ | tissue 
+127 | tendon | connective tissue | heart | tissue 
+128 | pancreas | tissue | salivary gland | duct 
+130 | bird | stomach | tendon | connective tissue 
+131 | bird | lung | tendon | connective tissue 
+132 | bird | pancreas | tendon | connective tissue 
+133 | tendon | connective tissue | pancreas | tissue 
+134 | mammal | stomach | bone | connective tissue 
+135 | mammal | pancreas | bone | connective tissue 
+136 | mammal | epithelium | bone | connective tissue 
+137 | mammal | bone | bone | connective tissue 
+138 | mammal | heart | bone | connective tissue 
+139 | mammal | lung | bone | connective tissue 
+140 | blood | leukocyte | tendon | connective tissue 
+141 | blood | erythrocyte | tendon | connective tissue 
+142 | salivary gland | duct | ligament | connective tissue 
+143 | stomach | epithelium | pancreas | tissue 
+144 | stomach | tissue | pancreas | tissue 
+145 | heart | tissue | heart | tissue 
+146 | ligament | connective tissue | organ | tissue 
+147 | skin | connective tissue | salivary gland | duct 
+148 | heart | tissue | tendon | connective tissue 
+149 | salivary gland | duct | ligament | connective tissue 
+154 | organ | tissue | organ | tissue 
+156 | bird | stomach | heart | tissue 
+157 | bird | lung | heart | tissue 
+158 | bird | pancreas | heart | tissue 
+159 | salivary gland | duct | pancreas | tissue 
+160 | organ | tissue | tendon | connective tissue 
+163 | salivary gland | duct | bone | connective tissue 
+164 | organ | tissue | pancreas | tissue 
+165 | organ | tissue | tendon | connective tissue 
+172 | bird | stomach | ligament | connective tissue 
+173 | bird | lung | ligament | connective tissue 
+174 | bird | pancreas | ligament | connective tissue 
+175 | pancreas | tissue | pancreas | tissue 
+176 | organ | tissue | bone | connective tissue 
+177 | heart | tissue | bone | connective tissue 
+181 | mammal | stomach | salivary gland | duct 
+182 | mammal | pancreas | salivary gland | duct 
+183 | mammal | epithelium | salivary gland | duct 
+184 | mammal | bone | salivary gland | duct 
+185 | mammal | heart | salivary gland | duct 
+186 | mammal | lung | salivary gland | duct 
+187 | heart | tissue | ligament | connective tissue 
+189 | pancreas | tissue | tendon | connective tissue 
+199 | blood | leukocyte | bone | connective tissue 
+200 | blood | erythrocyte | bone | connective tissue 
+201 | tendon | connective tissue | pancreas | tissue 
+202 | bone | connective tissue | organ | tissue 
+205 | pancreas | tissue | bone | connective tissue 
+209 | bone | connective tissue | tendon | connective tissue 
+210 | ligament | connective tissue | pancreas | tissue 
+212 | stomach | epithelium | tendon | connective tissue 
+213 | stomach | tissue | tendon | connective tissue 
+215 | mammal | stomach | tendon | connective tissue 
+216 | mammal | pancreas | tendon | connective tissue 
+217 | mammal | epithelium | tendon | connective tissue 
+218 | mammal | bone | tendon | connective tissue 
+219 | mammal | heart | tendon | connective tissue 
+220 | mammal | lung | tendon | connective tissue 
+221 | heart | tissue | ligament | connective tissue 
+222 | organ | tissue | heart | tissue 
+224 | ligament | connective tissue | organ | tissue 
+225 | pancreas | tissue | tendon | connective tissue 
+227 | bird | stomach | tendon | connective tissue 
+228 | bird | lung | tendon | connective tissue 
+229 | bird | pancreas | tendon | connective tissue 
+230 | mammal | stomach | salivary gland | duct 
+231 | mammal | pancreas | salivary gland | duct 
+232 | mammal | epithelium | salivary gland | duct 
+233 | mammal | bone | salivary gland | duct 
+234 | mammal | heart | salivary gland | duct 
+235 | mammal | lung | salivary gland | duct 
+236 | bone | connective tissue | tendon | connective tissue 
+239 | ligament | connective tissue | tendon | connective tissue 
+240 | ligament | connective tissue | pancreas | tissue 
+243 | skin | connective tissue | tendon | connective tissue 
+247 | blood | leukocyte | heart | tissue 
+248 | blood | erythrocyte | heart | tissue 
+252 | blood | leukocyte | pancreas | tissue 
+253 | blood | erythrocyte | pancreas | tissue 
+254 | blood | leukocyte | ligament | connective tissue 
+255 | blood | erythrocyte | ligament | connective tissue 
+256 | tendon | connective tissue | ligament | connective tissue 
+257 | skin | connective tissue | pancreas | tissue 
+259 | salivary gland | duct | ligament | connective tissue 
+261 | skin | connective tissue | tendon | connective tissue 
+262 | skin | connective tissue | tendon | connective tissue 
+263 | mammal | stomach | tendon | connective tissue 
+264 | mammal | pancreas | tendon | connective tissue 
+265 | mammal | epithelium | tendon | connective tissue 
+266 | mammal | bone | tendon | connective tissue 
+267 | mammal | heart | tendon | connective tissue 
+268 | mammal | lung | tendon | connective tissue 
+269 | pancreas | tissue | bone | connective tissue 
+272 | salivary gland | duct | pancreas | tissue 
+273 | heart | tissue | organ | tissue 
+274 | organ | tissue | ligament | connective tissue 
+275 | stomach | epithelium | tendon | connective tissue 
+276 | stomach | tissue | tendon | connective tissue 
+277 | skin | connective tissue | salivary gland | duct 
+278 | ligament | connective tissue | salivary gland | duct 
+279 | ligament | connective tissue | organ | tissue 
+280 | mammal | stomach | pancreas | tissue 
+281 | mammal | pancreas | pancreas | tissue 
+282 | mammal | epithelium | pancreas | tissue 
+283 | mammal | bone | pancreas | tissue 
+284 | mammal | heart | pancreas | tissue 
+285 | mammal | lung | pancreas | tissue 
+288 | organ | tissue | ligament | connective tissue 
+289 | organ | tissue | organ | tissue 
+291 | bird | stomach | pancreas | tissue 
+292 | bird | lung | pancreas | tissue 
+293 | bird | pancreas | pancreas | tissue 
+294 | bird | stomach | salivary gland | duct 
+295 | bird | lung | salivary gland | duct 
+296 | bird | pancreas | salivary gland | duct 
+297 | tendon | connective tissue | pancreas | tissue 
+298 | stomach | epithelium | salivary gland | duct 
+299 | stomach | tissue | salivary gland | duct 
+300 | ligament | connective tissue | ligament | connective tissue 
+301 | blood | leukocyte | salivary gland | duct 
+302 | blood | erythrocyte | salivary gland | duct 
+303 | pancreas | tissue | bone | connective tissue 
+305 | organ | tissue | heart | tissue 
+306 | pancreas | tissue | ligament | connective tissue 
+311 | bird | stomach | tendon | connective tissue 
+312 | bird | lung | tendon | connective tissue 
+313 | bird | pancreas | tendon | connective tissue 
+314 | blood | leukocyte | bone | connective tissue 
+315 | blood | erythrocyte | bone | connective tissue 
+316 | salivary gland | duct | bone | connective tissue 
+319 | bone | connective tissue | heart | tissue 
+320 | salivary gland | duct | ligament | connective tissue 
+323 | organ | tissue | organ | tissue 
+324 | bird | stomach | ligament | connective tissue 
+325 | bird | lung | ligament | connective tissue 
+326 | bird | pancreas | ligament | connective tissue 
+327 | mammal | stomach | tendon | connective tissue 
+328 | mammal | pancreas | tendon | connective tissue 
+329 | mammal | epithelium | tendon | connective tissue 
+330 | mammal | bone | tendon | connective tissue 
+331 | mammal | heart | tendon | connective tissue 
+332 | mammal | lung | tendon | connective tissue 
+333 | mammal | stomach | heart | tissue 
+334 | mammal | pancreas | heart | tissue 
+335 | mammal | epithelium | heart | tissue 
+336 | mammal | bone | heart | tissue 
+337 | mammal | heart | heart | tissue 
+338 | mammal | lung | heart | tissue 
+339 | stomach | epithelium | bone | connective tissue 
+340 | stomach | tissue | bone | connective tissue 
+345 | organ | tissue | pancreas | tissue 
+346 | skin | connective tissue | tendon | connective tissue 
+348 | bird | stomach | pancreas | tissue 
+349 | bird | lung | pancreas | tissue 
+350 | bird | pancreas | pancreas | tissue 
+351 | salivary gland | duct | tendon | connective tissue 
+355 | tendon | connective tissue | ligament | connective tissue 
+357 | blood | leukocyte | salivary gland | duct 
+358 | blood | erythrocyte | salivary gland | duct 
+363 | bird | stomach | heart | tissue 
+364 | bird | lung | heart | tissue 
+365 | bird | pancreas | heart | tissue 
+366 | skin | connective tissue | salivary gland | duct 
+369 | tendon | connective tissue | heart | tissue 
+370 | heart | tissue | pancreas | tissue 
+373 | heart | tissue | ligament | connective tissue 
+374 | pancreas | tissue | ligament | connective tissue 
+377 | tendon | connective tissue | tendon | connective tissue 
+382 | bird | stomach | tendon | connective tissue 
+383 | bird | lung | tendon | connective tissue 
+384 | bird | pancreas | tendon | connective tissue 
+385 | salivary gland | duct | organ | tissue 
+386 | stomach | epithelium | organ | tissue 
+387 | stomach | tissue | organ | tissue 
+388 | heart | tissue | salivary gland | duct 
+389 | organ | tissue | tendon | connective tissue 
+392 | skin | connective tissue | heart | tissue 
+394 | skin | connective tissue | salivary gland | duct 
+398 | organ | tissue | ligament | connective tissue 
+399 | salivary gland | duct | salivary gland | duct 
+400 | salivary gland | duct | bone | connective tissue 
+401 | bird | stomach | bone | connective tissue 
+402 | bird | lung | bone | connective tissue 
+403 | bird | pancreas | bone | connective tissue 
+404 | tendon | connective tissue | organ | tissue 
+406 | heart | tissue | salivary gland | duct 
+412 | bird | stomach | ligament | connective tissue 
+413 | bird | lung | ligament | connective tissue 
+414 | bird | pancreas | ligament | connective tissue 
+415 | tendon | connective tissue | heart | tissue 
+416 | stomach | epithelium | tendon | connective tissue 
+417 | stomach | tissue | tendon | connective tissue 
+418 | heart | tissue | salivary gland | duct 
+419 | skin | connective tissue | ligament | connective tissue 
+420 | tendon | connective tissue | ligament | connective tissue 
+427 | stomach | epithelium | organ | tissue 
+428 | stomach | tissue | organ | tissue 
+429 | bird | stomach | ligament | connective tissue 
+430 | bird | lung | ligament | connective tissue 
+431 | bird | pancreas | ligament | connective tissue 
+432 | blood | leukocyte | organ | tissue 
+433 | blood | erythrocyte | organ | tissue 
+437 | salivary gland | duct | organ | tissue 
+440 | heart | tissue | bone | connective tissue 
+441 | ligament | connective tissue | tendon | connective tissue 
+442 | organ | tissue | bone | connective tissue 
+446 | stomach | epithelium | ligament | connective tissue 
+447 | stomach | tissue | ligament | connective tissue 
+448 | pancreas | tissue | salivary gland | duct 
+451 | mammal | stomach | heart | tissue 
+452 | mammal | pancreas | heart | tissue 
+453 | mammal | epithelium | heart | tissue 
+454 | mammal | bone | heart | tissue 
+455 | mammal | heart | heart | tissue 
+456 | mammal | lung | heart | tissue 
+464 | bird | stomach | ligament | connective tissue 
+465 | bird | lung | ligament | connective tissue 
+466 | bird | pancreas | ligament | connective tissue 
+472 | mammal | stomach | bone | connective tissue 
+473 | mammal | pancreas | bone | connective tissue 
+474 | mammal | epithelium | bone | connective tissue 
+475 | mammal | bone | bone | connective tissue 
+476 | mammal | heart | bone | connective tissue 
+477 | mammal | lung | bone | connective tissue 
+478 | bone | connective tissue | bone | connective tissue 
+479 | heart | tissue | organ | tissue 
+482 | stomach | epithelium | salivary gland | duct 
+483 | stomach | tissue | salivary gland | duct 
+484 | mammal | stomach | heart | tissue 
+485 | mammal | pancreas | heart | tissue 
+486 | mammal | epithelium | heart | tissue 
+487 | mammal | bone | heart | tissue 
+488 | mammal | heart | heart | tissue 
+489 | mammal | lung | heart | tissue 
+491 | ligament | connective tissue | salivary gland | duct 
+492 | organ | tissue | ligament | connective tissue 
+493 | tendon | connective tissue | organ | tissue 
+494 | bird | stomach | pancreas | tissue 
+495 | bird | lung | pancreas | tissue 
+496 | bird | pancreas | pancreas | tissue 
+497 | pancreas | tissue | ligament | connective tissue 
+499 | heart | tissue | organ | tissue 
+500 | organ | tissue | tendon | connective tissue 
+501 | heart | tissue | tendon | connective tissue 
+503 | organ | tissue | organ | tissue 
+504 | blood | leukocyte | bone | connective tissue 
+505 | blood | erythrocyte | bone | connective tissue 
+506 | bone | connective tissue | organ | tissue 
+507 | stomach | epithelium | bone | connective tissue 
+508 | stomach | tissue | bone | connective tissue 
+509 | bird | stomach | tendon | connective tissue 
+510 | bird | lung | tendon | connective tissue 
+511 | bird | pancreas | tendon | connective tissue 
+512 | tendon | connective tissue | bone | connective tissue 
+513 | ligament | connective tissue | ligament | connective tissue 
+514 | tendon | connective tissue | salivary gland | duct 
+515 | tendon | connective tissue | organ | tissue 
+516 | heart | tissue | ligament | connective tissue 
+525 | skin | connective tissue | salivary gland | duct 
+527 | bone | connective tissue | organ | tissue 
+528 | ligament | connective tissue | bone | connective tissue 
+533 | blood | leukocyte | ligament | connective tissue 
+534 | blood | erythrocyte | ligament | connective tissue 
+535 | heart | tissue | salivary gland | duct 
+536 | blood | leukocyte | heart | tissue 
+537 | blood | erythrocyte | heart | tissue 
+540 | tendon | connective tissue | heart | tissue 
+541 | tendon | connective tissue | tendon | connective tissue 
+545 | bone | connective tissue | organ | tissue 
+546 | skin | connective tissue | tendon | connective tissue 
+548 | skin | connective tissue | tendon | connective tissue 
+549 | skin | connective tissue | pancreas | tissue 
+550 | bone | connective tissue | pancreas | tissue 
+552 | bird | stomach | organ | tissue 
+553 | bird | lung | organ | tissue 
+554 | bird | pancreas | organ | tissue 
+555 | tendon | connective tissue | salivary gland | duct 
+558 | tendon | connective tissue | salivary gland | duct 
+563 | blood | leukocyte | heart | tissue 
+564 | blood | erythrocyte | heart | tissue 
+565 | mammal | stomach | pancreas | tissue 
+566 | mammal | pancreas | pancreas | tissue 
+567 | mammal | epithelium | pancreas | tissue 
+568 | mammal | bone | pancreas | tissue 
+569 | mammal | heart | pancreas | tissue 
+570 | mammal | lung | pancreas | tissue 
+576 | pancreas | tissue | tendon | connective tissue 
+577 | pancreas | tissue | pancreas | tissue 
+580 | ligament | connective tissue | heart | tissue 
+582 | stomach | epithelium | ligament | connective tissue 
+583 | stomach | tissue | ligament | connective tissue 
+587 | stomach | epithelium | ligament | connective tissue 
+588 | stomach | tissue | ligament | connective tissue 
+589 | organ | tissue | organ | tissue 
+590 | tendon | connective tissue | bone | connective tissue 
+592 | pancreas | tissue | bone | connective tissue 
+607 | pancreas | tissue | tendon | connective tissue 
+608 | mammal | stomach | tendon | connective tissue 
+609 | mammal | pancreas | tendon | connective tissue 
+610 | mammal | epithelium | tendon | connective tissue 
+611 | mammal | bone | tendon | connective tissue 
+612 | mammal | heart | tendon | connective tissue 
+613 | mammal | lung | tendon | connective tissue 
+617 | bone | connective tissue | organ | tissue 
+619 | salivary gland | duct | heart | tissue 
+620 | tendon | connective tissue | tendon | connective tissue 
+626 | heart | tissue | organ | tissue 
+632 | skin | connective tissue | tendon | connective tissue 
+634 | skin | connective tissue | tendon | connective tissue 
+635 | blood | leukocyte | heart | tissue 
+636 | blood | erythrocyte | heart | tissue 
+637 | tendon | connective tissue | organ | tissue 
+642 | ligament | connective tissue | heart | tissue 
+643 | blood | leukocyte | salivary gland | duct 
+644 | blood | erythrocyte | salivary gland | duct 
+647 | pancreas | tissue | pancreas | tissue 
+651 | bone | connective tissue | tendon | connective tissue 
+653 | tendon | connective tissue | heart | tissue 
+654 | pancreas | tissue | tendon | connective tissue 
+655 | skin | connective tissue | organ | tissue 
+656 | ligament | connective tissue | pancreas | tissue 
+657 | skin | connective tissue | pancreas | tissue 
+658 | organ | tissue | bone | connective tissue 
+659 | blood | leukocyte | organ | tissue 
+660 | blood | erythrocyte | organ | tissue 
+665 | pancreas | tissue | ligament | connective tissue 
+667 | salivary gland | duct | tendon | connective tissue 
+668 | bone | connective tissue | tendon | connective tissue 
+669 | tendon | connective tissue | ligament | connective tissue 
+670 | pancreas | tissue | ligament | connective tissue 
+671 | heart | tissue | pancreas | tissue 
+673 | bone | connective tissue | organ | tissue 
+683 | pancreas | tissue | salivary gland | duct 
+686 | blood | leukocyte | pancreas | tissue 
+687 | blood | erythrocyte | pancreas | tissue 
+688 | stomach | epithelium | bone | connective tissue 
+689 | stomach | tissue | bone | connective tissue 
+692 | organ | tissue | bone | connective tissue 
+693 | blood | leukocyte | heart | tissue 
+694 | blood | erythrocyte | heart | tissue 
+695 | skin | connective tissue | bone | connective tissue 
+696 | organ | tissue | salivary gland | duct 
+699 | stomach | epithelium | tendon | connective tissue 
+700 | stomach | tissue | tendon | connective tissue 
+703 | organ | tissue | salivary gland | duct 
+705 | bone | connective tissue | pancreas | tissue 
+709 | ligament | connective tissue | tendon | connective tissue 
+712 | bird | stomach | heart | tissue 
+713 | bird | lung | heart | tissue 
+714 | bird | pancreas | heart | tissue 
+716 | heart | tissue | salivary gland | duct 
+717 | bone | connective tissue | organ | tissue 
+718 | mammal | stomach | tendon | connective tissue 
+719 | mammal | pancreas | tendon | connective tissue 
+720 | mammal | epithelium | tendon | connective tissue 
+721 | mammal | bone | tendon | connective tissue 
+722 | mammal | heart | tendon | connective tissue 
+723 | mammal | lung | tendon | connective tissue 
+724 | blood | leukocyte | heart | tissue 
+725 | blood | erythrocyte | heart | tissue 
+729 | mammal | stomach | ligament | connective tissue 
+730 | mammal | pancreas | ligament | connective tissue 
+731 | mammal | epithelium | ligament | connective tissue 
+732 | mammal | bone | ligament | connective tissue 
+733 | mammal | heart | ligament | connective tissue 
+734 | mammal | lung | ligament | connective tissue 
+735 | mammal | stomach | salivary gland | duct 
+736 | mammal | pancreas | salivary gland | duct 
+737 | mammal | epithelium | salivary gland | duct 
+738 | mammal | bone | salivary gland | duct 
+739 | mammal | heart | salivary gland | duct 
+740 | mammal | lung | salivary gland | duct 
+741 | skin | connective tissue | tendon | connective tissue 
+743 | ligament | connective tissue | pancreas | tissue 
+746 | ligament | connective tissue | bone | connective tissue 
+747 | stomach | epithelium | tendon | connective tissue 
+748 | stomach | tissue | tendon | connective tissue 
+752 | bone | connective tissue | bone | connective tissue 
+753 | bird | stomach | heart | tissue 
+754 | bird | lung | heart | tissue 
+755 | bird | pancreas | heart | tissue 
+759 | bone | connective tissue | pancreas | tissue 
+760 | stomach | epithelium | heart | tissue 
+761 | stomach | tissue | heart | tissue 
+762 | salivary gland | duct | bone | connective tissue 
+763 | stomach | epithelium | ligament | connective tissue 
+764 | stomach | tissue | ligament | connective tissue 
+766 | bird | stomach | tendon | connective tissue 
+767 | bird | lung | tendon | connective tissue 
+768 | bird | pancreas | tendon | connective tissue 
+769 | stomach | epithelium | pancreas | tissue 
+770 | stomach | tissue | pancreas | tissue 
+771 | bird | stomach | salivary gland | duct 
+772 | bird | lung | salivary gland | duct 
+773 | bird | pancreas | salivary gland | duct 
+775 | bone | connective tissue | ligament | connective tissue 
+782 | bone | connective tissue | tendon | connective tissue 
+785 | stomach | epithelium | ligament | connective tissue 
+786 | stomach | tissue | ligament | connective tissue 
+787 | salivary gland | duct | tendon | connective tissue 
+789 | organ | tissue | bone | connective tissue 
+791 | bird | stomach | tendon | connective tissue 
+792 | bird | lung | tendon | connective tissue 
+793 | bird | pancreas | tendon | connective tissue 
+794 | skin | connective tissue | pancreas | tissue 
+796 | organ | tissue | ligament | connective tissue 
+797 | salivary gland | duct | bone | connective tissue 
+798 | organ | tissue | salivary gland | duct 
+799 | bird | stomach | bone | connective tissue 
+800 | bird | lung | bone | connective tissue 
+801 | bird | pancreas | bone | connective tissue 
+802 | pancreas | tissue | tendon | connective tissue 
+803 | bird | stomach | tendon | connective tissue 
+804 | bird | lung | tendon | connective tissue 
+805 | bird | pancreas | tendon | connective tissue 
+808 | tendon | connective tissue | salivary gland | duct 
+809 | blood | leukocyte | ligament | connective tissue 
+810 | blood | erythrocyte | ligament | connective tissue 
+815 | ligament | connective tissue | organ | tissue 
+817 | bone | connective tissue | heart | tissue 
+818 | skin | connective tissue | heart | tissue 
+819 | skin | connective tissue | ligament | connective tissue 
+820 | pancreas | tissue | tendon | connective tissue 
+822 | heart | tissue | bone | connective tissue 
+830 | pancreas | tissue | heart | tissue 
+831 | heart | tissue | heart | tissue 
+833 | bone | connective tissue | organ | tissue 
+835 | salivary gland | duct | heart | tissue 
+836 | skin | connective tissue | tendon | connective tissue 
+837 | bird | stomach | salivary gland | duct 
+838 | bird | lung | salivary gland | duct 
+839 | bird | pancreas | salivary gland | duct 
+840 | salivary gland | duct | heart | tissue 
+841 | salivary gland | duct | heart | tissue 
+842 | ligament | connective tissue | pancreas | tissue 
+845 | bone | connective tissue | organ | tissue 
+846 | skin | connective tissue | organ | tissue 
+849 | ligament | connective tissue | tendon | connective tissue 
+850 | skin | connective tissue | salivary gland | duct 
+858 | skin | connective tissue | ligament | connective tissue 
+859 | blood | leukocyte | tendon | connective tissue 
+860 | blood | erythrocyte | tendon | connective tissue 
+861 | heart | tissue | pancreas | tissue 
+868 | blood | leukocyte | tendon | connective tissue 
+869 | blood | erythrocyte | tendon | connective tissue 
+874 | blood | leukocyte | ligament | connective tissue 
+875 | blood | erythrocyte | ligament | connective tissue 
+888 | salivary gland | duct | pancreas | tissue 
+891 | pancreas | tissue | pancreas | tissue 
+893 | pancreas | tissue | pancreas | tissue 
+894 | organ | tissue | bone | connective tissue 
+895 | organ | tissue | heart | tissue 
+896 | bird | stomach | pancreas | tissue 
+897 | bird | lung | pancreas | tissue 
+898 | bird | pancreas | pancreas | tissue 
+899 | bone | connective tissue | ligament | connective tissue 
+900 | stomach | epithelium | organ | tissue 
+901 | stomach | tissue | organ | tissue 
+903 | salivary gland | duct | bone | connective tissue 
+904 | salivary gland | duct | organ | tissue 
+905 | salivary gland | duct | organ | tissue 
+906 | bird | stomach | salivary gland | duct 
+907 | bird | lung | salivary gland | duct 
+908 | bird | pancreas | salivary gland | duct 
+909 | ligament | connective tissue | tendon | connective tissue 
+910 | heart | tissue | organ | tissue 
+912 | salivary gland | duct | ligament | connective tissue 
+913 | organ | tissue | bone | connective tissue 
+914 | pancreas | tissue | pancreas | tissue 
+923 | heart | tissue | ligament | connective tissue 
+924 | pancreas | tissue | bone | connective tissue 
+925 | bird | stomach | bone | connective tissue 
+926 | bird | lung | bone | connective tissue 
+927 | bird | pancreas | bone | connective tissue 
+929 | tendon | connective tissue | tendon | connective tissue 
+930 | tendon | connective tissue | heart | tissue 
+935 | tendon | connective tissue | salivary gland | duct 
+937 | pancreas | tissue | ligament | connective tissue 
+945 | stomach | epithelium | organ | tissue 
+946 | stomach | tissue | organ | tissue 
+949 | stomach | epithelium | organ | tissue 
+950 | stomach | tissue | organ | tissue 
+951 | organ | tissue | organ | tissue 
+952 | organ | tissue | tendon | connective tissue 
+957 | bone | connective tissue | heart | tissue 
+959 | pancreas | tissue | heart | tissue 
+964 | organ | tissue | pancreas | tissue 
+968 | bird | stomach | heart | tissue 
+969 | bird | lung | heart | tissue 
+970 | bird | pancreas | heart | tissue 
+971 | tendon | connective tissue | salivary gland | duct 
+975 | organ | tissue | heart | tissue 
+976 | blood | leukocyte | pancreas | tissue 
+977 | blood | erythrocyte | pancreas | tissue 
+980 | mammal | stomach | organ | tissue 
+981 | mammal | pancreas | organ | tissue 
+982 | mammal | epithelium | organ | tissue 
+983 | mammal | bone | organ | tissue 
+984 | mammal | heart | organ | tissue 
+985 | mammal | lung | organ | tissue 
+987 | organ | tissue | pancreas | tissue 
+988 | blood | leukocyte | pancreas | tissue 
+989 | blood | erythrocyte | pancreas | tissue 
+990 | skin | connective tissue | bone | connective tissue 
+991 | blood | leukocyte | bone | connective tissue 
+992 | blood | erythrocyte | bone | connective tissue 
+994 | stomach | epithelium | bone | connective tissue 
+995 | stomach | tissue | bone | connective tissue 
+997 | organ | tissue | pancreas | tissue 
+999 | mammal | stomach | tendon | connective tissue 
+1000 | mammal | pancreas | tendon | connective tissue 
+1001 | mammal | epithelium | tendon | connective tissue 
+1002 | mammal | bone | tendon | connective tissue 
+1003 | mammal | heart | tendon | connective tissue 
+1004 | mammal | lung | tendon | connective tissue 

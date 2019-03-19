@@ -1,0 +1,1222 @@
+0 | mouse | mammal | aquatic organism | organism 
+1 | erythrocyte | blood cell | stratified squamous epithelium | epithelium 
+2 | blood | tissue | stratified squamous epithelium | epithelium 
+2 | blood | tissue | stratified squamous epithelium | tissue 
+3 | blood | connective tissue | stratified squamous epithelium | epithelium 
+4 | cartilage | tissue | cartilage | connective tissue 
+4 | cartilage | tissue | cartilage | tissue 
+5 | cartilage | connective tissue | cartilage | connective tissue 
+6 | epithelium | tissue | Evaporative cooling of water | Evaporative cooling 
+7 | epidermis | tissue | cuboidal epithelium | epithelium 
+7 | epidermis | tissue | cuboidal epithelium | tissue 
+8 | Muscle contraction | Mechanical work | stratified squamous epithelium | epithelium 
+9 | Evaporative cooling of water | Evaporative cooling | stomach | digestive organ 
+10 | Metabolism | Biological process | brown fat | adipose tissue 
+11 | mammalian digestive system | digestive system | epithelium | tissue 
+12 | mouse | mammal | mouse | mammal 
+13 | central nervous-system | organ system | adipose tissue | connective tissue 
+13 | central nervous-system | organ system | adipose tissue | tissue 
+14 | Protein denaturation by heat | Protein denaturation | stratified squamous epithelium | epithelium 
+15 | digestive system | organ system | bone | connective tissue 
+15 | digestive system | organ system | bone | tissue 
+16 | Thermoregulation | Regulation | Disease process | Biological process 
+17 | central nervous-system | organ system | cuboidal epithelium | epithelium 
+17 | central nervous-system | organ system | cuboidal epithelium | tissue 
+18 | stomach | digestive organ | Shivering | Biological process 
+19 | blood | connective tissue | salivary gland | gland 
+20 | Shivering | Biological process | Protein denaturation by heat | Protein denaturation 
+21 | Evaporative cooling of water | Evaporative cooling | brown fat | adipose tissue 
+22 | erythrocyte | blood cell | Evaporative cooling of water | Evaporative cooling 
+23 | blood vessel | organ | brown fat | adipose tissue 
+23 | blood vessel | organ | brown fat | connective tissue 
+23 | blood vessel | organ | brown fat | tissue 
+24 | Thermoregulation | Regulation | connective tissue | tissue 
+25 | heart | organ | brown fat | adipose tissue 
+25 | heart | organ | brown fat | connective tissue 
+25 | heart | organ | brown fat | tissue 
+26 | bone | tissue | adipose tissue | connective tissue 
+26 | bone | tissue | adipose tissue | tissue 
+27 | bone | connective tissue | adipose tissue | connective tissue 
+28 | Muscle contraction | Mechanical work | stratified squamous epithelium | epithelium 
+29 | connective tissue | tissue | Metabolism | Biological process 
+30 | adipose tissue | tissue | brown fat | adipose tissue 
+30 | adipose tissue | tissue | brown fat | connective tissue 
+31 | adipose tissue | connective tissue | brown fat | adipose tissue 
+32 | cartilage | tissue | cartilage | connective tissue 
+32 | cartilage | tissue | cartilage | tissue 
+33 | cartilage | connective tissue | cartilage | connective tissue 
+34 | Thermoregulation | Regulation | stratified squamous epithelium | epithelium 
+35 | Metabolism | Biological process | Disease process | Biological process 
+36 | Shivering | Biological process | Protein denaturation by heat | Protein denaturation 
+37 | Muscle contraction | Mechanical work | adipose tissue | connective tissue 
+38 | Evaporative cooling of water | Evaporative cooling | connective tissue | tissue 
+39 | nervous tissue | tissue | nervous tissue | tissue 
+40 | mouse | mammal | Shivering | Biological process 
+41 | nervous tissue | tissue | connective tissue | tissue 
+42 | animal | organism | adipose tissue | connective tissue 
+42 | animal | organism | adipose tissue | tissue 
+43 | erythrocyte | blood cell | mouse | mammal 
+44 | erythrocyte | blood cell | mammalian digestive system | digestive system 
+45 | brown fat | connective tissue | stratified squamous epithelium | epithelium 
+45 | brown fat | connective tissue | stratified squamous epithelium | tissue 
+46 | brown fat | adipose tissue | stratified squamous epithelium | epithelium 
+47 | Metabolism | Biological process | connective tissue | tissue 
+48 | Thermoregulation | Regulation | adipose tissue | connective tissue 
+49 | nervous tissue | tissue | aquatic organism | organism 
+50 | small intestine | digestive organ | stomach | digestive organ 
+51 | Muscle contraction | Mechanical work | nervous tissue | tissue 
+52 | stratified squamous epithelium | epithelium | mouse | mammal 
+53 | Metabolism | Biological process | Disease process | Biological process 
+54 | connective tissue | tissue | mouse | mammal 
+55 | epithelium | tissue | cartilage | connective tissue 
+56 | cartilage | connective tissue | mammalian digestive system | digestive system 
+57 | Evaporative cooling of water | Evaporative cooling | Shivering | Biological process 
+58 | erythrocyte | blood cell | mammalian digestive system | digestive system 
+59 | brown fat | adipose tissue | Protein denaturation by heat | Protein denaturation 
+60 | brown fat | adipose tissue | stomach | digestive organ 
+61 | stomach | digestive organ | bone | connective tissue 
+62 | salivary gland | gland | cartilage | connective tissue 
+63 | mammalian digestive system | digestive system | cuboidal epithelium | epithelium 
+64 | salivary gland | gland | salivary gland | gland 
+65 | erythrocyte | blood cell | cuboidal epithelium | epithelium 
+66 | ligament | connective tissue | cuboidal epithelium | epithelium 
+66 | ligament | connective tissue | cuboidal epithelium | tissue 
+67 | connective tissue | tissue | aquatic organism | organism 
+68 | Shivering | Biological process | epithelium | tissue 
+69 | muscle | tissue | cartilage | connective tissue 
+69 | muscle | tissue | cartilage | tissue 
+70 | brown fat | connective tissue | cartilage | connective tissue 
+70 | brown fat | connective tissue | cartilage | tissue 
+71 | brown fat | adipose tissue | cartilage | connective tissue 
+72 | connective tissue | tissue | brown fat | adipose tissue 
+73 | aquatic organism | organism | Protein denaturation by heat | Protein denaturation 
+74 | Evaporative cooling of water | Evaporative cooling | salivary gland | gland 
+75 | erythrocyte | blood cell | small intestine | digestive organ 
+76 | stratified squamous epithelium | epithelium | Metabolism | Biological process 
+77 | salivary gland | gland | Metabolism | Biological process 
+78 | cuboidal epithelium | epithelium | connective tissue | tissue 
+79 | stomach | digestive organ | nervous tissue | tissue 
+80 | connective tissue | tissue | bone | connective tissue 
+81 | stratified squamous epithelium | epithelium | Protein denaturation by heat | Protein denaturation 
+82 | Evaporative cooling of water | Evaporative cooling | nervous tissue | tissue 
+83 | stratified squamous epithelium | epithelium | mouse | mammal 
+84 | blood | connective tissue | Disease process | Biological process 
+85 | Muscle contraction | Mechanical work | mouse | mammal 
+86 | stratified squamous epithelium | tissue | brown fat | adipose tissue 
+86 | stratified squamous epithelium | tissue | brown fat | connective tissue 
+87 | stratified squamous epithelium | epithelium | brown fat | adipose tissue 
+88 | bone | connective tissue | epithelium | tissue 
+89 | Muscle contraction | Mechanical work | Disease process | Biological process 
+90 | Evaporative cooling of water | Evaporative cooling | epithelium | tissue 
+91 | Shivering | Biological process | Shivering | Biological process 
+92 | nervous tissue | tissue | mammalian digestive system | digestive system 
+93 | salivary gland | gland | aquatic organism | organism 
+94 | aquatic organism | organism | brown fat | adipose tissue 
+95 | mammalian digestive system | digestive system | cartilage | connective tissue 
+96 | adipose tissue | connective tissue | invertebrate | animal 
+97 | stomach | digestive organ | Metabolism | Biological process 
+98 | central nervous-system | organ system | bone | connective tissue 
+98 | central nervous-system | organ system | bone | tissue 
+99 | cartilage | connective tissue | mouse | mammal 
+100 | aquatic organism | organism | nervous tissue | tissue 
+101 | connective tissue | tissue | Evaporative cooling of water | Evaporative cooling 
+102 | salivary gland | gland | mammalian digestive system | digestive system 
+103 | muscle | tissue | stratified squamous epithelium | epithelium 
+103 | muscle | tissue | stratified squamous epithelium | tissue 
+104 | aquatic organism | organism | Shivering | Biological process 
+105 | epithelium | tissue | Disease process | Biological process 
+106 | Thermoregulation | Regulation | Disease process | Biological process 
+107 | salivary gland | gland | Disease process | Biological process 
+108 | erythrocyte | blood cell | cuboidal epithelium | epithelium 
+109 | Disease process | Biological process | stomach | digestive organ 
+110 | mouse | mammal | Metabolism | Biological process 
+111 | brown fat | adipose tissue | invertebrate | animal 
+112 | stratified squamous epithelium | tissue | stratified squamous epithelium | epithelium 
+112 | stratified squamous epithelium | tissue | stratified squamous epithelium | tissue 
+113 | stratified squamous epithelium | epithelium | stratified squamous epithelium | epithelium 
+114 | cartilage | tissue | adipose tissue | connective tissue 
+114 | cartilage | tissue | adipose tissue | tissue 
+115 | cartilage | connective tissue | adipose tissue | connective tissue 
+116 | salivary gland | gland | invertebrate | animal 
+117 | mouse | mammal | stratified squamous epithelium | epithelium 
+118 | bone | connective tissue | Evaporative cooling of water | Evaporative cooling 
+119 | Evaporative cooling of water | Evaporative cooling | Metabolism | Biological process 
+120 | small intestine | digestive organ | cuboidal epithelium | epithelium 
+121 | adipose tissue | connective tissue | Metabolism | Biological process 
+122 | Muscle contraction | Mechanical work | small intestine | digestive organ 
+123 | Protein denaturation by heat | Protein denaturation | bone | connective tissue 
+124 | bone | connective tissue | Shivering | Biological process 
+125 | adipose tissue | tissue | brown fat | adipose tissue 
+125 | adipose tissue | tissue | brown fat | connective tissue 
+126 | adipose tissue | connective tissue | brown fat | adipose tissue 
+127 | salivary gland | gland | Metabolism | Biological process 
+128 | Disease process | Biological process | cuboidal epithelium | epithelium 
+129 | Shivering | Biological process | stomach | digestive organ 
+130 | adipose tissue | connective tissue | Evaporative cooling of water | Evaporative cooling 
+131 | small intestine | digestive organ | Evaporative cooling of water | Evaporative cooling 
+132 | stomach | digestive organ | stomach | digestive organ 
+133 | stratified squamous epithelium | epithelium | mouse | mammal 
+134 | epithelium | tissue | cuboidal epithelium | epithelium 
+135 | mammalian digestive system | digestive system | cuboidal epithelium | epithelium 
+136 | Hibernation | Biological process | brown fat | adipose tissue 
+136 | Hibernation | Biological process | brown fat | connective tissue 
+136 | Hibernation | Biological process | brown fat | tissue 
+137 | stomach | digestive organ | bone | connective tissue 
+138 | adipose tissue | tissue | adipose tissue | connective tissue 
+138 | adipose tissue | tissue | adipose tissue | tissue 
+139 | adipose tissue | connective tissue | adipose tissue | connective tissue 
+140 | cartilage | connective tissue | Metabolism | Biological process 
+141 | bone | connective tissue | epithelium | tissue 
+142 | Evaporative cooling of water | Evaporative cooling | adipose tissue | connective tissue 
+143 | salivary gland | gland | Protein denaturation by heat | Protein denaturation 
+144 | adipose tissue | connective tissue | Shivering | Biological process 
+145 | epithelium | tissue | mammalian digestive system | digestive system 
+146 | connective tissue | tissue | invertebrate | animal 
+147 | cuboidal epithelium | tissue | stratified squamous epithelium | epithelium 
+147 | cuboidal epithelium | tissue | stratified squamous epithelium | tissue 
+148 | cuboidal epithelium | epithelium | stratified squamous epithelium | epithelium 
+149 | erythrocyte | blood cell | cuboidal epithelium | epithelium 
+150 | mammalian digestive system | digestive system | nervous tissue | tissue 
+151 | small intestine | digestive organ | small intestine | digestive organ 
+152 | small intestine | digestive organ | cartilage | connective tissue 
+153 | adipose tissue | tissue | cuboidal epithelium | epithelium 
+153 | adipose tissue | tissue | cuboidal epithelium | tissue 
+154 | adipose tissue | connective tissue | cuboidal epithelium | epithelium 
+155 | invertebrate | animal | adipose tissue | connective tissue 
+156 | small intestine | digestive organ | Shivering | Biological process 
+157 | Shivering | Biological process | brown fat | adipose tissue 
+158 | adipose tissue | tissue | stratified squamous epithelium | epithelium 
+158 | adipose tissue | tissue | stratified squamous epithelium | tissue 
+159 | adipose tissue | connective tissue | stratified squamous epithelium | epithelium 
+160 | mammalian digestive system | digestive system | Disease process | Biological process 
+161 | stratified squamous epithelium | tissue | stratified squamous epithelium | epithelium 
+161 | stratified squamous epithelium | tissue | stratified squamous epithelium | tissue 
+162 | stratified squamous epithelium | epithelium | stratified squamous epithelium | epithelium 
+163 | erythrocyte | blood cell | small intestine | digestive organ 
+164 | invertebrate | animal | mouse | mammal 
+165 | Shivering | Biological process | salivary gland | gland 
+166 | salivary gland | gland | stratified squamous epithelium | epithelium 
+167 | invertebrate | animal | epithelium | tissue 
+168 | epithelium | tissue | bone | connective tissue 
+169 | bone | connective tissue | Disease process | Biological process 
+170 | tendon | tissue | brown fat | adipose tissue 
+170 | tendon | tissue | brown fat | connective tissue 
+170 | tendon | tissue | brown fat | tissue 
+171 | tendon | connective tissue | brown fat | adipose tissue 
+171 | tendon | connective tissue | brown fat | connective tissue 
+172 | connective tissue | tissue | Shivering | Biological process 
+173 | invertebrate | animal | invertebrate | animal 
+174 | Protein denaturation by heat | Protein denaturation | nervous tissue | tissue 
+175 | adipose tissue | connective tissue | aquatic organism | organism 
+176 | mouse | mammal | Shivering | Biological process 
+177 | Thermoregulation | Regulation | Evaporative cooling of water | Evaporative cooling 
+178 | smooth muscle | tissue | bone | connective tissue 
+178 | smooth muscle | tissue | bone | tissue 
+179 | stomach | digestive organ | Disease process | Biological process 
+180 | erythrocyte | blood cell | cartilage | connective tissue 
+181 | aquatic organism | organism | connective tissue | tissue 
+182 | connective tissue | tissue | cuboidal epithelium | epithelium 
+183 | Evaporative cooling of water | Evaporative cooling | invertebrate | animal 
+184 | Shivering | Biological process | stomach | digestive organ 
+185 | Protein denaturation by heat | Protein denaturation | salivary gland | gland 
+186 | Disease process | Biological process | aquatic organism | organism 
+187 | aquatic organism | organism | stomach | digestive organ 
+188 | cuboidal epithelium | epithelium | Shivering | Biological process 
+189 | Thermoregulation | Regulation | bone | connective tissue 
+190 | muscle | tissue | cuboidal epithelium | epithelium 
+190 | muscle | tissue | cuboidal epithelium | tissue 
+191 | Thermoregulation | Regulation | nervous tissue | tissue 
+192 | blood | connective tissue | mammalian digestive system | digestive system 
+193 | salivary gland | gland | brown fat | adipose tissue 
+194 | Muscle contraction | Mechanical work | brown fat | adipose tissue 
+195 | stratified squamous epithelium | epithelium | small intestine | digestive organ 
+196 | connective tissue | tissue | stratified squamous epithelium | epithelium 
+197 | aquatic organism | organism | cuboidal epithelium | epithelium 
+198 | invertebrate | animal | aquatic organism | organism 
+199 | erythrocyte | blood cell | connective tissue | tissue 
+200 | erythrocyte | blood cell | nervous tissue | tissue 
+201 | cartilage | connective tissue | mouse | mammal 
+202 | Muscle contraction | Mechanical work | aquatic organism | organism 
+203 | mouse | mammal | stomach | digestive organ 
+204 | brown fat | adipose tissue | Protein denaturation by heat | Protein denaturation 
+205 | connective tissue | tissue | cuboidal epithelium | epithelium 
+206 | connective tissue | tissue | Metabolism | Biological process 
+207 | Protein denaturation by heat | Protein denaturation | stomach | digestive organ 
+208 | Muscle contraction | Mechanical work | cartilage | connective tissue 
+209 | invertebrate | animal | adipose tissue | connective tissue 
+210 | erythrocyte | blood cell | salivary gland | gland 
+211 | cuboidal epithelium | epithelium | mouse | mammal 
+212 | stomach | digestive organ | Evaporative cooling of water | Evaporative cooling 
+213 | animal | organism | adipose tissue | connective tissue 
+213 | animal | organism | adipose tissue | tissue 
+214 | tongue | organ | cartilage | connective tissue 
+214 | tongue | organ | cartilage | tissue 
+215 | small intestine | digestive organ | Disease process | Biological process 
+216 | mammalian digestive system | digestive system | mouse | mammal 
+217 | aquatic organism | organism | cuboidal epithelium | epithelium 
+218 | nervous tissue | tissue | salivary gland | gland 
+219 | small intestine | digestive organ | nervous tissue | tissue 
+220 | invertebrate | animal | bone | connective tissue 
+221 | small intestine | organ | brown fat | adipose tissue 
+221 | small intestine | organ | brown fat | connective tissue 
+221 | small intestine | organ | brown fat | tissue 
+222 | small intestine | digestive organ | brown fat | adipose tissue 
+223 | cuboidal epithelium | epithelium | Metabolism | Biological process 
+224 | stratified squamous epithelium | epithelium | aquatic organism | organism 
+225 | connective tissue | tissue | cartilage | connective tissue 
+226 | blood | connective tissue | Shivering | Biological process 
+227 | aquatic organism | organism | mammalian digestive system | digestive system 
+228 | stomach | digestive organ | invertebrate | animal 
+229 | aquatic organism | organism | invertebrate | animal 
+230 | salivary gland | gland | salivary gland | gland 
+231 | Metabolism | Biological process | stratified squamous epithelium | epithelium 
+232 | tongue | organ | adipose tissue | connective tissue 
+232 | tongue | organ | adipose tissue | tissue 
+233 | elephant | mammal | brown fat | adipose tissue 
+233 | elephant | mammal | brown fat | connective tissue 
+233 | elephant | mammal | brown fat | tissue 
+234 | stratified squamous epithelium | epithelium | mammalian digestive system | digestive system 
+235 | cardiac muscle | tissue | brown fat | adipose tissue 
+235 | cardiac muscle | tissue | brown fat | connective tissue 
+235 | cardiac muscle | tissue | brown fat | tissue 
+236 | stratified squamous epithelium | epithelium | aquatic organism | organism 
+237 | stomach | digestive organ | stratified squamous epithelium | epithelium 
+238 | central nervous-system | organ system | adipose tissue | connective tissue 
+238 | central nervous-system | organ system | adipose tissue | tissue 
+239 | Thermoregulation | Biological process | brown fat | adipose tissue 
+239 | Thermoregulation | Biological process | brown fat | connective tissue 
+239 | Thermoregulation | Biological process | brown fat | tissue 
+240 | Thermoregulation | Regulation | brown fat | adipose tissue 
+241 | cuboidal epithelium | epithelium | invertebrate | animal 
+242 | cuboidal epithelium | epithelium | Evaporative cooling of water | Evaporative cooling 
+243 | cartilage | connective tissue | stomach | digestive organ 
+244 | epithelium | tissue | cartilage | connective tissue 
+245 | small intestine | digestive organ | adipose tissue | connective tissue 
+246 | cuboidal epithelium | epithelium | epithelium | tissue 
+247 | brown fat | adipose tissue | small intestine | digestive organ 
+248 | salivary gland | gland | Disease process | Biological process 
+249 | Protein denaturation by heat | Protein denaturation | mouse | mammal 
+250 | gland | organ | brown fat | adipose tissue 
+250 | gland | organ | brown fat | connective tissue 
+250 | gland | organ | brown fat | tissue 
+251 | stratified squamous epithelium | epithelium | nervous tissue | tissue 
+252 | nervous tissue | tissue | brown fat | adipose tissue 
+253 | nervous tissue | tissue | mouse | mammal 
+254 | brown fat | connective tissue | bone | connective tissue 
+254 | brown fat | connective tissue | bone | tissue 
+255 | brown fat | adipose tissue | bone | connective tissue 
+256 | epithelium | tissue | salivary gland | gland 
+257 | stomach | digestive organ | Disease process | Biological process 
+258 | mammalian digestive system | digestive system | adipose tissue | connective tissue 
+259 | bone | connective tissue | invertebrate | animal 
+260 | aquatic organism | organism | stratified squamous epithelium | epithelium 
+261 | erythrocyte | blood cell | Metabolism | Biological process 
+262 | Metabolism | Biological process | connective tissue | tissue 
+263 | Metabolism | Biological process | cartilage | connective tissue 
+264 | stratified squamous epithelium | epithelium | Protein denaturation by heat | Protein denaturation 
+265 | Disease process | Biological process | stomach | digestive organ 
+266 | invertebrate | animal | connective tissue | tissue 
+267 | salivary gland | gland | Disease process | Biological process 
+268 | Metabolism | Biological process | Shivering | Biological process 
+269 | erythrocyte | blood cell | Shivering | Biological process 
+270 | digestive system | organ system | bone | connective tissue 
+270 | digestive system | organ system | bone | tissue 
+271 | erythrocyte | blood cell | cuboidal epithelium | epithelium 
+272 | adipose tissue | connective tissue | connective tissue | tissue 
+273 | Shivering | Biological process | Shivering | Biological process 
+274 | salivary gland | gland | nervous tissue | tissue 
+275 | aquatic organism | organism | cuboidal epithelium | epithelium 
+276 | Metabolism | Biological process | cartilage | connective tissue 
+277 | mouse | mammal | brown fat | adipose tissue 
+278 | nervous tissue | tissue | invertebrate | animal 
+279 | Muscle contraction | Mechanical work | Evaporative cooling of water | Evaporative cooling 
+280 | Evaporative cooling of water | Evaporative cooling | Disease process | Biological process 
+281 | cuboidal epithelium | epithelium | salivary gland | gland 
+282 | epithelium | tissue | salivary gland | gland 
+283 | stratified squamous epithelium | epithelium | Evaporative cooling of water | Evaporative cooling 
+284 | Muscle contraction | Mechanical work | adipose tissue | connective tissue 
+285 | stomach | digestive organ | epithelium | tissue 
+286 | invertebrate | animal | Disease process | Biological process 
+287 | mouse | mammal | Shivering | Biological process 
+288 | stomach | digestive organ | small intestine | digestive organ 
+289 | blood | tissue | adipose tissue | connective tissue 
+289 | blood | tissue | adipose tissue | tissue 
+290 | blood | connective tissue | adipose tissue | connective tissue 
+291 | smooth muscle | tissue | cuboidal epithelium | epithelium 
+291 | smooth muscle | tissue | cuboidal epithelium | tissue 
+292 | epithelium | tissue | nervous tissue | tissue 
+293 | mouse | mammal | connective tissue | tissue 
+294 | Protein denaturation by heat | Protein denaturation | aquatic organism | organism 
+295 | stratified squamous epithelium | epithelium | Shivering | Biological process 
+296 | cuboidal epithelium | tissue | adipose tissue | connective tissue 
+296 | cuboidal epithelium | tissue | adipose tissue | tissue 
+297 | cuboidal epithelium | epithelium | adipose tissue | connective tissue 
+298 | bone | tissue | brown fat | adipose tissue 
+298 | bone | tissue | brown fat | connective tissue 
+299 | bone | connective tissue | brown fat | adipose tissue 
+300 | salivary gland | gland | mammalian digestive system | digestive system 
+301 | Protein denaturation by heat | Protein denaturation | Evaporative cooling of water | Evaporative cooling 
+302 | salivary gland | gland | Disease process | Biological process 
+303 | stratified squamous epithelium | epithelium | Metabolism | Biological process 
+304 | erythrocyte | blood cell | stratified squamous epithelium | epithelium 
+305 | nervous tissue | tissue | mammalian digestive system | digestive system 
+306 | blood | connective tissue | Disease process | Biological process 
+307 | erythrocyte | blood cell | bone | connective tissue 
+308 | smooth muscle | tissue | cartilage | connective tissue 
+308 | smooth muscle | tissue | cartilage | tissue 
+309 | stratified squamous epithelium | epithelium | nervous tissue | tissue 
+310 | aquatic organism | organism | mammalian digestive system | digestive system 
+311 | cartilage | connective tissue | Metabolism | Biological process 
+312 | brown fat | adipose tissue | small intestine | digestive organ 
+313 | stomach | digestive organ | nervous tissue | tissue 
+314 | blood | connective tissue | Disease process | Biological process 
+315 | Metabolism | Biological process | Protein denaturation by heat | Protein denaturation 
+316 | epithelium | tissue | salivary gland | gland 
+317 | brown fat | connective tissue | cuboidal epithelium | epithelium 
+317 | brown fat | connective tissue | cuboidal epithelium | tissue 
+318 | brown fat | adipose tissue | cuboidal epithelium | epithelium 
+319 | Shivering | Biological process | cartilage | connective tissue 
+320 | Metabolism | Biological process | Protein denaturation by heat | Protein denaturation 
+321 | mammalian digestive system | digestive system | Protein denaturation by heat | Protein denaturation 
+322 | Protein denaturation by heat | Protein denaturation | small intestine | digestive organ 
+323 | Disease process | Biological process | bone | connective tissue 
+324 | adipose tissue | connective tissue | mammalian digestive system | digestive system 
+325 | Disease process | Biological process | Disease process | Biological process 
+326 | salivary gland | gland | epithelium | tissue 
+327 | muscle | tissue | brown fat | adipose tissue 
+327 | muscle | tissue | brown fat | connective tissue 
+328 | tendon | connective tissue | cuboidal epithelium | epithelium 
+328 | tendon | connective tissue | cuboidal epithelium | tissue 
+329 | Protein denaturation by heat | Protein denaturation | stomach | digestive organ 
+330 | Shivering | Biological process | Evaporative cooling of water | Evaporative cooling 
+331 | connective tissue | tissue | stratified squamous epithelium | epithelium 
+332 | Evaporative cooling of water | Evaporative cooling | epithelium | tissue 
+333 | small intestine | digestive organ | epithelium | tissue 
+334 | digestive system | organ system | cartilage | connective tissue 
+334 | digestive system | organ system | cartilage | tissue 
+335 | ligament | tissue | brown fat | adipose tissue 
+335 | ligament | tissue | brown fat | connective tissue 
+335 | ligament | tissue | brown fat | tissue 
+336 | ligament | connective tissue | brown fat | adipose tissue 
+336 | ligament | connective tissue | brown fat | connective tissue 
+337 | Shivering | Biological process | Protein denaturation by heat | Protein denaturation 
+338 | Thermoregulation | Biological process | brown fat | adipose tissue 
+338 | Thermoregulation | Biological process | brown fat | connective tissue 
+338 | Thermoregulation | Biological process | brown fat | tissue 
+339 | Thermoregulation | Regulation | brown fat | adipose tissue 
+340 | salivary gland | gland | mouse | mammal 
+341 | brown fat | connective tissue | cuboidal epithelium | epithelium 
+341 | brown fat | connective tissue | cuboidal epithelium | tissue 
+342 | brown fat | adipose tissue | cuboidal epithelium | epithelium 
+343 | Metabolism | Biological process | cartilage | connective tissue 
+344 | adipose tissue | connective tissue | nervous tissue | tissue 
+345 | Metabolism | Biological process | brown fat | adipose tissue 
+346 | salivary gland | gland | small intestine | digestive organ 
+347 | blood | connective tissue | salivary gland | gland 
+348 | erythrocyte | blood cell | small intestine | digestive organ 
+349 | Shivering | Biological process | Disease process | Biological process 
+350 | bone | connective tissue | invertebrate | animal 
+351 | aquatic organism | organism | Disease process | Biological process 
+352 | cuboidal epithelium | epithelium | epithelium | tissue 
+353 | stomach | digestive organ | adipose tissue | connective tissue 
+354 | digestive organ | organ | bone | connective tissue 
+354 | digestive organ | organ | bone | tissue 
+355 | nervous tissue | tissue | stomach | digestive organ 
+356 | Muscle contraction | Mechanical work | salivary gland | gland 
+357 | aquatic organism | organism | Protein denaturation by heat | Protein denaturation 
+358 | Metabolism | Biological process | brown fat | adipose tissue 
+359 | epithelium | tissue | adipose tissue | connective tissue 
+360 | aquatic organism | organism | mammalian digestive system | digestive system 
+361 | nervous tissue | tissue | brown fat | adipose tissue 
+362 | aquatic organism | organism | brown fat | adipose tissue 
+363 | Protein denaturation by heat | Protein denaturation | Protein denaturation by heat | Protein denaturation 
+364 | Shivering | Biological process | Evaporative cooling of water | Evaporative cooling 
+365 | small intestine | organ | brown fat | adipose tissue 
+365 | small intestine | organ | brown fat | connective tissue 
+365 | small intestine | organ | brown fat | tissue 
+366 | small intestine | digestive organ | brown fat | adipose tissue 
+367 | stomach | digestive organ | salivary gland | gland 
+368 | connective tissue | tissue | cartilage | connective tissue 
+369 | Thermoregulation | Regulation | stomach | digestive organ 
+370 | connective tissue | tissue | salivary gland | gland 
+371 | connective tissue | tissue | aquatic organism | organism 
+372 | nervous tissue | tissue | nervous tissue | tissue 
+373 | skeletal muscle | tissue | brown fat | adipose tissue 
+373 | skeletal muscle | tissue | brown fat | connective tissue 
+373 | skeletal muscle | tissue | brown fat | tissue 
+374 | central nervous-system | organ system | brown fat | adipose tissue 
+374 | central nervous-system | organ system | brown fat | connective tissue 
+375 | aquatic organism | organism | stratified squamous epithelium | epithelium 
+376 | nervous tissue | tissue | mammalian digestive system | digestive system 
+377 | epithelium | tissue | invertebrate | animal 
+378 | Thermoregulation | Regulation | stomach | digestive organ 
+379 | Metabolism | Biological process | Disease process | Biological process 
+380 | brown fat | adipose tissue | Evaporative cooling of water | Evaporative cooling 
+381 | mouse | mammal | stratified squamous epithelium | epithelium 
+382 | ligament | connective tissue | cartilage | connective tissue 
+382 | ligament | connective tissue | cartilage | tissue 
+383 | salivary gland | gland | aquatic organism | organism 
+384 | invertebrate | animal | aquatic organism | organism 
+385 | aquatic organism | organism | adipose tissue | connective tissue 
+386 | erythrocyte | blood cell | nervous tissue | tissue 
+387 | Muscle contraction | Mechanical work | cuboidal epithelium | epithelium 
+388 | Shivering | Biological process | nervous tissue | tissue 
+389 | mouse | mammal | Shivering | Biological process 
+390 | blood | connective tissue | nervous tissue | tissue 
+391 | bone | connective tissue | Evaporative cooling of water | Evaporative cooling 
+392 | aquatic organism | organism | bone | connective tissue 
+393 | tongue | organ | stratified squamous epithelium | epithelium 
+393 | tongue | organ | stratified squamous epithelium | tissue 
+394 | digestive system | organ system | cuboidal epithelium | epithelium 
+394 | digestive system | organ system | cuboidal epithelium | tissue 
+395 | nervous tissue | tissue | stomach | digestive organ 
+396 | blood | connective tissue | epithelium | tissue 
+397 | mouse | mammal | stomach | digestive organ 
+398 | salivary gland | gland | epithelium | tissue 
+399 | ligament | connective tissue | adipose tissue | connective tissue 
+399 | ligament | connective tissue | adipose tissue | tissue 
+400 | smooth muscle | tissue | brown fat | adipose tissue 
+400 | smooth muscle | tissue | brown fat | connective tissue 
+401 | adipose tissue | connective tissue | Metabolism | Biological process 
+402 | elephant | mammal | brown fat | adipose tissue 
+402 | elephant | mammal | brown fat | connective tissue 
+402 | elephant | mammal | brown fat | tissue 
+403 | Shivering | Biological process | Protein denaturation by heat | Protein denaturation 
+404 | mammalian digestive system | digestive system | epithelium | tissue 
+405 | small intestine | digestive organ | Evaporative cooling of water | Evaporative cooling 
+406 | small intestine | digestive organ | Protein denaturation by heat | Protein denaturation 
+407 | adipose tissue | connective tissue | salivary gland | gland 
+408 | cartilage | connective tissue | stomach | digestive organ 
+409 | Shivering | Biological process | adipose tissue | connective tissue 
+410 | small intestine | digestive organ | nervous tissue | tissue 
+411 | brown fat | tissue | brown fat | adipose tissue 
+411 | brown fat | tissue | brown fat | connective tissue 
+411 | brown fat | tissue | brown fat | tissue 
+412 | brown fat | connective tissue | brown fat | adipose tissue 
+412 | brown fat | connective tissue | brown fat | connective tissue 
+413 | brown fat | adipose tissue | brown fat | adipose tissue 
+414 | invertebrate | animal | cuboidal epithelium | epithelium 
+415 | nervous tissue | tissue | salivary gland | gland 
+416 | Protein denaturation by heat | Protein denaturation | cuboidal epithelium | epithelium 
+417 | adipose tissue | tissue | stratified squamous epithelium | epithelium 
+417 | adipose tissue | tissue | stratified squamous epithelium | tissue 
+418 | adipose tissue | connective tissue | stratified squamous epithelium | epithelium 
+419 | brown fat | adipose tissue | Protein denaturation by heat | Protein denaturation 
+420 | salivary gland | gland | cuboidal epithelium | epithelium 
+421 | Muscle contraction | Mechanical work | epithelium | tissue 
+422 | mouse | mammal | adipose tissue | connective tissue 
+423 | stratified squamous epithelium | epithelium | mammalian digestive system | digestive system 
+424 | animal | organism | cartilage | connective tissue 
+424 | animal | organism | cartilage | tissue 
+425 | Thermoregulation | Regulation | connective tissue | tissue 
+426 | aquatic organism | organism | adipose tissue | connective tissue 
+427 | mammalian digestive system | digestive system | cuboidal epithelium | epithelium 
+428 | brown fat | adipose tissue | aquatic organism | organism 
+429 | cartilage | connective tissue | mammalian digestive system | digestive system 
+430 | adipose tissue | tissue | cartilage | connective tissue 
+430 | adipose tissue | tissue | cartilage | tissue 
+431 | adipose tissue | connective tissue | cartilage | connective tissue 
+432 | Metabolism | Biological process | stratified squamous epithelium | epithelium 
+433 | Disease process | Biological process | Evaporative cooling of water | Evaporative cooling 
+434 | connective tissue | tissue | bone | connective tissue 
+435 | brown fat | adipose tissue | small intestine | digestive organ 
+436 | stomach | digestive organ | aquatic organism | organism 
+437 | mouse | mammal | aquatic organism | organism 
+438 | aquatic organism | organism | Metabolism | Biological process 
+439 | salivary gland | gland | brown fat | adipose tissue 
+440 | aquatic organism | organism | mammalian digestive system | digestive system 
+441 | mammalian digestive system | digestive system | nervous tissue | tissue 
+442 | salivary gland | gland | bone | connective tissue 
+443 | Metabolism | Biological process | cartilage | connective tissue 
+444 | bone | tissue | brown fat | adipose tissue 
+444 | bone | tissue | brown fat | connective tissue 
+445 | bone | connective tissue | brown fat | adipose tissue 
+446 | erythrocyte | blood cell | cuboidal epithelium | epithelium 
+447 | small intestine | digestive organ | small intestine | digestive organ 
+448 | mammalian digestive system | digestive system | epithelium | tissue 
+449 | epithelium | tissue | invertebrate | animal 
+450 | nervous tissue | tissue | bone | connective tissue 
+451 | bone | connective tissue | invertebrate | animal 
+452 | stratified squamous epithelium | epithelium | small intestine | digestive organ 
+453 | digestive system | organ system | cuboidal epithelium | epithelium 
+453 | digestive system | organ system | cuboidal epithelium | tissue 
+454 | Disease process | Biological process | cuboidal epithelium | epithelium 
+455 | digestive organ | organ | brown fat | adipose tissue 
+455 | digestive organ | organ | brown fat | connective tissue 
+456 | epithelium | tissue | invertebrate | animal 
+457 | blood | connective tissue | Metabolism | Biological process 
+458 | salivary gland | gland | invertebrate | animal 
+459 | small intestine | digestive organ | epithelium | tissue 
+460 | bone | connective tissue | connective tissue | tissue 
+461 | Shivering | Biological process | adipose tissue | connective tissue 
+462 | small intestine | digestive organ | mouse | mammal 
+463 | aquatic organism | organism | cartilage | connective tissue 
+464 | salivary gland | gland | invertebrate | animal 
+465 | cartilage | connective tissue | Evaporative cooling of water | Evaporative cooling 
+466 | Evaporative cooling of water | Evaporative cooling | Shivering | Biological process 
+467 | ligament | connective tissue | cartilage | connective tissue 
+467 | ligament | connective tissue | cartilage | tissue 
+468 | mammalian digestive system | digestive system | aquatic organism | organism 
+469 | hypothalamus | nervous tissue | brown fat | adipose tissue 
+469 | hypothalamus | nervous tissue | brown fat | connective tissue 
+469 | hypothalamus | nervous tissue | brown fat | tissue 
+470 | cartilage | connective tissue | nervous tissue | tissue 
+471 | brown fat | adipose tissue | small intestine | digestive organ 
+472 | adipose tissue | connective tissue | nervous tissue | tissue 
+473 | Shivering | Biological process | stratified squamous epithelium | epithelium 
+474 | smooth muscle | tissue | brown fat | adipose tissue 
+474 | smooth muscle | tissue | brown fat | connective tissue 
+475 | Evaporative cooling of water | Evaporative cooling | stomach | digestive organ 
+476 | epithelium | tissue | Metabolism | Biological process 
+477 | salivary gland | gland | Protein denaturation by heat | Protein denaturation 
+478 | stomach | digestive organ | Metabolism | Biological process 
+479 | Muscle contraction | Mechanical work | Metabolism | Biological process 
+480 | adipose tissue | connective tissue | Evaporative cooling of water | Evaporative cooling 
+481 | cuboidal epithelium | epithelium | small intestine | digestive organ 
+482 | bone | tissue | stratified squamous epithelium | epithelium 
+482 | bone | tissue | stratified squamous epithelium | tissue 
+483 | bone | connective tissue | stratified squamous epithelium | epithelium 
+484 | epithelium | tissue | nervous tissue | tissue 
+485 | muscle | tissue | adipose tissue | connective tissue 
+485 | muscle | tissue | adipose tissue | tissue 
+486 | cartilage | tissue | cartilage | connective tissue 
+486 | cartilage | tissue | cartilage | tissue 
+487 | cartilage | connective tissue | cartilage | connective tissue 
+488 | Disease process | Biological process | stratified squamous epithelium | epithelium 
+489 | salivary gland | gland | Metabolism | Biological process 
+490 | salivary gland | gland | cuboidal epithelium | epithelium 
+491 | mammalian digestive system | digestive system | Evaporative cooling of water | Evaporative cooling 
+492 | mammalian digestive system | digestive system | salivary gland | gland 
+493 | brown fat | connective tissue | bone | connective tissue 
+493 | brown fat | connective tissue | bone | tissue 
+494 | brown fat | adipose tissue | bone | connective tissue 
+495 | cartilage | connective tissue | Shivering | Biological process 
+496 | ligament | tissue | brown fat | adipose tissue 
+496 | ligament | tissue | brown fat | connective tissue 
+496 | ligament | tissue | brown fat | tissue 
+497 | ligament | connective tissue | brown fat | adipose tissue 
+497 | ligament | connective tissue | brown fat | connective tissue 
+498 | Hibernation | Biological process | brown fat | adipose tissue 
+498 | Hibernation | Biological process | brown fat | connective tissue 
+498 | Hibernation | Biological process | brown fat | tissue 
+499 | Evaporative cooling of water | Evaporative cooling | brown fat | adipose tissue 
+500 | Metabolism | Biological process | adipose tissue | connective tissue 
+501 | Disease process | Biological process | salivary gland | gland 
+502 | Evaporative cooling of water | Evaporative cooling | brown fat | adipose tissue 
+503 | hypothalamus | nervous tissue | brown fat | adipose tissue 
+503 | hypothalamus | nervous tissue | brown fat | connective tissue 
+503 | hypothalamus | nervous tissue | brown fat | tissue 
+504 | cartilage | tissue | stratified squamous epithelium | epithelium 
+504 | cartilage | tissue | stratified squamous epithelium | tissue 
+505 | cartilage | connective tissue | stratified squamous epithelium | epithelium 
+506 | invertebrate | animal | Shivering | Biological process 
+507 | Protein denaturation by heat | Protein denaturation | small intestine | digestive organ 
+508 | Shivering | Biological process | cuboidal epithelium | epithelium 
+509 | erythrocyte | blood cell | Disease process | Biological process 
+510 | muscle | tissue | stratified squamous epithelium | epithelium 
+510 | muscle | tissue | stratified squamous epithelium | tissue 
+511 | stomach | digestive organ | connective tissue | tissue 
+512 | brown fat | adipose tissue | aquatic organism | organism 
+513 | epithelium | tissue | aquatic organism | organism 
+514 | cuboidal epithelium | tissue | adipose tissue | connective tissue 
+514 | cuboidal epithelium | tissue | adipose tissue | tissue 
+515 | cuboidal epithelium | epithelium | adipose tissue | connective tissue 
+516 | mouse | mammal | connective tissue | tissue 
+517 | cartilage | connective tissue | nervous tissue | tissue 
+518 | small intestine | digestive organ | mouse | mammal 
+519 | aquatic organism | organism | Disease process | Biological process 
+520 | anterior pituitary | organ | brown fat | adipose tissue 
+520 | anterior pituitary | organ | brown fat | connective tissue 
+520 | anterior pituitary | organ | brown fat | tissue 
+521 | blood | tissue | cartilage | connective tissue 
+521 | blood | tissue | cartilage | tissue 
+522 | blood | connective tissue | cartilage | connective tissue 
+523 | adipose tissue | tissue | adipose tissue | connective tissue 
+523 | adipose tissue | tissue | adipose tissue | tissue 
+524 | adipose tissue | connective tissue | adipose tissue | connective tissue 
+525 | salivary gland | gland | cartilage | connective tissue 
+526 | connective tissue | tissue | bone | connective tissue 
+527 | Protein denaturation by heat | Protein denaturation | small intestine | digestive organ 
+528 | Shivering | Biological process | Protein denaturation by heat | Protein denaturation 
+529 | Shivering | Biological process | bone | connective tissue 
+530 | central nervous-system | organ system | adipose tissue | connective tissue 
+530 | central nervous-system | organ system | adipose tissue | tissue 
+531 | salivary gland | gland | Protein denaturation by heat | Protein denaturation 
+532 | blood | connective tissue | small intestine | digestive organ 
+533 | digestive organ | organ | brown fat | adipose tissue 
+533 | digestive organ | organ | brown fat | connective tissue 
+534 | muscle | tissue | bone | connective tissue 
+534 | muscle | tissue | bone | tissue 
+535 | aquatic organism | organism | aquatic organism | organism 
+536 | Protein denaturation by heat | Protein denaturation | salivary gland | gland 
+537 | Protein denaturation by heat | Protein denaturation | adipose tissue | connective tissue 
+538 | Protein denaturation by heat | Protein denaturation | Shivering | Biological process 
+539 | stratified squamous epithelium | tissue | bone | connective tissue 
+539 | stratified squamous epithelium | tissue | bone | tissue 
+540 | stratified squamous epithelium | epithelium | bone | connective tissue 
+541 | tendon | connective tissue | stratified squamous epithelium | epithelium 
+541 | tendon | connective tissue | stratified squamous epithelium | tissue 
+542 | stratified squamous epithelium | epithelium | connective tissue | tissue 
+543 | invertebrate | animal | Metabolism | Biological process 
+544 | mouse | mammal | brown fat | adipose tissue 
+545 | muscle | tissue | bone | connective tissue 
+545 | muscle | tissue | bone | tissue 
+546 | salivary gland | gland | brown fat | adipose tissue 
+547 | mammalian digestive system | digestive system | stomach | digestive organ 
+548 | epithelium | tissue | cuboidal epithelium | epithelium 
+549 | stomach | digestive organ | mammalian digestive system | digestive system 
+550 | animal | organism | cartilage | connective tissue 
+550 | animal | organism | cartilage | tissue 
+551 | brown fat | adipose tissue | epithelium | tissue 
+552 | epithelium | tissue | mouse | mammal 
+553 | mammalian digestive system | digestive system | stratified squamous epithelium | epithelium 
+554 | central nervous-system | organ system | brown fat | adipose tissue 
+554 | central nervous-system | organ system | brown fat | connective tissue 
+555 | connective tissue | tissue | bone | connective tissue 
+556 | stratified squamous epithelium | epithelium | invertebrate | animal 
+557 | blood | connective tissue | Shivering | Biological process 
+558 | brown fat | adipose tissue | small intestine | digestive organ 
+559 | Thermoregulation | Regulation | Shivering | Biological process 
+560 | brown fat | tissue | brown fat | adipose tissue 
+560 | brown fat | tissue | brown fat | connective tissue 
+560 | brown fat | tissue | brown fat | tissue 
+561 | brown fat | connective tissue | brown fat | adipose tissue 
+561 | brown fat | connective tissue | brown fat | connective tissue 
+562 | brown fat | adipose tissue | brown fat | adipose tissue 
+563 | invertebrate | animal | stomach | digestive organ 
+564 | smooth muscle | tissue | brown fat | adipose tissue 
+564 | smooth muscle | tissue | brown fat | connective tissue 
+565 | blood | tissue | bone | connective tissue 
+565 | blood | tissue | bone | tissue 
+566 | blood | connective tissue | bone | connective tissue 
+567 | erythrocyte | blood cell | epithelium | tissue 
+568 | small intestine | digestive organ | stomach | digestive organ 
+569 | cuboidal epithelium | epithelium | invertebrate | animal 
+570 | epidermis | tissue | brown fat | adipose tissue 
+570 | epidermis | tissue | brown fat | connective tissue 
+571 | epithelium | tissue | brown fat | adipose tissue 
+572 | epithelium | tissue | Shivering | Biological process 
+573 | connective tissue | tissue | cuboidal epithelium | epithelium 
+574 | Muscle contraction | Mechanical work | nervous tissue | tissue 
+575 | Shivering | Biological process | Metabolism | Biological process 
+576 | blood vessel | organ | brown fat | adipose tissue 
+576 | blood vessel | organ | brown fat | connective tissue 
+576 | blood vessel | organ | brown fat | tissue 
+577 | bone | connective tissue | nervous tissue | tissue 
+578 | digestive organ | organ | adipose tissue | connective tissue 
+578 | digestive organ | organ | adipose tissue | tissue 
+579 | mammalian digestive system | digestive system | invertebrate | animal 
+580 | aquatic organism | organism | salivary gland | gland 
+581 | cuboidal epithelium | tissue | adipose tissue | connective tissue 
+581 | cuboidal epithelium | tissue | adipose tissue | tissue 
+582 | cuboidal epithelium | epithelium | adipose tissue | connective tissue 
+583 | adipose tissue | connective tissue | Protein denaturation by heat | Protein denaturation 
+584 | Metabolism | Biological process | salivary gland | gland 
+585 | mouse | mammal | nervous tissue | tissue 
+586 | nervous tissue | tissue | connective tissue | tissue 
+587 | mammalian digestive system | digestive system | mammalian digestive system | digestive system 
+588 | salivary gland | gland | adipose tissue | connective tissue 
+589 | bone | tissue | cartilage | connective tissue 
+589 | bone | tissue | cartilage | tissue 
+590 | bone | connective tissue | cartilage | connective tissue 
+591 | small intestine | digestive organ | salivary gland | gland 
+592 | blood | tissue | bone | connective tissue 
+592 | blood | tissue | bone | tissue 
+593 | blood | connective tissue | bone | connective tissue 
+594 | stratified squamous epithelium | epithelium | Protein denaturation by heat | Protein denaturation 
+595 | Disease process | Biological process | Shivering | Biological process 
+596 | Metabolism | Biological process | brown fat | adipose tissue 
+597 | aquatic organism | organism | adipose tissue | connective tissue 
+598 | cuboidal epithelium | tissue | brown fat | adipose tissue 
+598 | cuboidal epithelium | tissue | brown fat | connective tissue 
+599 | cuboidal epithelium | epithelium | brown fat | adipose tissue 
+600 | salivary gland | gland | aquatic organism | organism 
+601 | Evaporative cooling of water | Evaporative cooling | stratified squamous epithelium | epithelium 
+602 | muscle | tissue | adipose tissue | connective tissue 
+602 | muscle | tissue | adipose tissue | tissue 
+603 | salivary gland | gland | Metabolism | Biological process 
+604 | Disease process | Biological process | bone | connective tissue 
+605 | adipose tissue | connective tissue | mouse | mammal 
+606 | mouse | mammal | Shivering | Biological process 
+607 | epithelium | tissue | bone | connective tissue 
+608 | cartilage | tissue | stratified squamous epithelium | epithelium 
+608 | cartilage | tissue | stratified squamous epithelium | tissue 
+609 | cartilage | connective tissue | stratified squamous epithelium | epithelium 
+610 | blood | connective tissue | stomach | digestive organ 
+611 | Thermoregulation | Regulation | mammalian digestive system | digestive system 
+612 | smooth muscle | tissue | stratified squamous epithelium | epithelium 
+612 | smooth muscle | tissue | stratified squamous epithelium | tissue 
+613 | blood | connective tissue | Protein denaturation by heat | Protein denaturation 
+614 | mammalian digestive system | digestive system | Metabolism | Biological process 
+615 | invertebrate | animal | small intestine | digestive organ 
+616 | tongue | organ | cartilage | connective tissue 
+616 | tongue | organ | cartilage | tissue 
+617 | Metabolism | Biological process | Protein denaturation by heat | Protein denaturation 
+618 | adipose tissue | connective tissue | salivary gland | gland 
+619 | stomach | digestive organ | cuboidal epithelium | epithelium 
+620 | aquatic organism | organism | cartilage | connective tissue 
+621 | bone | connective tissue | small intestine | digestive organ 
+622 | digestive system | organ system | brown fat | adipose tissue 
+622 | digestive system | organ system | brown fat | connective tissue 
+623 | epithelium | tissue | bone | connective tissue 
+624 | blood | connective tissue | small intestine | digestive organ 
+625 | digestive organ | organ | stratified squamous epithelium | epithelium 
+625 | digestive organ | organ | stratified squamous epithelium | tissue 
+626 | Evaporative cooling of water | Evaporative cooling | Disease process | Biological process 
+627 | stratified squamous epithelium | tissue | bone | connective tissue 
+627 | stratified squamous epithelium | tissue | bone | tissue 
+628 | stratified squamous epithelium | epithelium | bone | connective tissue 
+629 | digestive organ | organ | bone | connective tissue 
+629 | digestive organ | organ | bone | tissue 
+630 | Muscle contraction | Mechanical work | Evaporative cooling of water | Evaporative cooling 
+631 | mammalian digestive system | digestive system | cartilage | connective tissue 
+632 | Metabolism | Biological process | cuboidal epithelium | epithelium 
+633 | bone | tissue | adipose tissue | connective tissue 
+633 | bone | tissue | adipose tissue | tissue 
+634 | bone | connective tissue | adipose tissue | connective tissue 
+635 | Metabolism | Biological process | stratified squamous epithelium | epithelium 
+636 | cartilage | connective tissue | connective tissue | tissue 
+637 | cartilage | tissue | brown fat | adipose tissue 
+637 | cartilage | tissue | brown fat | connective tissue 
+638 | cartilage | connective tissue | brown fat | adipose tissue 
+639 | Protein denaturation by heat | Protein denaturation | mouse | mammal 
+640 | invertebrate | animal | invertebrate | animal 
+641 | cuboidal epithelium | tissue | cuboidal epithelium | epithelium 
+641 | cuboidal epithelium | tissue | cuboidal epithelium | tissue 
+642 | cuboidal epithelium | epithelium | cuboidal epithelium | epithelium 
+643 | aquatic organism | organism | Metabolism | Biological process 
+644 | stratified squamous epithelium | epithelium | salivary gland | gland 
+645 | Muscle contraction | Mechanical work | mammalian digestive system | digestive system 
+646 | Protein denaturation by heat | Protein denaturation | salivary gland | gland 
+647 | salivary gland | gland | adipose tissue | connective tissue 
+648 | connective tissue | tissue | cartilage | connective tissue 
+649 | Metabolism | Biological process | Evaporative cooling of water | Evaporative cooling 
+650 | Thermoregulation | Regulation | small intestine | digestive organ 
+651 | epithelium | tissue | connective tissue | tissue 
+652 | Evaporative cooling of water | Evaporative cooling | aquatic organism | organism 
+653 | Evaporative cooling of water | Evaporative cooling | invertebrate | animal 
+654 | animal | organism | cartilage | connective tissue 
+654 | animal | organism | cartilage | tissue 
+655 | Metabolism | Biological process | stomach | digestive organ 
+656 | epidermis | tissue | brown fat | adipose tissue 
+656 | epidermis | tissue | brown fat | connective tissue 
+657 | Protein denaturation by heat | Protein denaturation | stratified squamous epithelium | epithelium 
+658 | epithelium | tissue | Disease process | Biological process 
+659 | skin | organ | brown fat | adipose tissue 
+659 | skin | organ | brown fat | connective tissue 
+659 | skin | organ | brown fat | tissue 
+660 | Thermoregulation | Regulation | bone | connective tissue 
+661 | erythrocyte | blood cell | bone | connective tissue 
+662 | brown fat | adipose tissue | small intestine | digestive organ 
+663 | mammalian digestive system | digestive system | epithelium | tissue 
+664 | Muscle contraction | Mechanical work | small intestine | digestive organ 
+665 | connective tissue | tissue | connective tissue | tissue 
+666 | stratified squamous epithelium | epithelium | small intestine | digestive organ 
+667 | digestive system | organ system | cartilage | connective tissue 
+667 | digestive system | organ system | cartilage | tissue 
+668 | stratified squamous epithelium | tissue | brown fat | adipose tissue 
+668 | stratified squamous epithelium | tissue | brown fat | connective tissue 
+669 | stratified squamous epithelium | epithelium | brown fat | adipose tissue 
+670 | connective tissue | tissue | bone | connective tissue 
+671 | tongue | organ | cartilage | connective tissue 
+671 | tongue | organ | cartilage | tissue 
+672 | Evaporative cooling of water | Evaporative cooling | Shivering | Biological process 
+673 | cuboidal epithelium | epithelium | nervous tissue | tissue 
+674 | small intestine | digestive organ | stratified squamous epithelium | epithelium 
+675 | Thermoregulation | Regulation | salivary gland | gland 
+676 | Disease process | Biological process | Metabolism | Biological process 
+677 | blood | tissue | bone | connective tissue 
+677 | blood | tissue | bone | tissue 
+678 | blood | connective tissue | bone | connective tissue 
+679 | nervous tissue | tissue | Protein denaturation by heat | Protein denaturation 
+680 | elephant | mammal | brown fat | adipose tissue 
+680 | elephant | mammal | brown fat | connective tissue 
+680 | elephant | mammal | brown fat | tissue 
+681 | aquatic organism | organism | brown fat | adipose tissue 
+682 | muscle | tissue | cartilage | connective tissue 
+682 | muscle | tissue | cartilage | tissue 
+683 | epithelium | tissue | cuboidal epithelium | epithelium 
+684 | erythrocyte | blood cell | stomach | digestive organ 
+685 | Metabolism | Biological process | epithelium | tissue 
+686 | mouse | mammal | stomach | digestive organ 
+687 | blood vessel | organ | brown fat | adipose tissue 
+687 | blood vessel | organ | brown fat | connective tissue 
+687 | blood vessel | organ | brown fat | tissue 
+688 | cartilage | connective tissue | mammalian digestive system | digestive system 
+689 | mouse | mammal | nervous tissue | tissue 
+690 | epithelium | tissue | cuboidal epithelium | epithelium 
+691 | nervous tissue | tissue | mouse | mammal 
+692 | muscle | tissue | bone | connective tissue 
+692 | muscle | tissue | bone | tissue 
+693 | elephant | mammal | brown fat | adipose tissue 
+693 | elephant | mammal | brown fat | connective tissue 
+693 | elephant | mammal | brown fat | tissue 
+694 | stomach | digestive organ | Evaporative cooling of water | Evaporative cooling 
+695 | bone | connective tissue | mammalian digestive system | digestive system 
+696 | Disease process | Biological process | nervous tissue | tissue 
+697 | stratified squamous epithelium | epithelium | connective tissue | tissue 
+698 | cuboidal epithelium | tissue | bone | connective tissue 
+698 | cuboidal epithelium | tissue | bone | tissue 
+699 | cuboidal epithelium | epithelium | bone | connective tissue 
+700 | Evaporative cooling of water | Evaporative cooling | Evaporative cooling of water | Evaporative cooling 
+701 | nervous tissue | tissue | Shivering | Biological process 
+702 | salivary gland | gland | invertebrate | animal 
+703 | aquatic organism | organism | Disease process | Biological process 
+704 | connective tissue | tissue | mammalian digestive system | digestive system 
+705 | Evaporative cooling of water | Evaporative cooling | bone | connective tissue 
+706 | mouse | mammal | bone | connective tissue 
+707 | smooth muscle | tissue | adipose tissue | connective tissue 
+707 | smooth muscle | tissue | adipose tissue | tissue 
+708 | connective tissue | tissue | bone | connective tissue 
+709 | blood | connective tissue | Metabolism | Biological process 
+710 | Metabolism | Biological process | Disease process | Biological process 
+711 | stomach | digestive organ | Evaporative cooling of water | Evaporative cooling 
+712 | stratified squamous epithelium | epithelium | small intestine | digestive organ 
+713 | muscle | tissue | adipose tissue | connective tissue 
+713 | muscle | tissue | adipose tissue | tissue 
+714 | stratified squamous epithelium | epithelium | epithelium | tissue 
+715 | blood | connective tissue | small intestine | digestive organ 
+716 | Evaporative cooling of water | Evaporative cooling | cartilage | connective tissue 
+717 | adipose tissue | connective tissue | nervous tissue | tissue 
+718 | stomach | digestive organ | aquatic organism | organism 
+719 | cartilage | connective tissue | salivary gland | gland 
+720 | bone | tissue | bone | connective tissue 
+720 | bone | tissue | bone | tissue 
+721 | bone | connective tissue | bone | connective tissue 
+722 | mouse | mammal | nervous tissue | tissue 
+723 | cartilage | connective tissue | invertebrate | animal 
+724 | nervous tissue | tissue | Protein denaturation by heat | Protein denaturation 
+725 | aquatic organism | organism | Disease process | Biological process 
+726 | Thermoregulation | Regulation | bone | connective tissue 
+727 | small intestine | digestive organ | mammalian digestive system | digestive system 
+728 | mammalian digestive system | organ system | brown fat | adipose tissue 
+728 | mammalian digestive system | organ system | brown fat | connective tissue 
+728 | mammalian digestive system | organ system | brown fat | tissue 
+729 | mammalian digestive system | digestive system | brown fat | adipose tissue 
+730 | aquatic organism | organism | Disease process | Biological process 
+731 | Thermoregulation | Regulation | epithelium | tissue 
+732 | digestive organ | organ | adipose tissue | connective tissue 
+732 | digestive organ | organ | adipose tissue | tissue 
+733 | stratified squamous epithelium | tissue | brown fat | adipose tissue 
+733 | stratified squamous epithelium | tissue | brown fat | connective tissue 
+734 | stratified squamous epithelium | epithelium | brown fat | adipose tissue 
+735 | blood | connective tissue | nervous tissue | tissue 
+736 | aquatic organism | organism | Disease process | Biological process 
+737 | Metabolism | Biological process | mouse | mammal 
+738 | Disease process | Biological process | bone | connective tissue 
+739 | cartilage | connective tissue | connective tissue | tissue 
+740 | Thermoregulation | Regulation | invertebrate | animal 
+741 | smooth muscle | tissue | cartilage | connective tissue 
+741 | smooth muscle | tissue | cartilage | tissue 
+742 | mammalian digestive system | digestive system | bone | connective tissue 
+743 | Muscle contraction | Mechanical work | mouse | mammal 
+744 | small intestine | digestive organ | stomach | digestive organ 
+745 | Thermoregulation | Regulation | mammalian digestive system | digestive system 
+746 | aquatic organism | organism | Metabolism | Biological process 
+747 | Thermoregulation | Regulation | Protein denaturation by heat | Protein denaturation 
+748 | Evaporative cooling of water | Evaporative cooling | nervous tissue | tissue 
+749 | bone | connective tissue | stomach | digestive organ 
+750 | digestive system | organ system | adipose tissue | connective tissue 
+750 | digestive system | organ system | adipose tissue | tissue 
+751 | nervous tissue | tissue | small intestine | digestive organ 
+752 | Evaporative cooling of water | Evaporative cooling | Protein denaturation by heat | Protein denaturation 
+753 | Protein denaturation by heat | Protein denaturation | stratified squamous epithelium | epithelium 
+754 | brown fat | adipose tissue | invertebrate | animal 
+755 | salivary gland | gland | stratified squamous epithelium | epithelium 
+756 | central nervous-system | organ system | adipose tissue | connective tissue 
+756 | central nervous-system | organ system | adipose tissue | tissue 
+757 | Protein denaturation by heat | Protein denaturation | Shivering | Biological process 
+758 | epithelium | tissue | adipose tissue | connective tissue 
+759 | Metabolism | Biological process | stratified squamous epithelium | epithelium 
+760 | cartilage | tissue | cartilage | connective tissue 
+760 | cartilage | tissue | cartilage | tissue 
+761 | cartilage | connective tissue | cartilage | connective tissue 
+762 | Protein denaturation by heat | Protein denaturation | Disease process | Biological process 
+763 | cartilage | tissue | cartilage | connective tissue 
+763 | cartilage | tissue | cartilage | tissue 
+764 | cartilage | connective tissue | cartilage | connective tissue 
+765 | Evaporative cooling of water | Evaporative cooling | stomach | digestive organ 
+766 | epithelium | tissue | bone | connective tissue 
+767 | stomach | digestive organ | stomach | digestive organ 
+768 | aquatic organism | organism | bone | connective tissue 
+769 | cartilage | tissue | bone | connective tissue 
+769 | cartilage | tissue | bone | tissue 
+770 | cartilage | connective tissue | bone | connective tissue 
+771 | Muscle contraction | Mechanical work | Disease process | Biological process 
+772 | stratified squamous epithelium | epithelium | invertebrate | animal 
+773 | tongue | organ | cuboidal epithelium | epithelium 
+773 | tongue | organ | cuboidal epithelium | tissue 
+774 | central nervous-system | organ system | stratified squamous epithelium | epithelium 
+774 | central nervous-system | organ system | stratified squamous epithelium | tissue 
+775 | muscle | tissue | adipose tissue | connective tissue 
+775 | muscle | tissue | adipose tissue | tissue 
+776 | Evaporative cooling of water | Evaporative cooling | Protein denaturation by heat | Protein denaturation 
+777 | small intestine | digestive organ | salivary gland | gland 
+778 | adipose tissue | tissue | brown fat | adipose tissue 
+778 | adipose tissue | tissue | brown fat | connective tissue 
+779 | adipose tissue | connective tissue | brown fat | adipose tissue 
+780 | mammalian digestive system | digestive system | salivary gland | gland 
+781 | animal | organism | cartilage | connective tissue 
+781 | animal | organism | cartilage | tissue 
+782 | blood | connective tissue | Evaporative cooling of water | Evaporative cooling 
+783 | connective tissue | tissue | bone | connective tissue 
+784 | digestive system | organ system | adipose tissue | connective tissue 
+784 | digestive system | organ system | adipose tissue | tissue 
+785 | stomach | digestive organ | Protein denaturation by heat | Protein denaturation 
+786 | Muscle contraction | Mechanical work | aquatic organism | organism 
+787 | aquatic organism | organism | epithelium | tissue 
+788 | Muscle contraction | Mechanical work | Metabolism | Biological process 
+789 | Thermoregulation | Regulation | invertebrate | animal 
+790 | nervous tissue | tissue | Metabolism | Biological process 
+791 | Muscle contraction | Mechanical work | stratified squamous epithelium | epithelium 
+792 | Protein denaturation by heat | Protein denaturation | epithelium | tissue 
+793 | digestive system | organ system | cuboidal epithelium | epithelium 
+793 | digestive system | organ system | cuboidal epithelium | tissue 
+794 | invertebrate | animal | Disease process | Biological process 
+795 | connective tissue | tissue | Metabolism | Biological process 
+796 | cartilage | connective tissue | nervous tissue | tissue 
+797 | Disease process | Biological process | stomach | digestive organ 
+798 | Metabolism | Biological process | Disease process | Biological process 
+799 | Metabolism | Biological process | mammalian digestive system | digestive system 
+800 | Protein denaturation by heat | Protein denaturation | Metabolism | Biological process 
+801 | Protein denaturation by heat | Protein denaturation | Protein denaturation by heat | Protein denaturation 
+802 | animal | organism | adipose tissue | connective tissue 
+802 | animal | organism | adipose tissue | tissue 
+803 | animal | organism | cartilage | connective tissue 
+803 | animal | organism | cartilage | tissue 
+804 | tongue | organ | cartilage | connective tissue 
+804 | tongue | organ | cartilage | tissue 
+805 | Shivering | Biological process | connective tissue | tissue 
+806 | digestive system | organ system | bone | connective tissue 
+806 | digestive system | organ system | bone | tissue 
+807 | mammalian digestive system | digestive system | adipose tissue | connective tissue 
+808 | adipose tissue | connective tissue | stomach | digestive organ 
+809 | Evaporative cooling of water | Evaporative cooling | mammalian digestive system | digestive system 
+810 | mouse | mammal | Metabolism | Biological process 
+811 | brown fat | adipose tissue | stomach | digestive organ 
+812 | cartilage | connective tissue | stomach | digestive organ 
+813 | Evaporative cooling of water | Evaporative cooling | cartilage | connective tissue 
+814 | Evaporative cooling of water | Evaporative cooling | connective tissue | tissue 
+815 | Evaporative cooling of water | Evaporative cooling | mammalian digestive system | digestive system 
+816 | Shivering | Biological process | Shivering | Biological process 
+817 | adipose tissue | connective tissue | stomach | digestive organ 
+818 | Muscle contraction | Mechanical work | mouse | mammal 
+819 | nervous tissue | tissue | stratified squamous epithelium | epithelium 
+820 | salivary gland | gland | Shivering | Biological process 
+821 | connective tissue | tissue | Shivering | Biological process 
+822 | brown fat | adipose tissue | nervous tissue | tissue 
+823 | brown fat | connective tissue | bone | connective tissue 
+823 | brown fat | connective tissue | bone | tissue 
+824 | brown fat | adipose tissue | bone | connective tissue 
+825 | Evaporative cooling of water | Evaporative cooling | epithelium | tissue 
+826 | connective tissue | tissue | bone | connective tissue 
+827 | epithelium | tissue | aquatic organism | organism 
+828 | blood | connective tissue | epithelium | tissue 
+829 | Metabolism | Biological process | Disease process | Biological process 
+830 | mouse | mammal | Evaporative cooling of water | Evaporative cooling 
+831 | mammalian digestive system | digestive system | adipose tissue | connective tissue 
+832 | tendon | tissue | brown fat | adipose tissue 
+832 | tendon | tissue | brown fat | connective tissue 
+832 | tendon | tissue | brown fat | tissue 
+833 | tendon | connective tissue | brown fat | adipose tissue 
+833 | tendon | connective tissue | brown fat | connective tissue 
+834 | epithelium | tissue | bone | connective tissue 
+835 | connective tissue | tissue | Metabolism | Biological process 
+836 | epithelium | tissue | brown fat | adipose tissue 
+837 | mammalian digestive system | digestive system | connective tissue | tissue 
+838 | animal | organism | adipose tissue | connective tissue 
+838 | animal | organism | adipose tissue | tissue 
+839 | connective tissue | tissue | invertebrate | animal 
+840 | brown fat | adipose tissue | invertebrate | animal 
+841 | salivary gland | gland | Shivering | Biological process 
+842 | stratified squamous epithelium | epithelium | Protein denaturation by heat | Protein denaturation 
+843 | brown fat | adipose tissue | Disease process | Biological process 
+844 | aquatic organism | organism | invertebrate | animal 
+845 | bone | connective tissue | nervous tissue | tissue 
+846 | mouse | mammal | brown fat | adipose tissue 
+847 | bone | connective tissue | mouse | mammal 
+848 | blood | tissue | cuboidal epithelium | epithelium 
+848 | blood | tissue | cuboidal epithelium | tissue 
+849 | blood | connective tissue | cuboidal epithelium | epithelium 
+850 | Evaporative cooling of water | Evaporative cooling | invertebrate | animal 
+851 | digestive system | organ system | cuboidal epithelium | epithelium 
+851 | digestive system | organ system | cuboidal epithelium | tissue 
+852 | Evaporative cooling of water | Evaporative cooling | Metabolism | Biological process 
+853 | connective tissue | tissue | bone | connective tissue 
+854 | central nervous-system | organ system | bone | connective tissue 
+854 | central nervous-system | organ system | bone | tissue 
+855 | tongue | organ | adipose tissue | connective tissue 
+855 | tongue | organ | adipose tissue | tissue 
+856 | aquatic organism | organism | small intestine | digestive organ 
+857 | connective tissue | tissue | Metabolism | Biological process 
+858 | Muscle contraction | Mechanical work | connective tissue | tissue 
+859 | cartilage | tissue | brown fat | adipose tissue 
+859 | cartilage | tissue | brown fat | connective tissue 
+860 | cartilage | connective tissue | brown fat | adipose tissue 
+861 | Disease process | Biological process | Evaporative cooling of water | Evaporative cooling 
+862 | aquatic organism | organism | mammalian digestive system | digestive system 
+863 | smooth muscle | tissue | adipose tissue | connective tissue 
+863 | smooth muscle | tissue | adipose tissue | tissue 
+864 | cuboidal epithelium | epithelium | connective tissue | tissue 
+865 | cuboidal epithelium | tissue | brown fat | adipose tissue 
+865 | cuboidal epithelium | tissue | brown fat | connective tissue 
+866 | cuboidal epithelium | epithelium | brown fat | adipose tissue 
+867 | salivary gland | gland | invertebrate | animal 
+868 | cartilage | tissue | brown fat | adipose tissue 
+868 | cartilage | tissue | brown fat | connective tissue 
+869 | cartilage | connective tissue | brown fat | adipose tissue 
+870 | tendon | connective tissue | cuboidal epithelium | epithelium 
+870 | tendon | connective tissue | cuboidal epithelium | tissue 
+871 | mouse | mammal | Protein denaturation by heat | Protein denaturation 
+872 | tongue | organ | adipose tissue | connective tissue 
+872 | tongue | organ | adipose tissue | tissue 
+873 | Protein denaturation by heat | Protein denaturation | Protein denaturation by heat | Protein denaturation 
+874 | salivary gland | gland | Shivering | Biological process 
+875 | stomach | digestive organ | stratified squamous epithelium | epithelium 
+876 | Thermoregulation | Regulation | Protein denaturation by heat | Protein denaturation 
+877 | stratified squamous epithelium | epithelium | small intestine | digestive organ 
+878 | aquatic organism | organism | connective tissue | tissue 
+879 | bone | connective tissue | Evaporative cooling of water | Evaporative cooling 
+880 | connective tissue | tissue | brown fat | adipose tissue 
+881 | Muscle contraction | Mechanical work | mouse | mammal 
+882 | bone | connective tissue | Evaporative cooling of water | Evaporative cooling 
+883 | brown fat | adipose tissue | epithelium | tissue 
+884 | epithelium | tissue | stratified squamous epithelium | epithelium 
+885 | brown fat | adipose tissue | mammalian digestive system | digestive system 
+886 | Protein denaturation by heat | Protein denaturation | adipose tissue | connective tissue 
+887 | Thermoregulation | Regulation | mouse | mammal 
+888 | salivary gland | gland | Evaporative cooling of water | Evaporative cooling 
+889 | tongue | organ | stratified squamous epithelium | epithelium 
+889 | tongue | organ | stratified squamous epithelium | tissue 
+890 | Shivering | Biological process | brown fat | adipose tissue 
+891 | salivary gland | gland | Evaporative cooling of water | Evaporative cooling 
+892 | tongue | organ | brown fat | adipose tissue 
+892 | tongue | organ | brown fat | connective tissue 
+893 | mouse | mammal | invertebrate | animal 
+894 | mammalian digestive system | digestive system | adipose tissue | connective tissue 
+895 | Protein denaturation by heat | Protein denaturation | cuboidal epithelium | epithelium 
+896 | salivary gland | gland | cartilage | connective tissue 
+897 | Evaporative cooling of water | Evaporative cooling | mouse | mammal 
+898 | central nervous-system | organ system | stratified squamous epithelium | epithelium 
+898 | central nervous-system | organ system | stratified squamous epithelium | tissue 
+899 | Metabolism | Biological process | nervous tissue | tissue 
+900 | mouse | mammal | stomach | digestive organ 
+901 | small intestine | digestive organ | Evaporative cooling of water | Evaporative cooling 
+902 | erythrocyte | blood cell | cartilage | connective tissue 
+903 | invertebrate | animal | stratified squamous epithelium | epithelium 
+904 | mammalian digestive system | digestive system | cartilage | connective tissue 
+905 | muscle | tissue | brown fat | adipose tissue 
+905 | muscle | tissue | brown fat | connective tissue 
+906 | mammalian digestive system | digestive system | nervous tissue | tissue 
+907 | salivary gland | gland | small intestine | digestive organ 
+908 | mouse | mammal | mouse | mammal 
+909 | epithelium | tissue | Evaporative cooling of water | Evaporative cooling 
+910 | blood | connective tissue | Protein denaturation by heat | Protein denaturation 
+911 | Evaporative cooling of water | Evaporative cooling | cuboidal epithelium | epithelium 
+912 | mammalian digestive system | digestive system | stomach | digestive organ 
+913 | blood | connective tissue | Protein denaturation by heat | Protein denaturation 
+914 | small intestine | digestive organ | Protein denaturation by heat | Protein denaturation 
+915 | Shivering | Biological process | mammalian digestive system | digestive system 
+916 | connective tissue | tissue | Disease process | Biological process 
+917 | brown fat | adipose tissue | mammalian digestive system | digestive system 
+918 | cuboidal epithelium | tissue | stratified squamous epithelium | epithelium 
+918 | cuboidal epithelium | tissue | stratified squamous epithelium | tissue 
+919 | cuboidal epithelium | epithelium | stratified squamous epithelium | epithelium 
+920 | aquatic organism | organism | Evaporative cooling of water | Evaporative cooling 
+921 | brown fat | adipose tissue | salivary gland | gland 
+922 | Protein denaturation by heat | Protein denaturation | bone | connective tissue 
+923 | tendon | connective tissue | stratified squamous epithelium | epithelium 
+923 | tendon | connective tissue | stratified squamous epithelium | tissue 
+924 | Protein denaturation by heat | Protein denaturation | Protein denaturation by heat | Protein denaturation 
+925 | adipose tissue | connective tissue | Disease process | Biological process 
+926 | smooth muscle | tissue | stratified squamous epithelium | epithelium 
+926 | smooth muscle | tissue | stratified squamous epithelium | tissue 
+927 | Shivering | Biological process | Metabolism | Biological process 
+928 | mouse | mammal | adipose tissue | connective tissue 
+929 | epithelium | tissue | mouse | mammal 
+930 | connective tissue | tissue | connective tissue | tissue 
+931 | blood | connective tissue | epithelium | tissue 
+932 | invertebrate | animal | Disease process | Biological process 
+933 | stratified squamous epithelium | epithelium | connective tissue | tissue 
+934 | invertebrate | animal | Protein denaturation by heat | Protein denaturation 
+935 | brown fat | adipose tissue | connective tissue | tissue 
+936 | cuboidal epithelium | epithelium | mouse | mammal 
+937 | connective tissue | tissue | connective tissue | tissue 
+938 | Metabolism | Biological process | stratified squamous epithelium | epithelium 
+939 | invertebrate | animal | Evaporative cooling of water | Evaporative cooling 
+940 | tongue | organ | cuboidal epithelium | epithelium 
+940 | tongue | organ | cuboidal epithelium | tissue 
+941 | Thermoregulation | Regulation | mouse | mammal 
+942 | nervous tissue | tissue | mouse | mammal 
+943 | central nervous-system | organ system | adipose tissue | connective tissue 
+943 | central nervous-system | organ system | adipose tissue | tissue 
+944 | epithelium | tissue | stratified squamous epithelium | epithelium 
+945 | epithelium | tissue | cartilage | connective tissue 
+946 | mouse | mammal | salivary gland | gland 
+947 | Evaporative cooling of water | Evaporative cooling | mammalian digestive system | digestive system 
+948 | cuboidal epithelium | epithelium | invertebrate | animal 
+949 | bone | tissue | cuboidal epithelium | epithelium 
+949 | bone | tissue | cuboidal epithelium | tissue 
+950 | bone | connective tissue | cuboidal epithelium | epithelium 
+951 | nervous tissue | tissue | cuboidal epithelium | epithelium 
+952 | connective tissue | tissue | epithelium | tissue 
+953 | adipose tissue | tissue | cartilage | connective tissue 
+953 | adipose tissue | tissue | cartilage | tissue 
+954 | adipose tissue | connective tissue | cartilage | connective tissue 
+955 | Disease process | Biological process | Evaporative cooling of water | Evaporative cooling 
+956 | stomach | digestive organ | connective tissue | tissue 
+957 | adipose tissue | connective tissue | nervous tissue | tissue 
+958 | cuboidal epithelium | tissue | cuboidal epithelium | epithelium 
+958 | cuboidal epithelium | tissue | cuboidal epithelium | tissue 
+959 | cuboidal epithelium | epithelium | cuboidal epithelium | epithelium 
+960 | anterior pituitary | organ | brown fat | adipose tissue 
+960 | anterior pituitary | organ | brown fat | connective tissue 
+960 | anterior pituitary | organ | brown fat | tissue 
+961 | animal | organism | adipose tissue | connective tissue 
+961 | animal | organism | adipose tissue | tissue 
+962 | Evaporative cooling of water | Evaporative cooling | cartilage | connective tissue 
+963 | muscle | tissue | bone | connective tissue 
+963 | muscle | tissue | bone | tissue 
+964 | Metabolism | Biological process | connective tissue | tissue 
+965 | smooth muscle | tissue | cuboidal epithelium | epithelium 
+965 | smooth muscle | tissue | cuboidal epithelium | tissue 
+966 | stomach | digestive organ | small intestine | digestive organ 
+967 | connective tissue | tissue | small intestine | digestive organ 
+968 | Hibernation | Biological process | brown fat | adipose tissue 
+968 | Hibernation | Biological process | brown fat | connective tissue 
+968 | Hibernation | Biological process | brown fat | tissue 
+969 | blood | connective tissue | Evaporative cooling of water | Evaporative cooling 
+970 | invertebrate | animal | Evaporative cooling of water | Evaporative cooling 
+971 | bone | connective tissue | Evaporative cooling of water | Evaporative cooling 
+972 | Muscle contraction | Mechanical work | adipose tissue | connective tissue 
+973 | invertebrate | animal | Evaporative cooling of water | Evaporative cooling 
+974 | mammalian digestive system | digestive system | adipose tissue | connective tissue 
+975 | salivary gland | gland | cuboidal epithelium | epithelium 
+976 | bone | connective tissue | small intestine | digestive organ 
+977 | brown fat | adipose tissue | salivary gland | gland 
+978 | nervous tissue | tissue | mouse | mammal 
+979 | Thermoregulation | Regulation | cuboidal epithelium | epithelium 
+980 | Protein denaturation by heat | Protein denaturation | aquatic organism | organism 
+981 | epithelium | tissue | mouse | mammal 
+982 | Muscle contraction | Mechanical work | aquatic organism | organism 
+983 | cuboidal epithelium | epithelium | mouse | mammal 
+984 | aquatic organism | organism | mouse | mammal 
+985 | bone | connective tissue | invertebrate | animal 
+986 | Protein denaturation by heat | Protein denaturation | mouse | mammal 
+987 | stomach | digestive organ | invertebrate | animal 
+988 | stratified squamous epithelium | tissue | brown fat | adipose tissue 
+988 | stratified squamous epithelium | tissue | brown fat | connective tissue 
+989 | stratified squamous epithelium | epithelium | brown fat | adipose tissue 
+990 | Muscle contraction | Mechanical work | bone | connective tissue 
+991 | stratified squamous epithelium | epithelium | Protein denaturation by heat | Protein denaturation 
+992 | Protein denaturation by heat | Protein denaturation | connective tissue | tissue 
+993 | mammalian digestive system | digestive system | nervous tissue | tissue 
+994 | digestive system | organ system | bone | connective tissue 
+994 | digestive system | organ system | bone | tissue 
+995 | Disease process | Biological process | bone | connective tissue 
+996 | heart | organ | brown fat | adipose tissue 
+996 | heart | organ | brown fat | connective tissue 
+996 | heart | organ | brown fat | tissue 
+997 | mammalian digestive system | digestive system | mammalian digestive system | digestive system 
+998 | Thermoregulation | Regulation | invertebrate | animal 
+999 | Shivering | Biological process | small intestine | digestive organ 
