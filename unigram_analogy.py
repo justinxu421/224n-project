@@ -53,6 +53,100 @@ def deep_model_preprocessing_csv(analogy_corpus,extract_all=False, ngram_abc="ng
             f.write(sent + "\n")
         f.close()
 
+def deep_model_preprocessing_sepencs(analogy_corpus,extract_all=False, ngram_abc="ngram_tokens.abc",ngram_d="ngram_tokens.d",base_address="./NMT_Analogies/data/"):
+    print(len(analogy_corpus))
+    ngram_traina= base_address + "ngram_train.a"
+    ngram_trainb= base_address + "ngram_train.b"
+    ngram_trainc= base_address + "ngram_train.c"
+    ngram_traind= base_address + "ngram_train.d" 
+
+    ngram_testa= base_address + "ngram_test.a"
+    ngram_testb= base_address + "ngram_test.b"
+    ngram_testc= base_address + "ngram_test.c"
+    ngram_testd = base_address + "ngram_test.d"
+
+    ngram_vala= base_address + "ngram_val.a"
+    ngram_valb= base_address + "ngram_val.b"
+    ngram_valc= base_address + "ngram_val.c"
+    ngram_vald = base_address + "ngram_val.d"
+
+    random.shuffle(analogy_corpus)
+    splits = [54351,62117,77645] #splits for train,val, test
+    # splits = [100,120,140] #splits for train,val, test
+
+    print("ngram train a")
+    with open(ngram_traina, 'w+') as f:
+        for analogyList in analogy_corpus[: splits[0]]:
+            f.write(analogyList[0] + "\n")
+        f.close()
+
+    print("ngram train b")
+    with open(ngram_trainb, 'w+') as f:
+        for analogyList in analogy_corpus[: splits[0]]:
+            f.write(analogyList[1] + "\n")
+        f.close()
+
+    print("ngram train c")
+    with open(ngram_trainc, 'w+') as f:
+        for analogyList in analogy_corpus[: splits[0]]:
+            f.write(analogyList[2] + "\n")
+        f.close()
+
+    print("ngram train d")
+    with open(ngram_traind, 'w+') as f:
+        for analogyList in analogy_corpus[: splits[0]]:
+            f.write(analogyList[-1] + "\n")
+        f.close()
+
+
+    print("ngram val a")
+    with open(ngram_vala, 'w+') as f:
+        for analogyList in analogy_corpus[splits[0]: splits[1]]:
+            f.write(analogyList[0] + "\n")
+        f.close()
+
+    print("ngram val b")
+    with open(ngram_valb, 'w+') as f:
+        for analogyList in analogy_corpus[splits[0]: splits[1]]:
+            f.write(analogyList[1] + "\n")
+        f.close()
+
+    print("ngram val c")
+    with open(ngram_valc, 'w+') as f:
+        for analogyList in analogy_corpus[splits[0]: splits[1]]:
+            f.write(analogyList[2] + "\n")
+        f.close()
+
+    print("ngram val d")
+    with open(ngram_vald, 'w+') as f:
+        for analogyList in analogy_corpus[splits[0]: splits[1]]:
+            f.write(analogyList[-1] + "\n")
+        f.close()
+
+
+    print("ngram test a")
+    with open(ngram_testa, 'w+') as f:
+        for analogyList in analogy_corpus[splits[1]: splits[2]]:
+            f.write(analogyList[0] + "\n")
+        f.close()
+    print("ngram test b")
+    with open(ngram_testb, 'w+') as f:
+        for analogyList in analogy_corpus[splits[1]: splits[2]]:
+            f.write(analogyList[1] + "\n")
+        f.close()
+    print("ngram test c")
+    with open(ngram_testc, 'w+') as f:
+        for analogyList in analogy_corpus[splits[1]: splits[2]]:
+            f.write(analogyList[2] + "\n")
+        f.close()
+
+    print("ngram test d")
+    with open(ngram_testd, 'w+') as f:
+        for analogyList in analogy_corpus[splits[1]: splits[2]]:
+            f.write(analogyList[-1] + "\n")
+        f.close()
+
+
 
 
 
@@ -68,8 +162,8 @@ def deep_model_preprocessing(analogy_corpus,extract_all=False, ngram_abc="ngram_
     ngram_vald = base_address + "ngram_local_val.d"
 
     random.shuffle(analogy_corpus)
-    # splits = [54351,62117,77645] #splits for train,val, test
-    splits = [100,120,140] #splits for train,val, test
+    splits = [54351,62117,77645] #splits for train,val, test
+    # splits = [100,120,140] #splits for train,val, test
     print(analogy_corpus[: splits[0]])
     if extract_all:
         print("Extract abc analogy")
@@ -148,7 +242,7 @@ def extract_unigram_analogies(analogy_corpus, unigram_file="unigram_tokens.txt")
 
 def main():
     analogy_corpus = read_analogies('./data/analogy_data/all-analogy-unique.txt');
-    deep_model_preprocessing(analogy_corpus, ngram_abc="ngram_tokens.abc",ngram_d="ngram_tokens.d" )
+    deep_model_preprocessing_sepencs(analogy_corpus, ngram_abc="ngram_tokens.abc",ngram_d="ngram_tokens.d" )
     # unigram_analogy = extract_unigram_analogies(analogy_corpus, "./data/unigram_tokens.txt")
 
 if __name__ == '__main__':

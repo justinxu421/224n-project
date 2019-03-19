@@ -24,7 +24,7 @@ from BertAnalogyDatasetReader import BertAnalogyDatasetReader
 from predictors import SentenceClassifierPredictor
 from typing import Iterator, List, Dict
 from config import Config
-
+import os
 #Modified based on https://github.com/allenai/allennlp and tutorial on RealWorldNLP
 
 DATA_ROOT='../data/analogy_data'
@@ -46,7 +46,7 @@ def bert_tokenizer(s: str):
 
 def predict(vocab2):
 	bert_token_indexer = PretrainedBertIndexer(
-	    pretrained_model="bert-large-uncased",
+	    pretrained_model="./biobert_pubmed/vocab.txt",
 	    max_pieces=config.max_seq_len,
 	    do_lowercase=True,
 	)
@@ -55,10 +55,10 @@ def predict(vocab2):
 		token_indexers={'tokens':bert_token_indexer}
 	)	
 
-	train_dataset, test_dataset, dev_dataset = (reader.read(DATA_ROOT + "/" + fname) for fname in ["train_all.txt", "test_all.txt", "val_all.txt"])
+	train_dataset, test_dataset, dev_dataset = (reader.read(DATA_ROOT + "/" + fname) for fname in ["train_sm.txt", "test_sm.txt", "val_sm.txt"])
 
 	bert_embedder = PretrainedBertEmbedder(
-	         pretrained_model="bert-large-uncased",
+	         pretrained_model='biobert_pubmed',
 	         top_layer_only=True, # conserve memory
 	)
 	word_embeddings: TextFieldEmbedder = BasicTextFieldEmbedder({"tokens": bert_embedder},
@@ -122,7 +122,7 @@ def eval_predictions(predict_path, gold_path):
 def main():
 	#Initlizing the embeddings (BERT)
 	bert_token_indexer = PretrainedBertIndexer(
-	    pretrained_model="bert-large-uncased",
+	    pretrained_model="./biobert_pubmed/vocab.txt",
 	    max_pieces=config.max_seq_len,
 	    do_lowercase=True,
 	)
@@ -137,7 +137,7 @@ def main():
 
 
 	bert_embedder = PretrainedBertEmbedder(
-	         pretrained_model="bert-large-uncased",
+	         pretrained_model='biobert_pubmed',
 	         top_layer_only=True, # conserve memory
 	)
 	word_embeddings: TextFieldEmbedder = BasicTextFieldEmbedder({"tokens": bert_embedder},
