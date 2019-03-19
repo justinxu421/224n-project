@@ -31,7 +31,7 @@ def predict():
 
 	reader = AnalogyDatasetReader(token_indexers={'tokens':elmo_token_indexer})
 
-	train_dataset, test_dataset, dev_dataset = (reader.read(DATA_ROOT + "/" + fname) for fname in ["train_sm.txt", "test_sm.txt", "val_sm.txt"])
+	train_dataset, test_dataset, dev_dataset = (reader.read(DATA_ROOT + "/" + fname) for fname in ["train_all.txt", "test_all.txt", "val_all.txt"])
 
 	# elmo_embedder = Elmo(options_file, weight_file, 2, dropout=0.5)
 	elmo_embedder = ElmoTokenEmbedder(options_file, weight_file)
@@ -80,7 +80,7 @@ def main ():
 
 	reader = AnalogyDatasetReader(token_indexers={'tokens':elmo_token_indexer})
 
-	train_dataset, test_dataset, dev_dataset = (reader.read(DATA_ROOT + "/" + fname) for fname in ["train_sm.txt", "test_sm.txt", "val_sm.txt"])
+	train_dataset, test_dataset, dev_dataset = (reader.read(DATA_ROOT + "/" + fname) for fname in ["train_all.txt", "test_all.txt", "val_all.txt"])
 
 	# elmo_embedder = Elmo(options_file, weight_file, 2, dropout=0.5)
 	elmo_embedder = ElmoTokenEmbedder(options_file, weight_file)
@@ -119,5 +119,5 @@ def main ():
 if __name__ == '__main__':
 	main()
 	predict()
-	eval_predictions("test.txt", DATA_ROOT + "/" + "test_sm.txt")
+	eval_predictions("test.txt", DATA_ROOT + "/" + "test_all.txt")
 

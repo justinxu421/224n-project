@@ -28,6 +28,7 @@ from config import Config
 #Modified based on https://github.com/allenai/allennlp and tutorial on RealWorldNLP
 
 DATA_ROOT='../data/analogy_data'
+USE_GPU = torch.cuda.is_available()
 
 config = Config(
     testing=True,
@@ -151,7 +152,10 @@ def main():
 	#Initializing the model
 	#takes the hidden state at the last time step of the LSTM for every layer as one single output
 	bert_encoder = BertSentencePooler(vocab)
+
 	model = LstmModel(word_embeddings, bert_encoder, vocab)
+	if USE_GPU: model.cuda()
+	else: model
 
 	# Training the model 
 	optimizer = optim.Adam(model.parameters(), lr=1e-4, weight_decay=1e-5)
@@ -164,6 +168,7 @@ def main():
                   train_dataset=train_dataset,
                   validation_dataset=dev_dataset,
                   patience=10,
+                  cuda_device=0 if USE_GPU else -1,
                   num_epochs=20)
 
 	trainer.train()
