@@ -32,8 +32,7 @@ options_file = "https://s3-us-west-2.amazonaws.com/allennlp/models/elmo/2x4096_5
 weight_file = "https://s3-us-west-2.amazonaws.com/allennlp/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5"
 elmo_embedding_dim = 1024
 hidden_dim = 1024
-# CUDA_DEVICE = 1
-
+USE_GPU = torch.cuda.is_available()
 
 def predict():
 	with open("./model_seq2seq.th", 'rb') as f:
@@ -79,7 +78,7 @@ def main ():
         target_token_indexers={'tokens': SingleIdTokenIndexer(namespace='target_tokens')})
 
 	
-	train_dataset, test_dataset, dev_dataset = (reader.read(DATA_ROOT + "/" + fname) for fname in ["train_sm_seq.txt", "test_sm_seq.txt", "val_sm_seq.txt"])
+	train_dataset, test_dataset, dev_dataset = (reader.read(DATA_ROOT + "/" + fname) for fname in ["train_all_seq.txt", "test_all_seq.txt", "val_all_seq.txt"])
 
 	vocab = Vocabulary.from_instances(train_dataset + dev_dataset + test_dataset,
                                       min_count={'tokens': 1, 'target_tokens': 1})
@@ -101,12 +100,16 @@ def main ():
 
 	# encoder = StackedSelfAttentionEncoder(input_dim=elmo_embedding_dim, hidden_dim=hidden_dim, projection_dim=128, feedforward_hidden_dim=128, num_layers=1, num_attention_heads=8)
 	attention = DotProductAttention()
+
 	model = SimpleSeq2Seq(vocab, source_embedder, encoder, max_decoding_steps,
                           target_embedding_dim=elmo_embedding_dim,
                           target_namespace='target_tokens',
 	                          attention=attention,
                           beam_size=8,
                           use_bleu=True)
+
+	if USE_GPU: model.cuda()
+	else: model
 
 	# Training the model 
 	optimizer = optim.Adam(model.parameters(), lr=1e-4, weight_decay=1e-5)
@@ -119,9 +122,9 @@ def main ():
                   train_dataset=train_dataset,
                   validation_dataset=dev_dataset,
                   patience=10,
-                  num_epochs=1)
+                  num_epochs=1, cuda_device=0 if USE_GPU else -1)
 
-	for i in range(1):
+	for i in range(20):
 		print('Epoch: {}'.format(i))
 		trainer.train()
 

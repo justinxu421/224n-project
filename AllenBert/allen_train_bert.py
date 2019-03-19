@@ -24,7 +24,8 @@ from BertAnalogyDatasetReader import BertAnalogyDatasetReader
 from predictors import SentenceClassifierPredictor
 from typing import Iterator, List, Dict
 from config import Config
-import os
+import argparse
+
 #Modified based on https://github.com/allenai/allennlp and tutorial on RealWorldNLP
 
 DATA_ROOT='../data/analogy_data'
@@ -44,9 +45,9 @@ config = Config(
 def bert_tokenizer(s: str):
     return token_indexer.wordpiece_tokenizer(s)[:config.max_seq_len - 2]
 
-def predict(vocab2):
+def predict(vocab2=None):
 	bert_token_indexer = PretrainedBertIndexer(
-	    pretrained_model="./biobert_pubmed/vocab.txt",
+	    pretrained_model="bert-base-uncased",
 	    max_pieces=config.max_seq_len,
 	    do_lowercase=True,
 	)
@@ -58,7 +59,7 @@ def predict(vocab2):
 	train_dataset, test_dataset, dev_dataset = (reader.read(DATA_ROOT + "/" + fname) for fname in ["train_sm.txt", "test_sm.txt", "val_sm.txt"])
 
 	bert_embedder = PretrainedBertEmbedder(
-	         pretrained_model='biobert_pubmed',
+	         pretrained_model='bert-base-uncased',
 	         top_layer_only=True, # conserve memory
 	)
 	word_embeddings: TextFieldEmbedder = BasicTextFieldEmbedder({"tokens": bert_embedder},
@@ -75,8 +76,9 @@ def predict(vocab2):
 	    @overrides
 	    def get_output_dim(self) -> int:
 	        return BERT_DIM
-	    
-	# vocab2 = Vocabulary.from_files("./bert_vocabulary")
+	        
+	if not vocab2: 
+		vocab2 = Vocabulary.from_files("./bert_vocabulary")
 	bert_encoder = BertSentencePooler(vocab2)
 	model2 = LstmModel(word_embeddings, bert_encoder, vocab2)
 	with open("./bert_model.th", 'rb') as f:
@@ -97,7 +99,7 @@ def predict(vocab2):
 
 	top_10_words_list = np.array(top_10_words_list)
 	print(top_10_words_list.shape)
-	np.savetxt('bert_top_10_words_list.out', np.array(top_10_words_list))
+	np.save('bert_top_10_words_list.npy', np.array(top_10_words_list))
 
 def eval_predictions(predict_path, gold_path):
 	lines_predict = []
@@ -124,7 +126,7 @@ def eval_predictions(predict_path, gold_path):
 def main():
 	#Initlizing the embeddings (BERT)
 	bert_token_indexer = PretrainedBertIndexer(
-	    pretrained_model="./biobert_pubmed/vocab.txt",
+	    pretrained_model="bert-base-uncased",
 	    max_pieces=config.max_seq_len,
 	    do_lowercase=True,
 	)
@@ -139,7 +141,7 @@ def main():
 
 
 	bert_embedder = PretrainedBertEmbedder(
-	         pretrained_model='biobert_pubmed',
+	         pretrained_model='bert-base-uncased',
 	         top_layer_only=True, # conserve memory
 	)
 	word_embeddings: TextFieldEmbedder = BasicTextFieldEmbedder({"tokens": bert_embedder},
@@ -190,7 +192,7 @@ def main():
 	return vocab
 
 if __name__ == '__main__':
-	vocab = main()
-	predict(vocab)
+	# vocab = main()
+	predict()
 	eval_predictions("bert_predictions.txt", DATA_ROOT + "/" + "test_all.txt")
 

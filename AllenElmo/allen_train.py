@@ -64,7 +64,7 @@ def predict():
 
 	top_10_words_list = np.array(top_10_words_list)
 	print(top_10_words_list.shape)
-	np.savetxt('elmo_top_10_words_list.out', np.array(top_10_words_list))
+	np.save('elmo_top_10_words_list.npy', np.array(top_10_words_list))
 
 def eval_predictions(predict_path, gold_path):
 	lines_predict = []
@@ -101,12 +101,11 @@ def main ():
 	
 	vocab = Vocabulary.from_instances(train_dataset + test_dataset + dev_dataset)
 	word_embeddings = BasicTextFieldEmbedder({'tokens': elmo_embedder})
-
-
 	#Initializing the model
 	#takes the hidden state at the last time step of the LSTM for every layer as one single output
 	lstm_encoder = PytorchSeq2VecWrapper(torch.nn.LSTM(elmo_embedding_dim, hidden_dim, batch_first=True, bidirectional=True))
 	model = LstmModel(word_embeddings, lstm_encoder, vocab)
+
 	if USE_GPU: model.cuda()
 	else: model
 
