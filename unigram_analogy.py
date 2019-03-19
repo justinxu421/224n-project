@@ -71,8 +71,8 @@ def deep_model_preprocessing_sepencs(analogy_corpus,extract_all=False, ngram_abc
     ngram_vald = base_address + "ngram_val.d"
 
     random.shuffle(analogy_corpus)
-    # splits = [54351,62117,77645] #splits for train,val, test
-    splits = [100,120,140] #splits for train,val, test
+    splits = [54351,62117,77645] #splits for train,val, test
+    # splits = [100,120,140] #splits for train,val, test
 
     print("ngram train a")
     with open(ngram_traina, 'w+') as f:
