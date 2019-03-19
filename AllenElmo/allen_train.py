@@ -20,6 +20,7 @@ from typing import Iterator, List, Dict
 #Modified based on https://github.com/allenai/allennlp and tutorial on RealWorldNLP
 
 DATA_ROOT='../data/analogy_data'
+USE_GPU = torch.cuda.is_available()
 options_file = "https://s3-us-west-2.amazonaws.com/allennlp/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_options.json"
 weight_file = "https://s3-us-west-2.amazonaws.com/allennlp/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5"
 elmo_embedding_dim = 1024
@@ -41,16 +42,29 @@ def predict():
 
 	vocab2 = Vocabulary.from_files("./vocabulary")
 	model2 = LstmModel(word_embeddings, lstm_encoder, vocab2)
+
+	if USE_GPU: model2.cuda()
+	else: model2
+
 	with open("./model.th", 'rb') as f:
 		model2.load_state_dict(torch.load(f))
 	
 	predictor2 = SentenceClassifierPredictor(model2, dataset_reader=reader)
 	with open('test.txt', 'w+') as f:
+		top_10_words_list = []
 		for analogy_test in test_dataset:
 			logits = predictor2.predict_instance(analogy_test)['logits']
 			label_id = np.argmax(logits)
 			label_predict = model2.vocab.get_token_from_index(label_id, 'labels')
+
+			top_10_ids = np.argsort(logits)[-10:]
+			top_10_words = [model2.vocab.get_token_from_index(id, 'labels') for id in top_10_ids]
+			top_10_words_list.append(top_10_words)
 			f.write(label_predict + "\n")
+
+	top_10_words_list = np.array(top_10_words_list)
+	print(top_10_words_list.shape)
+	np.savetxt('elmo_top_10_words_list.out', np.array(top_10_words_list))
 
 def eval_predictions(predict_path, gold_path):
 	lines_predict = []
@@ -93,6 +107,8 @@ def main ():
 	#takes the hidden state at the last time step of the LSTM for every layer as one single output
 	lstm_encoder = PytorchSeq2VecWrapper(torch.nn.LSTM(elmo_embedding_dim, hidden_dim, batch_first=True, bidirectional=True))
 	model = LstmModel(word_embeddings, lstm_encoder, vocab)
+	if USE_GPU: model.cuda()
+	else: model
 
 	# Training the model 
 	optimizer = optim.Adam(model.parameters(), lr=1e-4, weight_decay=1e-5)
@@ -105,6 +121,7 @@ def main ():
                   train_dataset=train_dataset,
                   validation_dataset=dev_dataset,
                   patience=10,
+                  cuda_device=0 if USE_GPU else -1,
                   num_epochs=20)
 
 	trainer.train()
@@ -117,7 +134,7 @@ def main ():
 	
 
 if __name__ == '__main__':
-	main()
+	# main()
 	predict()
 	eval_predictions("test.txt", DATA_ROOT + "/" + "test_all.txt")
 

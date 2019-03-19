@@ -95,7 +95,9 @@ def predict(vocab2):
 			top_10_words_list.append(top_10_words)
 			f.write(label_predict + "\n")
 
-	np.array(top_10_words_list).savetxt('bert_top_10_words_list.out')
+	top_10_words_list = np.array(top_10_words_list)
+	print(top_10_words_list.shape)
+	np.savetxt('bert_top_10_words_list.out', np.array(top_10_words_list))
 
 def eval_predictions(predict_path, gold_path):
 	lines_predict = []
