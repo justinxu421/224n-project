@@ -54,7 +54,7 @@ def predict(vocab2):
 		token_indexers={'tokens':bert_token_indexer}
 	)	
 
-	train_dataset, test_dataset, dev_dataset = (reader.read(DATA_ROOT + "/" + fname) for fname in ["train_sm.txt", "test_sm.txt", "val_sm.txt"])
+	train_dataset, test_dataset, dev_dataset = (reader.read(DATA_ROOT + "/" + fname) for fname in ["train_all.txt", "test_all.txt", "val_all.txt"])
 
 	bert_embedder = PretrainedBertEmbedder(
 	         pretrained_model="bert-base-uncased",
@@ -123,7 +123,7 @@ def main():
 		token_indexers={'tokens':bert_token_indexer}
 	)
 
-	train_dataset, test_dataset, dev_dataset = (reader.read(DATA_ROOT + "/" + fname) for fname in ["train_sm.txt"])
+	train_dataset, test_dataset, dev_dataset = (reader.read(DATA_ROOT + "/" + fname) for fname in ["train_all.txt", "test_all.txt", "val_all.txt"])
 	
 	vocab = Vocabulary.from_instances(train_dataset + test_dataset + dev_dataset)
 
@@ -178,5 +178,5 @@ def main():
 if __name__ == '__main__':
 	vocab = main()
 	predict(vocab)
-	eval_predictions("test.txt", DATA_ROOT + "/" + "test_sm.txt")
+	eval_predictions("bert_predictions.txt", DATA_ROOT + "/" + "test_all.txt")
 
