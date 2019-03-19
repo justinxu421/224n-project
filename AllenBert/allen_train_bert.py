@@ -46,7 +46,7 @@ def bert_tokenizer(s: str):
 
 def predict(vocab2):
 	bert_token_indexer = PretrainedBertIndexer(
-	    pretrained_model="bert-base-uncased",
+	    pretrained_model="bert-large-uncased",
 	    max_pieces=config.max_seq_len,
 	    do_lowercase=True,
 	)
@@ -58,7 +58,7 @@ def predict(vocab2):
 	train_dataset, test_dataset, dev_dataset = (reader.read(DATA_ROOT + "/" + fname) for fname in ["train_all.txt", "test_all.txt", "val_all.txt"])
 
 	bert_embedder = PretrainedBertEmbedder(
-	         pretrained_model="bert-base-uncased",
+	         pretrained_model="bert-large-uncased",
 	         top_layer_only=True, # conserve memory
 	)
 	word_embeddings: TextFieldEmbedder = BasicTextFieldEmbedder({"tokens": bert_embedder},
@@ -84,11 +84,18 @@ def predict(vocab2):
 	
 	predictor2 = SentenceClassifierPredictor(model2, dataset_reader=reader)
 	with open('bert_predictions.txt', 'w+') as f:
+		top_10_words_list = []
 		for analogy_test in test_dataset:
 			logits = predictor2.predict_instance(analogy_test)['logits']
 			label_id = np.argmax(logits)
 			label_predict = model2.vocab.get_token_from_index(label_id, 'labels')
+
+			top_10_ids = np.argsort(logits)[-10:]
+			top_10_words = [model2.vocab.get_token_from_index(id, 'labels') for id in top_10_ids]
+			top_10_words_list.append(top_10_words)
 			f.write(label_predict + "\n")
+
+	np.array(top_10_words_list).savetxt('bert_top_10_words_list.out')
 
 def eval_predictions(predict_path, gold_path):
 	lines_predict = []
@@ -115,7 +122,7 @@ def eval_predictions(predict_path, gold_path):
 def main():
 	#Initlizing the embeddings (BERT)
 	bert_token_indexer = PretrainedBertIndexer(
-	    pretrained_model="bert-base-uncased",
+	    pretrained_model="bert-large-uncased",
 	    max_pieces=config.max_seq_len,
 	    do_lowercase=True,
 	)
@@ -130,7 +137,7 @@ def main():
 
 
 	bert_embedder = PretrainedBertEmbedder(
-	         pretrained_model="bert-base-uncased",
+	         pretrained_model="bert-large-uncased",
 	         top_layer_only=True, # conserve memory
 	)
 	word_embeddings: TextFieldEmbedder = BasicTextFieldEmbedder({"tokens": bert_embedder},
