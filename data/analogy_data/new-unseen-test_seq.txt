@@ -1,0 +1,1816 @@
+organ tissue bone	connective tissue
+bird stomach bone	connective tissue
+bird lung bone	connective tissue
+bird pancreas bone	connective tissue
+organ tissue organ	tissue
+bird stomach heart	tissue
+bird lung heart	tissue
+bird pancreas heart	tissue
+pancreas tissue tendon	connective tissue
+bone connective tissue organ	tissue
+blood leukocyte bone	connective tissue
+blood erythrocyte bone	connective tissue
+stomach epithelium pancreas	tissue
+stomach tissue pancreas	tissue
+organ tissue salivary gland	duct
+organ tissue bone	connective tissue
+pancreas tissue ligament	connective tissue
+bird stomach ligament	connective tissue
+bird lung ligament	connective tissue
+bird pancreas ligament	connective tissue
+blood leukocyte pancreas	tissue
+blood erythrocyte pancreas	tissue
+blood leukocyte organ	tissue
+blood erythrocyte organ	tissue
+skin connective tissue salivary gland	duct
+blood leukocyte bone	connective tissue
+blood erythrocyte bone	connective tissue
+ligament connective tissue tendon	connective tissue
+bone connective tissue organ	tissue
+stomach epithelium organ	tissue
+stomach tissue organ	tissue
+pancreas tissue ligament	connective tissue
+ligament connective tissue tendon	connective tissue
+heart tissue ligament	connective tissue
+pancreas tissue organ	tissue
+mammal stomach tendon	connective tissue
+mammal pancreas tendon	connective tissue
+mammal epithelium tendon	connective tissue
+mammal bone tendon	connective tissue
+mammal heart tendon	connective tissue
+mammal lung tendon	connective tissue
+tendon connective tissue ligament	connective tissue
+salivary gland duct organ	tissue
+pancreas tissue bone	connective tissue
+skin connective tissue tendon	connective tissue
+ligament connective tissue heart	tissue
+skin connective tissue pancreas	tissue
+salivary gland duct salivary gland	duct
+salivary gland duct organ	tissue
+organ tissue heart	tissue
+ligament connective tissue tendon	connective tissue
+bone connective tissue pancreas	tissue
+skin connective tissue tendon	connective tissue
+skin connective tissue salivary gland	duct
+bird stomach ligament	connective tissue
+bird lung ligament	connective tissue
+bird pancreas ligament	connective tissue
+skin connective tissue salivary gland	duct
+bone connective tissue salivary gland	duct
+heart tissue organ	tissue
+skin connective tissue bone	connective tissue
+mammal stomach bone	connective tissue
+mammal pancreas bone	connective tissue
+mammal epithelium bone	connective tissue
+mammal bone bone	connective tissue
+mammal heart bone	connective tissue
+mammal lung bone	connective tissue
+bird stomach organ	tissue
+bird lung organ	tissue
+bird pancreas organ	tissue
+bird stomach ligament	connective tissue
+bird lung ligament	connective tissue
+bird pancreas ligament	connective tissue
+organ tissue bone	connective tissue
+salivary gland duct bone	connective tissue
+tendon connective tissue heart	tissue
+organ tissue organ	tissue
+tendon connective tissue heart	tissue
+pancreas tissue salivary gland	duct
+bird stomach tendon	connective tissue
+bird lung tendon	connective tissue
+bird pancreas tendon	connective tissue
+tendon connective tissue pancreas	tissue
+mammal stomach bone	connective tissue
+mammal pancreas bone	connective tissue
+mammal epithelium bone	connective tissue
+mammal bone bone	connective tissue
+mammal heart bone	connective tissue
+mammal lung bone	connective tissue
+blood leukocyte tendon	connective tissue
+blood erythrocyte tendon	connective tissue
+salivary gland duct ligament	connective tissue
+stomach epithelium pancreas	tissue
+stomach tissue pancreas	tissue
+heart tissue heart	tissue
+ligament connective tissue organ	tissue
+skin connective tissue salivary gland	duct
+heart tissue tendon	connective tissue
+salivary gland duct ligament	connective tissue
+organ tissue organ	tissue
+bird stomach heart	tissue
+bird lung heart	tissue
+bird pancreas heart	tissue
+salivary gland duct pancreas	tissue
+organ tissue tendon	connective tissue
+salivary gland duct bone	connective tissue
+organ tissue pancreas	tissue
+organ tissue tendon	connective tissue
+bird stomach ligament	connective tissue
+bird lung ligament	connective tissue
+bird pancreas ligament	connective tissue
+pancreas tissue pancreas	tissue
+organ tissue bone	connective tissue
+heart tissue bone	connective tissue
+mammal stomach salivary gland	duct
+mammal pancreas salivary gland	duct
+mammal epithelium salivary gland	duct
+mammal bone salivary gland	duct
+mammal heart salivary gland	duct
+mammal lung salivary gland	duct
+heart tissue ligament	connective tissue
+pancreas tissue tendon	connective tissue
+blood leukocyte bone	connective tissue
+blood erythrocyte bone	connective tissue
+tendon connective tissue pancreas	tissue
+bone connective tissue organ	tissue
+pancreas tissue bone	connective tissue
+bone connective tissue tendon	connective tissue
+ligament connective tissue pancreas	tissue
+stomach epithelium tendon	connective tissue
+stomach tissue tendon	connective tissue
+mammal stomach tendon	connective tissue
+mammal pancreas tendon	connective tissue
+mammal epithelium tendon	connective tissue
+mammal bone tendon	connective tissue
+mammal heart tendon	connective tissue
+mammal lung tendon	connective tissue
+heart tissue ligament	connective tissue
+organ tissue heart	tissue
+ligament connective tissue organ	tissue
+pancreas tissue tendon	connective tissue
+bird stomach tendon	connective tissue
+bird lung tendon	connective tissue
+bird pancreas tendon	connective tissue
+mammal stomach salivary gland	duct
+mammal pancreas salivary gland	duct
+mammal epithelium salivary gland	duct
+mammal bone salivary gland	duct
+mammal heart salivary gland	duct
+mammal lung salivary gland	duct
+bone connective tissue tendon	connective tissue
+ligament connective tissue tendon	connective tissue
+ligament connective tissue pancreas	tissue
+skin connective tissue tendon	connective tissue
+blood leukocyte heart	tissue
+blood erythrocyte heart	tissue
+blood leukocyte pancreas	tissue
+blood erythrocyte pancreas	tissue
+blood leukocyte ligament	connective tissue
+blood erythrocyte ligament	connective tissue
+tendon connective tissue ligament	connective tissue
+skin connective tissue pancreas	tissue
+salivary gland duct ligament	connective tissue
+skin connective tissue tendon	connective tissue
+skin connective tissue tendon	connective tissue
+mammal stomach tendon	connective tissue
+mammal pancreas tendon	connective tissue
+mammal epithelium tendon	connective tissue
+mammal bone tendon	connective tissue
+mammal heart tendon	connective tissue
+mammal lung tendon	connective tissue
+pancreas tissue bone	connective tissue
+salivary gland duct pancreas	tissue
+heart tissue organ	tissue
+organ tissue ligament	connective tissue
+stomach epithelium tendon	connective tissue
+stomach tissue tendon	connective tissue
+skin connective tissue salivary gland	duct
+ligament connective tissue salivary gland	duct
+ligament connective tissue organ	tissue
+mammal stomach pancreas	tissue
+mammal pancreas pancreas	tissue
+mammal epithelium pancreas	tissue
+mammal bone pancreas	tissue
+mammal heart pancreas	tissue
+mammal lung pancreas	tissue
+organ tissue ligament	connective tissue
+organ tissue organ	tissue
+bird stomach pancreas	tissue
+bird lung pancreas	tissue
+bird pancreas pancreas	tissue
+bird stomach salivary gland	duct
+bird lung salivary gland	duct
+bird pancreas salivary gland	duct
+tendon connective tissue pancreas	tissue
+stomach epithelium salivary gland	duct
+stomach tissue salivary gland	duct
+ligament connective tissue ligament	connective tissue
+blood leukocyte salivary gland	duct
+blood erythrocyte salivary gland	duct
+pancreas tissue bone	connective tissue
+organ tissue heart	tissue
+pancreas tissue ligament	connective tissue
+bird stomach tendon	connective tissue
+bird lung tendon	connective tissue
+bird pancreas tendon	connective tissue
+blood leukocyte bone	connective tissue
+blood erythrocyte bone	connective tissue
+salivary gland duct bone	connective tissue
+bone connective tissue heart	tissue
+salivary gland duct ligament	connective tissue
+organ tissue organ	tissue
+bird stomach ligament	connective tissue
+bird lung ligament	connective tissue
+bird pancreas ligament	connective tissue
+mammal stomach tendon	connective tissue
+mammal pancreas tendon	connective tissue
+mammal epithelium tendon	connective tissue
+mammal bone tendon	connective tissue
+mammal heart tendon	connective tissue
+mammal lung tendon	connective tissue
+mammal stomach heart	tissue
+mammal pancreas heart	tissue
+mammal epithelium heart	tissue
+mammal bone heart	tissue
+mammal heart heart	tissue
+mammal lung heart	tissue
+stomach epithelium bone	connective tissue
+stomach tissue bone	connective tissue
+organ tissue pancreas	tissue
+skin connective tissue tendon	connective tissue
+bird stomach pancreas	tissue
+bird lung pancreas	tissue
+bird pancreas pancreas	tissue
+salivary gland duct tendon	connective tissue
+tendon connective tissue ligament	connective tissue
+blood leukocyte salivary gland	duct
+blood erythrocyte salivary gland	duct
+bird stomach heart	tissue
+bird lung heart	tissue
+bird pancreas heart	tissue
+skin connective tissue salivary gland	duct
+tendon connective tissue heart	tissue
+heart tissue pancreas	tissue
+heart tissue ligament	connective tissue
+pancreas tissue ligament	connective tissue
+tendon connective tissue tendon	connective tissue
+bird stomach tendon	connective tissue
+bird lung tendon	connective tissue
+bird pancreas tendon	connective tissue
+salivary gland duct organ	tissue
+stomach epithelium organ	tissue
+stomach tissue organ	tissue
+heart tissue salivary gland	duct
+organ tissue tendon	connective tissue
+skin connective tissue heart	tissue
+skin connective tissue salivary gland	duct
+organ tissue ligament	connective tissue
+salivary gland duct salivary gland	duct
+salivary gland duct bone	connective tissue
+bird stomach bone	connective tissue
+bird lung bone	connective tissue
+bird pancreas bone	connective tissue
+tendon connective tissue organ	tissue
+heart tissue salivary gland	duct
+bird stomach ligament	connective tissue
+bird lung ligament	connective tissue
+bird pancreas ligament	connective tissue
+tendon connective tissue heart	tissue
+stomach epithelium tendon	connective tissue
+stomach tissue tendon	connective tissue
+heart tissue salivary gland	duct
+skin connective tissue ligament	connective tissue
+tendon connective tissue ligament	connective tissue
+stomach epithelium organ	tissue
+stomach tissue organ	tissue
+bird stomach ligament	connective tissue
+bird lung ligament	connective tissue
+bird pancreas ligament	connective tissue
+blood leukocyte organ	tissue
+blood erythrocyte organ	tissue
+salivary gland duct organ	tissue
+heart tissue bone	connective tissue
+ligament connective tissue tendon	connective tissue
+organ tissue bone	connective tissue
+stomach epithelium ligament	connective tissue
+stomach tissue ligament	connective tissue
+pancreas tissue salivary gland	duct
+mammal stomach heart	tissue
+mammal pancreas heart	tissue
+mammal epithelium heart	tissue
+mammal bone heart	tissue
+mammal heart heart	tissue
+mammal lung heart	tissue
+bird stomach ligament	connective tissue
+bird lung ligament	connective tissue
+bird pancreas ligament	connective tissue
+mammal stomach bone	connective tissue
+mammal pancreas bone	connective tissue
+mammal epithelium bone	connective tissue
+mammal bone bone	connective tissue
+mammal heart bone	connective tissue
+mammal lung bone	connective tissue
+bone connective tissue bone	connective tissue
+heart tissue organ	tissue
+stomach epithelium salivary gland	duct
+stomach tissue salivary gland	duct
+mammal stomach heart	tissue
+mammal pancreas heart	tissue
+mammal epithelium heart	tissue
+mammal bone heart	tissue
+mammal heart heart	tissue
+mammal lung heart	tissue
+ligament connective tissue salivary gland	duct
+organ tissue ligament	connective tissue
+tendon connective tissue organ	tissue
+bird stomach pancreas	tissue
+bird lung pancreas	tissue
+bird pancreas pancreas	tissue
+pancreas tissue ligament	connective tissue
+heart tissue organ	tissue
+organ tissue tendon	connective tissue
+heart tissue tendon	connective tissue
+organ tissue organ	tissue
+blood leukocyte bone	connective tissue
+blood erythrocyte bone	connective tissue
+bone connective tissue organ	tissue
+stomach epithelium bone	connective tissue
+stomach tissue bone	connective tissue
+bird stomach tendon	connective tissue
+bird lung tendon	connective tissue
+bird pancreas tendon	connective tissue
+tendon connective tissue bone	connective tissue
+ligament connective tissue ligament	connective tissue
+tendon connective tissue salivary gland	duct
+tendon connective tissue organ	tissue
+heart tissue ligament	connective tissue
+skin connective tissue salivary gland	duct
+bone connective tissue organ	tissue
+ligament connective tissue bone	connective tissue
+blood leukocyte ligament	connective tissue
+blood erythrocyte ligament	connective tissue
+heart tissue salivary gland	duct
+blood leukocyte heart	tissue
+blood erythrocyte heart	tissue
+tendon connective tissue heart	tissue
+tendon connective tissue tendon	connective tissue
+bone connective tissue organ	tissue
+skin connective tissue tendon	connective tissue
+skin connective tissue tendon	connective tissue
+skin connective tissue pancreas	tissue
+bone connective tissue pancreas	tissue
+bird stomach organ	tissue
+bird lung organ	tissue
+bird pancreas organ	tissue
+tendon connective tissue salivary gland	duct
+tendon connective tissue salivary gland	duct
+blood leukocyte heart	tissue
+blood erythrocyte heart	tissue
+mammal stomach pancreas	tissue
+mammal pancreas pancreas	tissue
+mammal epithelium pancreas	tissue
+mammal bone pancreas	tissue
+mammal heart pancreas	tissue
+mammal lung pancreas	tissue
+pancreas tissue tendon	connective tissue
+pancreas tissue pancreas	tissue
+ligament connective tissue heart	tissue
+stomach epithelium ligament	connective tissue
+stomach tissue ligament	connective tissue
+stomach epithelium ligament	connective tissue
+stomach tissue ligament	connective tissue
+organ tissue organ	tissue
+tendon connective tissue bone	connective tissue
+pancreas tissue bone	connective tissue
+pancreas tissue tendon	connective tissue
+mammal stomach tendon	connective tissue
+mammal pancreas tendon	connective tissue
+mammal epithelium tendon	connective tissue
+mammal bone tendon	connective tissue
+mammal heart tendon	connective tissue
+mammal lung tendon	connective tissue
+bone connective tissue organ	tissue
+salivary gland duct heart	tissue
+tendon connective tissue tendon	connective tissue
+heart tissue organ	tissue
+skin connective tissue tendon	connective tissue
+skin connective tissue tendon	connective tissue
+blood leukocyte heart	tissue
+blood erythrocyte heart	tissue
+tendon connective tissue organ	tissue
+ligament connective tissue heart	tissue
+blood leukocyte salivary gland	duct
+blood erythrocyte salivary gland	duct
+pancreas tissue pancreas	tissue
+bone connective tissue tendon	connective tissue
+tendon connective tissue heart	tissue
+pancreas tissue tendon	connective tissue
+skin connective tissue organ	tissue
+ligament connective tissue pancreas	tissue
+skin connective tissue pancreas	tissue
+organ tissue bone	connective tissue
+blood leukocyte organ	tissue
+blood erythrocyte organ	tissue
+pancreas tissue ligament	connective tissue
+salivary gland duct tendon	connective tissue
+bone connective tissue tendon	connective tissue
+tendon connective tissue ligament	connective tissue
+pancreas tissue ligament	connective tissue
+heart tissue pancreas	tissue
+bone connective tissue organ	tissue
+pancreas tissue salivary gland	duct
+blood leukocyte pancreas	tissue
+blood erythrocyte pancreas	tissue
+stomach epithelium bone	connective tissue
+stomach tissue bone	connective tissue
+organ tissue bone	connective tissue
+blood leukocyte heart	tissue
+blood erythrocyte heart	tissue
+skin connective tissue bone	connective tissue
+organ tissue salivary gland	duct
+stomach epithelium tendon	connective tissue
+stomach tissue tendon	connective tissue
+organ tissue salivary gland	duct
+bone connective tissue pancreas	tissue
+ligament connective tissue tendon	connective tissue
+bird stomach heart	tissue
+bird lung heart	tissue
+bird pancreas heart	tissue
+heart tissue salivary gland	duct
+bone connective tissue organ	tissue
+mammal stomach tendon	connective tissue
+mammal pancreas tendon	connective tissue
+mammal epithelium tendon	connective tissue
+mammal bone tendon	connective tissue
+mammal heart tendon	connective tissue
+mammal lung tendon	connective tissue
+blood leukocyte heart	tissue
+blood erythrocyte heart	tissue
+mammal stomach ligament	connective tissue
+mammal pancreas ligament	connective tissue
+mammal epithelium ligament	connective tissue
+mammal bone ligament	connective tissue
+mammal heart ligament	connective tissue
+mammal lung ligament	connective tissue
+mammal stomach salivary gland	duct
+mammal pancreas salivary gland	duct
+mammal epithelium salivary gland	duct
+mammal bone salivary gland	duct
+mammal heart salivary gland	duct
+mammal lung salivary gland	duct
+skin connective tissue tendon	connective tissue
+ligament connective tissue pancreas	tissue
+ligament connective tissue bone	connective tissue
+stomach epithelium tendon	connective tissue
+stomach tissue tendon	connective tissue
+bone connective tissue bone	connective tissue
+bird stomach heart	tissue
+bird lung heart	tissue
+bird pancreas heart	tissue
+bone connective tissue pancreas	tissue
+stomach epithelium heart	tissue
+stomach tissue heart	tissue
+salivary gland duct bone	connective tissue
+stomach epithelium ligament	connective tissue
+stomach tissue ligament	connective tissue
+bird stomach tendon	connective tissue
+bird lung tendon	connective tissue
+bird pancreas tendon	connective tissue
+stomach epithelium pancreas	tissue
+stomach tissue pancreas	tissue
+bird stomach salivary gland	duct
+bird lung salivary gland	duct
+bird pancreas salivary gland	duct
+bone connective tissue ligament	connective tissue
+bone connective tissue tendon	connective tissue
+stomach epithelium ligament	connective tissue
+stomach tissue ligament	connective tissue
+salivary gland duct tendon	connective tissue
+organ tissue bone	connective tissue
+bird stomach tendon	connective tissue
+bird lung tendon	connective tissue
+bird pancreas tendon	connective tissue
+skin connective tissue pancreas	tissue
+organ tissue ligament	connective tissue
+salivary gland duct bone	connective tissue
+organ tissue salivary gland	duct
+bird stomach bone	connective tissue
+bird lung bone	connective tissue
+bird pancreas bone	connective tissue
+pancreas tissue tendon	connective tissue
+bird stomach tendon	connective tissue
+bird lung tendon	connective tissue
+bird pancreas tendon	connective tissue
+tendon connective tissue salivary gland	duct
+blood leukocyte ligament	connective tissue
+blood erythrocyte ligament	connective tissue
+ligament connective tissue organ	tissue
+bone connective tissue heart	tissue
+skin connective tissue heart	tissue
+skin connective tissue ligament	connective tissue
+pancreas tissue tendon	connective tissue
+heart tissue bone	connective tissue
+pancreas tissue heart	tissue
+heart tissue heart	tissue
+bone connective tissue organ	tissue
+salivary gland duct heart	tissue
+skin connective tissue tendon	connective tissue
+bird stomach salivary gland	duct
+bird lung salivary gland	duct
+bird pancreas salivary gland	duct
+salivary gland duct heart	tissue
+salivary gland duct heart	tissue
+ligament connective tissue pancreas	tissue
+bone connective tissue organ	tissue
+skin connective tissue organ	tissue
+ligament connective tissue tendon	connective tissue
+skin connective tissue salivary gland	duct
+skin connective tissue ligament	connective tissue
+blood leukocyte tendon	connective tissue
+blood erythrocyte tendon	connective tissue
+heart tissue pancreas	tissue
+blood leukocyte tendon	connective tissue
+blood erythrocyte tendon	connective tissue
+blood leukocyte ligament	connective tissue
+blood erythrocyte ligament	connective tissue
+salivary gland duct pancreas	tissue
+pancreas tissue pancreas	tissue
+pancreas tissue pancreas	tissue
+organ tissue bone	connective tissue
+organ tissue heart	tissue
+bird stomach pancreas	tissue
+bird lung pancreas	tissue
+bird pancreas pancreas	tissue
+bone connective tissue ligament	connective tissue
+stomach epithelium organ	tissue
+stomach tissue organ	tissue
+salivary gland duct bone	connective tissue
+salivary gland duct organ	tissue
+salivary gland duct organ	tissue
+bird stomach salivary gland	duct
+bird lung salivary gland	duct
+bird pancreas salivary gland	duct
+ligament connective tissue tendon	connective tissue
+heart tissue organ	tissue
+salivary gland duct ligament	connective tissue
+organ tissue bone	connective tissue
+pancreas tissue pancreas	tissue
+heart tissue ligament	connective tissue
+pancreas tissue bone	connective tissue
+bird stomach bone	connective tissue
+bird lung bone	connective tissue
+bird pancreas bone	connective tissue
+tendon connective tissue tendon	connective tissue
+tendon connective tissue heart	tissue
+tendon connective tissue salivary gland	duct
+pancreas tissue ligament	connective tissue
+stomach epithelium organ	tissue
+stomach tissue organ	tissue
+stomach epithelium organ	tissue
+stomach tissue organ	tissue
+organ tissue organ	tissue
+organ tissue tendon	connective tissue
+bone connective tissue heart	tissue
+pancreas tissue heart	tissue
+organ tissue pancreas	tissue
+bird stomach heart	tissue
+bird lung heart	tissue
+bird pancreas heart	tissue
+tendon connective tissue salivary gland	duct
+organ tissue heart	tissue
+blood leukocyte pancreas	tissue
+blood erythrocyte pancreas	tissue
+mammal stomach organ	tissue
+mammal pancreas organ	tissue
+mammal epithelium organ	tissue
+mammal bone organ	tissue
+mammal heart organ	tissue
+mammal lung organ	tissue
+organ tissue pancreas	tissue
+blood leukocyte pancreas	tissue
+blood erythrocyte pancreas	tissue
+skin connective tissue bone	connective tissue
+blood leukocyte bone	connective tissue
+blood erythrocyte bone	connective tissue
+stomach epithelium bone	connective tissue
+stomach tissue bone	connective tissue
+organ tissue pancreas	tissue
+mammal stomach tendon	connective tissue
+mammal pancreas tendon	connective tissue
+mammal epithelium tendon	connective tissue
+mammal bone tendon	connective tissue
+mammal heart tendon	connective tissue
+mammal lung tendon	connective tissue
+mouse mammal aquatic organism	organism
+erythrocyte blood cell stratified squamous epithelium	epithelium
+blood tissue stratified squamous epithelium	epithelium
+blood tissue stratified squamous epithelium	tissue
+blood connective tissue stratified squamous epithelium	epithelium
+cartilage tissue cartilage	connective tissue
+cartilage tissue cartilage	tissue
+cartilage connective tissue cartilage	connective tissue
+epithelium tissue evaporative cooling of water	evaporative cooling
+epidermis tissue cuboidal epithelium	epithelium
+epidermis tissue cuboidal epithelium	tissue
+muscle contraction mechanical work stratified squamous epithelium	epithelium
+evaporative cooling of water evaporative cooling stomach	digestive organ
+metabolism biological process brown fat	adipose tissue
+mammalian digestive system digestive system epithelium	tissue
+mouse mammal mouse	mammal
+central nervous-system organ system adipose tissue	connective tissue
+central nervous-system organ system adipose tissue	tissue
+protein denaturation by heat protein denaturation stratified squamous epithelium	epithelium
+digestive system organ system bone	connective tissue
+digestive system organ system bone	tissue
+thermoregulation regulation disease process	biological process
+central nervous-system organ system cuboidal epithelium	epithelium
+central nervous-system organ system cuboidal epithelium	tissue
+stomach digestive organ shivering	biological process
+blood connective tissue salivary gland	gland
+shivering biological process protein denaturation by heat	protein denaturation
+evaporative cooling of water evaporative cooling brown fat	adipose tissue
+erythrocyte blood cell evaporative cooling of water	evaporative cooling
+blood vessel organ brown fat	adipose tissue
+blood vessel organ brown fat	connective tissue
+blood vessel organ brown fat	tissue
+thermoregulation regulation connective tissue	tissue
+heart organ brown fat	adipose tissue
+heart organ brown fat	connective tissue
+heart organ brown fat	tissue
+bone tissue adipose tissue	connective tissue
+bone tissue adipose tissue	tissue
+bone connective tissue adipose tissue	connective tissue
+muscle contraction mechanical work stratified squamous epithelium	epithelium
+connective tissue tissue metabolism	biological process
+adipose tissue tissue brown fat	adipose tissue
+adipose tissue tissue brown fat	connective tissue
+adipose tissue connective tissue brown fat	adipose tissue
+cartilage tissue cartilage	connective tissue
+cartilage tissue cartilage	tissue
+cartilage connective tissue cartilage	connective tissue
+thermoregulation regulation stratified squamous epithelium	epithelium
+metabolism biological process disease process	biological process
+shivering biological process protein denaturation by heat	protein denaturation
+muscle contraction mechanical work adipose tissue	connective tissue
+evaporative cooling of water evaporative cooling connective tissue	tissue
+nervous tissue tissue nervous tissue	tissue
+mouse mammal shivering	biological process
+nervous tissue tissue connective tissue	tissue
+animal organism adipose tissue	connective tissue
+animal organism adipose tissue	tissue
+erythrocyte blood cell mouse	mammal
+erythrocyte blood cell mammalian digestive system	digestive system
+brown fat connective tissue stratified squamous epithelium	epithelium
+brown fat connective tissue stratified squamous epithelium	tissue
+brown fat adipose tissue stratified squamous epithelium	epithelium
+metabolism biological process connective tissue	tissue
+thermoregulation regulation adipose tissue	connective tissue
+nervous tissue tissue aquatic organism	organism
+small intestine digestive organ stomach	digestive organ
+muscle contraction mechanical work nervous tissue	tissue
+stratified squamous epithelium epithelium mouse	mammal
+metabolism biological process disease process	biological process
+connective tissue tissue mouse	mammal
+epithelium tissue cartilage	connective tissue
+cartilage connective tissue mammalian digestive system	digestive system
+evaporative cooling of water evaporative cooling shivering	biological process
+erythrocyte blood cell mammalian digestive system	digestive system
+brown fat adipose tissue protein denaturation by heat	protein denaturation
+brown fat adipose tissue stomach	digestive organ
+stomach digestive organ bone	connective tissue
+salivary gland gland cartilage	connective tissue
+mammalian digestive system digestive system cuboidal epithelium	epithelium
+salivary gland gland salivary gland	gland
+erythrocyte blood cell cuboidal epithelium	epithelium
+ligament connective tissue cuboidal epithelium	epithelium
+ligament connective tissue cuboidal epithelium	tissue
+connective tissue tissue aquatic organism	organism
+shivering biological process epithelium	tissue
+muscle tissue cartilage	connective tissue
+muscle tissue cartilage	tissue
+brown fat connective tissue cartilage	connective tissue
+brown fat connective tissue cartilage	tissue
+brown fat adipose tissue cartilage	connective tissue
+connective tissue tissue brown fat	adipose tissue
+aquatic organism organism protein denaturation by heat	protein denaturation
+evaporative cooling of water evaporative cooling salivary gland	gland
+erythrocyte blood cell small intestine	digestive organ
+stratified squamous epithelium epithelium metabolism	biological process
+salivary gland gland metabolism	biological process
+cuboidal epithelium epithelium connective tissue	tissue
+stomach digestive organ nervous tissue	tissue
+connective tissue tissue bone	connective tissue
+stratified squamous epithelium epithelium protein denaturation by heat	protein denaturation
+evaporative cooling of water evaporative cooling nervous tissue	tissue
+stratified squamous epithelium epithelium mouse	mammal
+blood connective tissue disease process	biological process
+muscle contraction mechanical work mouse	mammal
+stratified squamous epithelium tissue brown fat	adipose tissue
+stratified squamous epithelium tissue brown fat	connective tissue
+stratified squamous epithelium epithelium brown fat	adipose tissue
+bone connective tissue epithelium	tissue
+muscle contraction mechanical work disease process	biological process
+evaporative cooling of water evaporative cooling epithelium	tissue
+shivering biological process shivering	biological process
+nervous tissue tissue mammalian digestive system	digestive system
+salivary gland gland aquatic organism	organism
+aquatic organism organism brown fat	adipose tissue
+mammalian digestive system digestive system cartilage	connective tissue
+adipose tissue connective tissue invertebrate	animal
+stomach digestive organ metabolism	biological process
+central nervous-system organ system bone	connective tissue
+central nervous-system organ system bone	tissue
+cartilage connective tissue mouse	mammal
+aquatic organism organism nervous tissue	tissue
+connective tissue tissue evaporative cooling of water	evaporative cooling
+salivary gland gland mammalian digestive system	digestive system
+muscle tissue stratified squamous epithelium	epithelium
+muscle tissue stratified squamous epithelium	tissue
+aquatic organism organism shivering	biological process
+epithelium tissue disease process	biological process
+thermoregulation regulation disease process	biological process
+salivary gland gland disease process	biological process
+erythrocyte blood cell cuboidal epithelium	epithelium
+disease process biological process stomach	digestive organ
+mouse mammal metabolism	biological process
+brown fat adipose tissue invertebrate	animal
+stratified squamous epithelium tissue stratified squamous epithelium	epithelium
+stratified squamous epithelium tissue stratified squamous epithelium	tissue
+stratified squamous epithelium epithelium stratified squamous epithelium	epithelium
+cartilage tissue adipose tissue	connective tissue
+cartilage tissue adipose tissue	tissue
+cartilage connective tissue adipose tissue	connective tissue
+salivary gland gland invertebrate	animal
+mouse mammal stratified squamous epithelium	epithelium
+bone connective tissue evaporative cooling of water	evaporative cooling
+evaporative cooling of water evaporative cooling metabolism	biological process
+small intestine digestive organ cuboidal epithelium	epithelium
+adipose tissue connective tissue metabolism	biological process
+muscle contraction mechanical work small intestine	digestive organ
+protein denaturation by heat protein denaturation bone	connective tissue
+bone connective tissue shivering	biological process
+adipose tissue tissue brown fat	adipose tissue
+adipose tissue tissue brown fat	connective tissue
+adipose tissue connective tissue brown fat	adipose tissue
+salivary gland gland metabolism	biological process
+disease process biological process cuboidal epithelium	epithelium
+shivering biological process stomach	digestive organ
+adipose tissue connective tissue evaporative cooling of water	evaporative cooling
+small intestine digestive organ evaporative cooling of water	evaporative cooling
+stomach digestive organ stomach	digestive organ
+stratified squamous epithelium epithelium mouse	mammal
+epithelium tissue cuboidal epithelium	epithelium
+mammalian digestive system digestive system cuboidal epithelium	epithelium
+hibernation biological process brown fat	adipose tissue
+hibernation biological process brown fat	connective tissue
+hibernation biological process brown fat	tissue
+stomach digestive organ bone	connective tissue
+adipose tissue tissue adipose tissue	connective tissue
+adipose tissue tissue adipose tissue	tissue
+adipose tissue connective tissue adipose tissue	connective tissue
+cartilage connective tissue metabolism	biological process
+bone connective tissue epithelium	tissue
+evaporative cooling of water evaporative cooling adipose tissue	connective tissue
+salivary gland gland protein denaturation by heat	protein denaturation
+adipose tissue connective tissue shivering	biological process
+epithelium tissue mammalian digestive system	digestive system
+connective tissue tissue invertebrate	animal
+cuboidal epithelium tissue stratified squamous epithelium	epithelium
+cuboidal epithelium tissue stratified squamous epithelium	tissue
+cuboidal epithelium epithelium stratified squamous epithelium	epithelium
+erythrocyte blood cell cuboidal epithelium	epithelium
+mammalian digestive system digestive system nervous tissue	tissue
+small intestine digestive organ small intestine	digestive organ
+small intestine digestive organ cartilage	connective tissue
+adipose tissue tissue cuboidal epithelium	epithelium
+adipose tissue tissue cuboidal epithelium	tissue
+adipose tissue connective tissue cuboidal epithelium	epithelium
+invertebrate animal adipose tissue	connective tissue
+small intestine digestive organ shivering	biological process
+shivering biological process brown fat	adipose tissue
+adipose tissue tissue stratified squamous epithelium	epithelium
+adipose tissue tissue stratified squamous epithelium	tissue
+adipose tissue connective tissue stratified squamous epithelium	epithelium
+mammalian digestive system digestive system disease process	biological process
+stratified squamous epithelium tissue stratified squamous epithelium	epithelium
+stratified squamous epithelium tissue stratified squamous epithelium	tissue
+stratified squamous epithelium epithelium stratified squamous epithelium	epithelium
+erythrocyte blood cell small intestine	digestive organ
+invertebrate animal mouse	mammal
+shivering biological process salivary gland	gland
+salivary gland gland stratified squamous epithelium	epithelium
+invertebrate animal epithelium	tissue
+epithelium tissue bone	connective tissue
+bone connective tissue disease process	biological process
+tendon tissue brown fat	adipose tissue
+tendon tissue brown fat	connective tissue
+tendon tissue brown fat	tissue
+tendon connective tissue brown fat	adipose tissue
+tendon connective tissue brown fat	connective tissue
+connective tissue tissue shivering	biological process
+invertebrate animal invertebrate	animal
+protein denaturation by heat protein denaturation nervous tissue	tissue
+adipose tissue connective tissue aquatic organism	organism
+mouse mammal shivering	biological process
+thermoregulation regulation evaporative cooling of water	evaporative cooling
+smooth muscle tissue bone	connective tissue
+smooth muscle tissue bone	tissue
+stomach digestive organ disease process	biological process
+erythrocyte blood cell cartilage	connective tissue
+aquatic organism organism connective tissue	tissue
+connective tissue tissue cuboidal epithelium	epithelium
+evaporative cooling of water evaporative cooling invertebrate	animal
+shivering biological process stomach	digestive organ
+protein denaturation by heat protein denaturation salivary gland	gland
+disease process biological process aquatic organism	organism
+aquatic organism organism stomach	digestive organ
+cuboidal epithelium epithelium shivering	biological process
+thermoregulation regulation bone	connective tissue
+muscle tissue cuboidal epithelium	epithelium
+muscle tissue cuboidal epithelium	tissue
+thermoregulation regulation nervous tissue	tissue
+blood connective tissue mammalian digestive system	digestive system
+salivary gland gland brown fat	adipose tissue
+muscle contraction mechanical work brown fat	adipose tissue
+stratified squamous epithelium epithelium small intestine	digestive organ
+connective tissue tissue stratified squamous epithelium	epithelium
+aquatic organism organism cuboidal epithelium	epithelium
+invertebrate animal aquatic organism	organism
+erythrocyte blood cell connective tissue	tissue
+erythrocyte blood cell nervous tissue	tissue
+cartilage connective tissue mouse	mammal
+muscle contraction mechanical work aquatic organism	organism
+mouse mammal stomach	digestive organ
+brown fat adipose tissue protein denaturation by heat	protein denaturation
+connective tissue tissue cuboidal epithelium	epithelium
+connective tissue tissue metabolism	biological process
+protein denaturation by heat protein denaturation stomach	digestive organ
+muscle contraction mechanical work cartilage	connective tissue
+invertebrate animal adipose tissue	connective tissue
+erythrocyte blood cell salivary gland	gland
+cuboidal epithelium epithelium mouse	mammal
+stomach digestive organ evaporative cooling of water	evaporative cooling
+animal organism adipose tissue	connective tissue
+animal organism adipose tissue	tissue
+tongue organ cartilage	connective tissue
+tongue organ cartilage	tissue
+small intestine digestive organ disease process	biological process
+mammalian digestive system digestive system mouse	mammal
+aquatic organism organism cuboidal epithelium	epithelium
+nervous tissue tissue salivary gland	gland
+small intestine digestive organ nervous tissue	tissue
+invertebrate animal bone	connective tissue
+small intestine organ brown fat	adipose tissue
+small intestine organ brown fat	connective tissue
+small intestine organ brown fat	tissue
+small intestine digestive organ brown fat	adipose tissue
+cuboidal epithelium epithelium metabolism	biological process
+stratified squamous epithelium epithelium aquatic organism	organism
+connective tissue tissue cartilage	connective tissue
+blood connective tissue shivering	biological process
+aquatic organism organism mammalian digestive system	digestive system
+stomach digestive organ invertebrate	animal
+aquatic organism organism invertebrate	animal
+salivary gland gland salivary gland	gland
+metabolism biological process stratified squamous epithelium	epithelium
+tongue organ adipose tissue	connective tissue
+tongue organ adipose tissue	tissue
+elephant mammal brown fat	adipose tissue
+elephant mammal brown fat	connective tissue
+elephant mammal brown fat	tissue
+stratified squamous epithelium epithelium mammalian digestive system	digestive system
+cardiac muscle tissue brown fat	adipose tissue
+cardiac muscle tissue brown fat	connective tissue
+cardiac muscle tissue brown fat	tissue
+stratified squamous epithelium epithelium aquatic organism	organism
+stomach digestive organ stratified squamous epithelium	epithelium
+central nervous-system organ system adipose tissue	connective tissue
+central nervous-system organ system adipose tissue	tissue
+thermoregulation biological process brown fat	adipose tissue
+thermoregulation biological process brown fat	connective tissue
+thermoregulation biological process brown fat	tissue
+thermoregulation regulation brown fat	adipose tissue
+cuboidal epithelium epithelium invertebrate	animal
+cuboidal epithelium epithelium evaporative cooling of water	evaporative cooling
+cartilage connective tissue stomach	digestive organ
+epithelium tissue cartilage	connective tissue
+small intestine digestive organ adipose tissue	connective tissue
+cuboidal epithelium epithelium epithelium	tissue
+brown fat adipose tissue small intestine	digestive organ
+salivary gland gland disease process	biological process
+protein denaturation by heat protein denaturation mouse	mammal
+gland organ brown fat	adipose tissue
+gland organ brown fat	connective tissue
+gland organ brown fat	tissue
+stratified squamous epithelium epithelium nervous tissue	tissue
+nervous tissue tissue brown fat	adipose tissue
+nervous tissue tissue mouse	mammal
+brown fat connective tissue bone	connective tissue
+brown fat connective tissue bone	tissue
+brown fat adipose tissue bone	connective tissue
+epithelium tissue salivary gland	gland
+stomach digestive organ disease process	biological process
+mammalian digestive system digestive system adipose tissue	connective tissue
+bone connective tissue invertebrate	animal
+aquatic organism organism stratified squamous epithelium	epithelium
+erythrocyte blood cell metabolism	biological process
+metabolism biological process connective tissue	tissue
+metabolism biological process cartilage	connective tissue
+stratified squamous epithelium epithelium protein denaturation by heat	protein denaturation
+disease process biological process stomach	digestive organ
+invertebrate animal connective tissue	tissue
+salivary gland gland disease process	biological process
+metabolism biological process shivering	biological process
+erythrocyte blood cell shivering	biological process
+digestive system organ system bone	connective tissue
+digestive system organ system bone	tissue
+erythrocyte blood cell cuboidal epithelium	epithelium
+adipose tissue connective tissue connective tissue	tissue
+shivering biological process shivering	biological process
+salivary gland gland nervous tissue	tissue
+aquatic organism organism cuboidal epithelium	epithelium
+metabolism biological process cartilage	connective tissue
+mouse mammal brown fat	adipose tissue
+nervous tissue tissue invertebrate	animal
+muscle contraction mechanical work evaporative cooling of water	evaporative cooling
+evaporative cooling of water evaporative cooling disease process	biological process
+cuboidal epithelium epithelium salivary gland	gland
+epithelium tissue salivary gland	gland
+stratified squamous epithelium epithelium evaporative cooling of water	evaporative cooling
+muscle contraction mechanical work adipose tissue	connective tissue
+stomach digestive organ epithelium	tissue
+invertebrate animal disease process	biological process
+mouse mammal shivering	biological process
+stomach digestive organ small intestine	digestive organ
+blood tissue adipose tissue	connective tissue
+blood tissue adipose tissue	tissue
+blood connective tissue adipose tissue	connective tissue
+smooth muscle tissue cuboidal epithelium	epithelium
+smooth muscle tissue cuboidal epithelium	tissue
+epithelium tissue nervous tissue	tissue
+mouse mammal connective tissue	tissue
+protein denaturation by heat protein denaturation aquatic organism	organism
+stratified squamous epithelium epithelium shivering	biological process
+cuboidal epithelium tissue adipose tissue	connective tissue
+cuboidal epithelium tissue adipose tissue	tissue
+cuboidal epithelium epithelium adipose tissue	connective tissue
+bone tissue brown fat	adipose tissue
+bone tissue brown fat	connective tissue
+bone connective tissue brown fat	adipose tissue
+salivary gland gland mammalian digestive system	digestive system
+protein denaturation by heat protein denaturation evaporative cooling of water	evaporative cooling
+salivary gland gland disease process	biological process
+stratified squamous epithelium epithelium metabolism	biological process
+erythrocyte blood cell stratified squamous epithelium	epithelium
+nervous tissue tissue mammalian digestive system	digestive system
+blood connective tissue disease process	biological process
+erythrocyte blood cell bone	connective tissue
+smooth muscle tissue cartilage	connective tissue
+smooth muscle tissue cartilage	tissue
+stratified squamous epithelium epithelium nervous tissue	tissue
+aquatic organism organism mammalian digestive system	digestive system
+cartilage connective tissue metabolism	biological process
+brown fat adipose tissue small intestine	digestive organ
+stomach digestive organ nervous tissue	tissue
+blood connective tissue disease process	biological process
+metabolism biological process protein denaturation by heat	protein denaturation
+epithelium tissue salivary gland	gland
+brown fat connective tissue cuboidal epithelium	epithelium
+brown fat connective tissue cuboidal epithelium	tissue
+brown fat adipose tissue cuboidal epithelium	epithelium
+shivering biological process cartilage	connective tissue
+metabolism biological process protein denaturation by heat	protein denaturation
+mammalian digestive system digestive system protein denaturation by heat	protein denaturation
+protein denaturation by heat protein denaturation small intestine	digestive organ
+disease process biological process bone	connective tissue
+adipose tissue connective tissue mammalian digestive system	digestive system
+disease process biological process disease process	biological process
+salivary gland gland epithelium	tissue
+muscle tissue brown fat	adipose tissue
+muscle tissue brown fat	connective tissue
+tendon connective tissue cuboidal epithelium	epithelium
+tendon connective tissue cuboidal epithelium	tissue
+protein denaturation by heat protein denaturation stomach	digestive organ
+shivering biological process evaporative cooling of water	evaporative cooling
+connective tissue tissue stratified squamous epithelium	epithelium
+evaporative cooling of water evaporative cooling epithelium	tissue
+small intestine digestive organ epithelium	tissue
+digestive system organ system cartilage	connective tissue
+digestive system organ system cartilage	tissue
+ligament tissue brown fat	adipose tissue
+ligament tissue brown fat	connective tissue
+ligament tissue brown fat	tissue
+ligament connective tissue brown fat	adipose tissue
+ligament connective tissue brown fat	connective tissue
+shivering biological process protein denaturation by heat	protein denaturation
+thermoregulation biological process brown fat	adipose tissue
+thermoregulation biological process brown fat	connective tissue
+thermoregulation biological process brown fat	tissue
+thermoregulation regulation brown fat	adipose tissue
+salivary gland gland mouse	mammal
+brown fat connective tissue cuboidal epithelium	epithelium
+brown fat connective tissue cuboidal epithelium	tissue
+brown fat adipose tissue cuboidal epithelium	epithelium
+metabolism biological process cartilage	connective tissue
+adipose tissue connective tissue nervous tissue	tissue
+metabolism biological process brown fat	adipose tissue
+salivary gland gland small intestine	digestive organ
+blood connective tissue salivary gland	gland
+erythrocyte blood cell small intestine	digestive organ
+shivering biological process disease process	biological process
+bone connective tissue invertebrate	animal
+aquatic organism organism disease process	biological process
+cuboidal epithelium epithelium epithelium	tissue
+stomach digestive organ adipose tissue	connective tissue
+digestive organ organ bone	connective tissue
+digestive organ organ bone	tissue
+nervous tissue tissue stomach	digestive organ
+muscle contraction mechanical work salivary gland	gland
+aquatic organism organism protein denaturation by heat	protein denaturation
+metabolism biological process brown fat	adipose tissue
+epithelium tissue adipose tissue	connective tissue
+aquatic organism organism mammalian digestive system	digestive system
+nervous tissue tissue brown fat	adipose tissue
+aquatic organism organism brown fat	adipose tissue
+protein denaturation by heat protein denaturation protein denaturation by heat	protein denaturation
+shivering biological process evaporative cooling of water	evaporative cooling
+small intestine organ brown fat	adipose tissue
+small intestine organ brown fat	connective tissue
+small intestine organ brown fat	tissue
+small intestine digestive organ brown fat	adipose tissue
+stomach digestive organ salivary gland	gland
+connective tissue tissue cartilage	connective tissue
+thermoregulation regulation stomach	digestive organ
+connective tissue tissue salivary gland	gland
+connective tissue tissue aquatic organism	organism
+nervous tissue tissue nervous tissue	tissue
+skeletal muscle tissue brown fat	adipose tissue
+skeletal muscle tissue brown fat	connective tissue
+skeletal muscle tissue brown fat	tissue
+central nervous-system organ system brown fat	adipose tissue
+central nervous-system organ system brown fat	connective tissue
+aquatic organism organism stratified squamous epithelium	epithelium
+nervous tissue tissue mammalian digestive system	digestive system
+epithelium tissue invertebrate	animal
+thermoregulation regulation stomach	digestive organ
+metabolism biological process disease process	biological process
+brown fat adipose tissue evaporative cooling of water	evaporative cooling
+mouse mammal stratified squamous epithelium	epithelium
+ligament connective tissue cartilage	connective tissue
+ligament connective tissue cartilage	tissue
+salivary gland gland aquatic organism	organism
+invertebrate animal aquatic organism	organism
+aquatic organism organism adipose tissue	connective tissue
+erythrocyte blood cell nervous tissue	tissue
+muscle contraction mechanical work cuboidal epithelium	epithelium
+shivering biological process nervous tissue	tissue
+mouse mammal shivering	biological process
+blood connective tissue nervous tissue	tissue
+bone connective tissue evaporative cooling of water	evaporative cooling
+aquatic organism organism bone	connective tissue
+tongue organ stratified squamous epithelium	epithelium
+tongue organ stratified squamous epithelium	tissue
+digestive system organ system cuboidal epithelium	epithelium
+digestive system organ system cuboidal epithelium	tissue
+nervous tissue tissue stomach	digestive organ
+blood connective tissue epithelium	tissue
+mouse mammal stomach	digestive organ
+salivary gland gland epithelium	tissue
+ligament connective tissue adipose tissue	connective tissue
+ligament connective tissue adipose tissue	tissue
+smooth muscle tissue brown fat	adipose tissue
+smooth muscle tissue brown fat	connective tissue
+adipose tissue connective tissue metabolism	biological process
+elephant mammal brown fat	adipose tissue
+elephant mammal brown fat	connective tissue
+elephant mammal brown fat	tissue
+shivering biological process protein denaturation by heat	protein denaturation
+mammalian digestive system digestive system epithelium	tissue
+small intestine digestive organ evaporative cooling of water	evaporative cooling
+small intestine digestive organ protein denaturation by heat	protein denaturation
+adipose tissue connective tissue salivary gland	gland
+cartilage connective tissue stomach	digestive organ
+shivering biological process adipose tissue	connective tissue
+small intestine digestive organ nervous tissue	tissue
+brown fat tissue brown fat	adipose tissue
+brown fat tissue brown fat	connective tissue
+brown fat tissue brown fat	tissue
+brown fat connective tissue brown fat	adipose tissue
+brown fat connective tissue brown fat	connective tissue
+brown fat adipose tissue brown fat	adipose tissue
+invertebrate animal cuboidal epithelium	epithelium
+nervous tissue tissue salivary gland	gland
+protein denaturation by heat protein denaturation cuboidal epithelium	epithelium
+adipose tissue tissue stratified squamous epithelium	epithelium
+adipose tissue tissue stratified squamous epithelium	tissue
+adipose tissue connective tissue stratified squamous epithelium	epithelium
+brown fat adipose tissue protein denaturation by heat	protein denaturation
+salivary gland gland cuboidal epithelium	epithelium
+muscle contraction mechanical work epithelium	tissue
+mouse mammal adipose tissue	connective tissue
+stratified squamous epithelium epithelium mammalian digestive system	digestive system
+animal organism cartilage	connective tissue
+animal organism cartilage	tissue
+thermoregulation regulation connective tissue	tissue
+aquatic organism organism adipose tissue	connective tissue
+mammalian digestive system digestive system cuboidal epithelium	epithelium
+brown fat adipose tissue aquatic organism	organism
+cartilage connective tissue mammalian digestive system	digestive system
+adipose tissue tissue cartilage	connective tissue
+adipose tissue tissue cartilage	tissue
+adipose tissue connective tissue cartilage	connective tissue
+metabolism biological process stratified squamous epithelium	epithelium
+disease process biological process evaporative cooling of water	evaporative cooling
+connective tissue tissue bone	connective tissue
+brown fat adipose tissue small intestine	digestive organ
+stomach digestive organ aquatic organism	organism
+mouse mammal aquatic organism	organism
+aquatic organism organism metabolism	biological process
+salivary gland gland brown fat	adipose tissue
+aquatic organism organism mammalian digestive system	digestive system
+mammalian digestive system digestive system nervous tissue	tissue
+salivary gland gland bone	connective tissue
+metabolism biological process cartilage	connective tissue
+bone tissue brown fat	adipose tissue
+bone tissue brown fat	connective tissue
+bone connective tissue brown fat	adipose tissue
+erythrocyte blood cell cuboidal epithelium	epithelium
+small intestine digestive organ small intestine	digestive organ
+mammalian digestive system digestive system epithelium	tissue
+epithelium tissue invertebrate	animal
+nervous tissue tissue bone	connective tissue
+bone connective tissue invertebrate	animal
+stratified squamous epithelium epithelium small intestine	digestive organ
+digestive system organ system cuboidal epithelium	epithelium
+digestive system organ system cuboidal epithelium	tissue
+disease process biological process cuboidal epithelium	epithelium
+digestive organ organ brown fat	adipose tissue
+digestive organ organ brown fat	connective tissue
+epithelium tissue invertebrate	animal
+blood connective tissue metabolism	biological process
+salivary gland gland invertebrate	animal
+small intestine digestive organ epithelium	tissue
+bone connective tissue connective tissue	tissue
+shivering biological process adipose tissue	connective tissue
+small intestine digestive organ mouse	mammal
+aquatic organism organism cartilage	connective tissue
+salivary gland gland invertebrate	animal
+cartilage connective tissue evaporative cooling of water	evaporative cooling
+evaporative cooling of water evaporative cooling shivering	biological process
+ligament connective tissue cartilage	connective tissue
+ligament connective tissue cartilage	tissue
+mammalian digestive system digestive system aquatic organism	organism
+hypothalamus nervous tissue brown fat	adipose tissue
+hypothalamus nervous tissue brown fat	connective tissue
+hypothalamus nervous tissue brown fat	tissue
+cartilage connective tissue nervous tissue	tissue
+brown fat adipose tissue small intestine	digestive organ
+adipose tissue connective tissue nervous tissue	tissue
+shivering biological process stratified squamous epithelium	epithelium
+smooth muscle tissue brown fat	adipose tissue
+smooth muscle tissue brown fat	connective tissue
+evaporative cooling of water evaporative cooling stomach	digestive organ
+epithelium tissue metabolism	biological process
+salivary gland gland protein denaturation by heat	protein denaturation
+stomach digestive organ metabolism	biological process
+muscle contraction mechanical work metabolism	biological process
+adipose tissue connective tissue evaporative cooling of water	evaporative cooling
+cuboidal epithelium epithelium small intestine	digestive organ
+bone tissue stratified squamous epithelium	epithelium
+bone tissue stratified squamous epithelium	tissue
+bone connective tissue stratified squamous epithelium	epithelium
+epithelium tissue nervous tissue	tissue
+muscle tissue adipose tissue	connective tissue
+muscle tissue adipose tissue	tissue
+cartilage tissue cartilage	connective tissue
+cartilage tissue cartilage	tissue
+cartilage connective tissue cartilage	connective tissue
+disease process biological process stratified squamous epithelium	epithelium
+salivary gland gland metabolism	biological process
+salivary gland gland cuboidal epithelium	epithelium
+mammalian digestive system digestive system evaporative cooling of water	evaporative cooling
+mammalian digestive system digestive system salivary gland	gland
+brown fat connective tissue bone	connective tissue
+brown fat connective tissue bone	tissue
+brown fat adipose tissue bone	connective tissue
+cartilage connective tissue shivering	biological process
+ligament tissue brown fat	adipose tissue
+ligament tissue brown fat	connective tissue
+ligament tissue brown fat	tissue
+ligament connective tissue brown fat	adipose tissue
+ligament connective tissue brown fat	connective tissue
+hibernation biological process brown fat	adipose tissue
+hibernation biological process brown fat	connective tissue
+hibernation biological process brown fat	tissue
+evaporative cooling of water evaporative cooling brown fat	adipose tissue
+metabolism biological process adipose tissue	connective tissue
+disease process biological process salivary gland	gland
+evaporative cooling of water evaporative cooling brown fat	adipose tissue
+hypothalamus nervous tissue brown fat	adipose tissue
+hypothalamus nervous tissue brown fat	connective tissue
+hypothalamus nervous tissue brown fat	tissue
+cartilage tissue stratified squamous epithelium	epithelium
+cartilage tissue stratified squamous epithelium	tissue
+cartilage connective tissue stratified squamous epithelium	epithelium
+invertebrate animal shivering	biological process
+protein denaturation by heat protein denaturation small intestine	digestive organ
+shivering biological process cuboidal epithelium	epithelium
+erythrocyte blood cell disease process	biological process
+muscle tissue stratified squamous epithelium	epithelium
+muscle tissue stratified squamous epithelium	tissue
+stomach digestive organ connective tissue	tissue
+brown fat adipose tissue aquatic organism	organism
+epithelium tissue aquatic organism	organism
+cuboidal epithelium tissue adipose tissue	connective tissue
+cuboidal epithelium tissue adipose tissue	tissue
+cuboidal epithelium epithelium adipose tissue	connective tissue
+mouse mammal connective tissue	tissue
+cartilage connective tissue nervous tissue	tissue
+small intestine digestive organ mouse	mammal
+aquatic organism organism disease process	biological process
+anterior pituitary organ brown fat	adipose tissue
+anterior pituitary organ brown fat	connective tissue
+anterior pituitary organ brown fat	tissue
+blood tissue cartilage	connective tissue
+blood tissue cartilage	tissue
+blood connective tissue cartilage	connective tissue
+adipose tissue tissue adipose tissue	connective tissue
+adipose tissue tissue adipose tissue	tissue
+adipose tissue connective tissue adipose tissue	connective tissue
+salivary gland gland cartilage	connective tissue
+connective tissue tissue bone	connective tissue
+protein denaturation by heat protein denaturation small intestine	digestive organ
+shivering biological process protein denaturation by heat	protein denaturation
+shivering biological process bone	connective tissue
+central nervous-system organ system adipose tissue	connective tissue
+central nervous-system organ system adipose tissue	tissue
+salivary gland gland protein denaturation by heat	protein denaturation
+blood connective tissue small intestine	digestive organ
+digestive organ organ brown fat	adipose tissue
+digestive organ organ brown fat	connective tissue
+muscle tissue bone	connective tissue
+muscle tissue bone	tissue
+aquatic organism organism aquatic organism	organism
+protein denaturation by heat protein denaturation salivary gland	gland
+protein denaturation by heat protein denaturation adipose tissue	connective tissue
+protein denaturation by heat protein denaturation shivering	biological process
+stratified squamous epithelium tissue bone	connective tissue
+stratified squamous epithelium tissue bone	tissue
+stratified squamous epithelium epithelium bone	connective tissue
+tendon connective tissue stratified squamous epithelium	epithelium
+tendon connective tissue stratified squamous epithelium	tissue
+stratified squamous epithelium epithelium connective tissue	tissue
+invertebrate animal metabolism	biological process
+mouse mammal brown fat	adipose tissue
+muscle tissue bone	connective tissue
+muscle tissue bone	tissue
+salivary gland gland brown fat	adipose tissue
+mammalian digestive system digestive system stomach	digestive organ
+epithelium tissue cuboidal epithelium	epithelium
+stomach digestive organ mammalian digestive system	digestive system
+animal organism cartilage	connective tissue
+animal organism cartilage	tissue
+brown fat adipose tissue epithelium	tissue
+epithelium tissue mouse	mammal
+mammalian digestive system digestive system stratified squamous epithelium	epithelium
+central nervous-system organ system brown fat	adipose tissue
+central nervous-system organ system brown fat	connective tissue
+connective tissue tissue bone	connective tissue
+stratified squamous epithelium epithelium invertebrate	animal
+blood connective tissue shivering	biological process
+brown fat adipose tissue small intestine	digestive organ
+thermoregulation regulation shivering	biological process
+brown fat tissue brown fat	adipose tissue
+brown fat tissue brown fat	connective tissue
+brown fat tissue brown fat	tissue
+brown fat connective tissue brown fat	adipose tissue
+brown fat connective tissue brown fat	connective tissue
+brown fat adipose tissue brown fat	adipose tissue
+invertebrate animal stomach	digestive organ
+smooth muscle tissue brown fat	adipose tissue
+smooth muscle tissue brown fat	connective tissue
+blood tissue bone	connective tissue
+blood tissue bone	tissue
+blood connective tissue bone	connective tissue
+erythrocyte blood cell epithelium	tissue
+small intestine digestive organ stomach	digestive organ
+cuboidal epithelium epithelium invertebrate	animal
+epidermis tissue brown fat	adipose tissue
+epidermis tissue brown fat	connective tissue
+epithelium tissue brown fat	adipose tissue
+epithelium tissue shivering	biological process
+connective tissue tissue cuboidal epithelium	epithelium
+muscle contraction mechanical work nervous tissue	tissue
+shivering biological process metabolism	biological process
+blood vessel organ brown fat	adipose tissue
+blood vessel organ brown fat	connective tissue
+blood vessel organ brown fat	tissue
+bone connective tissue nervous tissue	tissue
+digestive organ organ adipose tissue	connective tissue
+digestive organ organ adipose tissue	tissue
+mammalian digestive system digestive system invertebrate	animal
+aquatic organism organism salivary gland	gland
+cuboidal epithelium tissue adipose tissue	connective tissue
+cuboidal epithelium tissue adipose tissue	tissue
+cuboidal epithelium epithelium adipose tissue	connective tissue
+adipose tissue connective tissue protein denaturation by heat	protein denaturation
+metabolism biological process salivary gland	gland
+mouse mammal nervous tissue	tissue
+nervous tissue tissue connective tissue	tissue
+mammalian digestive system digestive system mammalian digestive system	digestive system
+salivary gland gland adipose tissue	connective tissue
+bone tissue cartilage	connective tissue
+bone tissue cartilage	tissue
+bone connective tissue cartilage	connective tissue
+small intestine digestive organ salivary gland	gland
+blood tissue bone	connective tissue
+blood tissue bone	tissue
+blood connective tissue bone	connective tissue
+stratified squamous epithelium epithelium protein denaturation by heat	protein denaturation
+disease process biological process shivering	biological process
+metabolism biological process brown fat	adipose tissue
+aquatic organism organism adipose tissue	connective tissue
+cuboidal epithelium tissue brown fat	adipose tissue
+cuboidal epithelium tissue brown fat	connective tissue
+cuboidal epithelium epithelium brown fat	adipose tissue
+salivary gland gland aquatic organism	organism
+evaporative cooling of water evaporative cooling stratified squamous epithelium	epithelium
+muscle tissue adipose tissue	connective tissue
+muscle tissue adipose tissue	tissue
+salivary gland gland metabolism	biological process
+disease process biological process bone	connective tissue
+adipose tissue connective tissue mouse	mammal
+mouse mammal shivering	biological process
+epithelium tissue bone	connective tissue
+cartilage tissue stratified squamous epithelium	epithelium
+cartilage tissue stratified squamous epithelium	tissue
+cartilage connective tissue stratified squamous epithelium	epithelium
+blood connective tissue stomach	digestive organ
+thermoregulation regulation mammalian digestive system	digestive system
+smooth muscle tissue stratified squamous epithelium	epithelium
+smooth muscle tissue stratified squamous epithelium	tissue
+blood connective tissue protein denaturation by heat	protein denaturation
+mammalian digestive system digestive system metabolism	biological process
+invertebrate animal small intestine	digestive organ
+tongue organ cartilage	connective tissue
+tongue organ cartilage	tissue
+metabolism biological process protein denaturation by heat	protein denaturation
+adipose tissue connective tissue salivary gland	gland
+stomach digestive organ cuboidal epithelium	epithelium
+aquatic organism organism cartilage	connective tissue
+bone connective tissue small intestine	digestive organ
+digestive system organ system brown fat	adipose tissue
+digestive system organ system brown fat	connective tissue
+epithelium tissue bone	connective tissue
+blood connective tissue small intestine	digestive organ
+digestive organ organ stratified squamous epithelium	epithelium
+digestive organ organ stratified squamous epithelium	tissue
+evaporative cooling of water evaporative cooling disease process	biological process
+stratified squamous epithelium tissue bone	connective tissue
+stratified squamous epithelium tissue bone	tissue
+stratified squamous epithelium epithelium bone	connective tissue
+digestive organ organ bone	connective tissue
+digestive organ organ bone	tissue
+muscle contraction mechanical work evaporative cooling of water	evaporative cooling
+mammalian digestive system digestive system cartilage	connective tissue
+metabolism biological process cuboidal epithelium	epithelium
+bone tissue adipose tissue	connective tissue
+bone tissue adipose tissue	tissue
+bone connective tissue adipose tissue	connective tissue
+metabolism biological process stratified squamous epithelium	epithelium
+cartilage connective tissue connective tissue	tissue
+cartilage tissue brown fat	adipose tissue
+cartilage tissue brown fat	connective tissue
+cartilage connective tissue brown fat	adipose tissue
+protein denaturation by heat protein denaturation mouse	mammal
+invertebrate animal invertebrate	animal
+cuboidal epithelium tissue cuboidal epithelium	epithelium
+cuboidal epithelium tissue cuboidal epithelium	tissue
+cuboidal epithelium epithelium cuboidal epithelium	epithelium
+aquatic organism organism metabolism	biological process
+stratified squamous epithelium epithelium salivary gland	gland
+muscle contraction mechanical work mammalian digestive system	digestive system
+protein denaturation by heat protein denaturation salivary gland	gland
+salivary gland gland adipose tissue	connective tissue
+connective tissue tissue cartilage	connective tissue
+metabolism biological process evaporative cooling of water	evaporative cooling
+thermoregulation regulation small intestine	digestive organ
+epithelium tissue connective tissue	tissue
+evaporative cooling of water evaporative cooling aquatic organism	organism
+evaporative cooling of water evaporative cooling invertebrate	animal
+animal organism cartilage	connective tissue
+animal organism cartilage	tissue
+metabolism biological process stomach	digestive organ
+epidermis tissue brown fat	adipose tissue
+epidermis tissue brown fat	connective tissue
+protein denaturation by heat protein denaturation stratified squamous epithelium	epithelium
+epithelium tissue disease process	biological process
+skin organ brown fat	adipose tissue
+skin organ brown fat	connective tissue
+skin organ brown fat	tissue
+thermoregulation regulation bone	connective tissue
+erythrocyte blood cell bone	connective tissue
+brown fat adipose tissue small intestine	digestive organ
+mammalian digestive system digestive system epithelium	tissue
+muscle contraction mechanical work small intestine	digestive organ
+connective tissue tissue connective tissue	tissue
+stratified squamous epithelium epithelium small intestine	digestive organ
+digestive system organ system cartilage	connective tissue
+digestive system organ system cartilage	tissue
+stratified squamous epithelium tissue brown fat	adipose tissue
+stratified squamous epithelium tissue brown fat	connective tissue
+stratified squamous epithelium epithelium brown fat	adipose tissue
+connective tissue tissue bone	connective tissue
+tongue organ cartilage	connective tissue
+tongue organ cartilage	tissue
+evaporative cooling of water evaporative cooling shivering	biological process
+cuboidal epithelium epithelium nervous tissue	tissue
+small intestine digestive organ stratified squamous epithelium	epithelium
+thermoregulation regulation salivary gland	gland
+disease process biological process metabolism	biological process
+blood tissue bone	connective tissue
+blood tissue bone	tissue
+blood connective tissue bone	connective tissue
+nervous tissue tissue protein denaturation by heat	protein denaturation
+elephant mammal brown fat	adipose tissue
+elephant mammal brown fat	connective tissue
+elephant mammal brown fat	tissue
+aquatic organism organism brown fat	adipose tissue
+muscle tissue cartilage	connective tissue
+muscle tissue cartilage	tissue
+epithelium tissue cuboidal epithelium	epithelium
+erythrocyte blood cell stomach	digestive organ
+metabolism biological process epithelium	tissue
+mouse mammal stomach	digestive organ
+blood vessel organ brown fat	adipose tissue
+blood vessel organ brown fat	connective tissue
+blood vessel organ brown fat	tissue
+cartilage connective tissue mammalian digestive system	digestive system
+mouse mammal nervous tissue	tissue
+epithelium tissue cuboidal epithelium	epithelium
+nervous tissue tissue mouse	mammal
+muscle tissue bone	connective tissue
+muscle tissue bone	tissue
+elephant mammal brown fat	adipose tissue
+elephant mammal brown fat	connective tissue
+elephant mammal brown fat	tissue
+stomach digestive organ evaporative cooling of water	evaporative cooling
+bone connective tissue mammalian digestive system	digestive system
+disease process biological process nervous tissue	tissue
+stratified squamous epithelium epithelium connective tissue	tissue
+cuboidal epithelium tissue bone	connective tissue
+cuboidal epithelium tissue bone	tissue
+cuboidal epithelium epithelium bone	connective tissue
+evaporative cooling of water evaporative cooling evaporative cooling of water	evaporative cooling
+nervous tissue tissue shivering	biological process
+salivary gland gland invertebrate	animal
+aquatic organism organism disease process	biological process
+connective tissue tissue mammalian digestive system	digestive system
+evaporative cooling of water evaporative cooling bone	connective tissue
+mouse mammal bone	connective tissue
+smooth muscle tissue adipose tissue	connective tissue
+smooth muscle tissue adipose tissue	tissue
+connective tissue tissue bone	connective tissue
+blood connective tissue metabolism	biological process
+metabolism biological process disease process	biological process
+stomach digestive organ evaporative cooling of water	evaporative cooling
+stratified squamous epithelium epithelium small intestine	digestive organ
+muscle tissue adipose tissue	connective tissue
+muscle tissue adipose tissue	tissue
+stratified squamous epithelium epithelium epithelium	tissue
+blood connective tissue small intestine	digestive organ
+evaporative cooling of water evaporative cooling cartilage	connective tissue
+adipose tissue connective tissue nervous tissue	tissue
+stomach digestive organ aquatic organism	organism
+cartilage connective tissue salivary gland	gland
+bone tissue bone	connective tissue
+bone tissue bone	tissue
+bone connective tissue bone	connective tissue
+mouse mammal nervous tissue	tissue
+cartilage connective tissue invertebrate	animal
+nervous tissue tissue protein denaturation by heat	protein denaturation
+aquatic organism organism disease process	biological process
+thermoregulation regulation bone	connective tissue
+small intestine digestive organ mammalian digestive system	digestive system
+mammalian digestive system organ system brown fat	adipose tissue
+mammalian digestive system organ system brown fat	connective tissue
+mammalian digestive system organ system brown fat	tissue
+mammalian digestive system digestive system brown fat	adipose tissue
+aquatic organism organism disease process	biological process
+thermoregulation regulation epithelium	tissue
+digestive organ organ adipose tissue	connective tissue
+digestive organ organ adipose tissue	tissue
+stratified squamous epithelium tissue brown fat	adipose tissue
+stratified squamous epithelium tissue brown fat	connective tissue
+stratified squamous epithelium epithelium brown fat	adipose tissue
+blood connective tissue nervous tissue	tissue
+aquatic organism organism disease process	biological process
+metabolism biological process mouse	mammal
+disease process biological process bone	connective tissue
+cartilage connective tissue connective tissue	tissue
+thermoregulation regulation invertebrate	animal
+smooth muscle tissue cartilage	connective tissue
+smooth muscle tissue cartilage	tissue
+mammalian digestive system digestive system bone	connective tissue
+muscle contraction mechanical work mouse	mammal
+small intestine digestive organ stomach	digestive organ
+thermoregulation regulation mammalian digestive system	digestive system
+aquatic organism organism metabolism	biological process
+thermoregulation regulation protein denaturation by heat	protein denaturation
+evaporative cooling of water evaporative cooling nervous tissue	tissue
+bone connective tissue stomach	digestive organ
+digestive system organ system adipose tissue	connective tissue
+digestive system organ system adipose tissue	tissue
+nervous tissue tissue small intestine	digestive organ
+evaporative cooling of water evaporative cooling protein denaturation by heat	protein denaturation
+protein denaturation by heat protein denaturation stratified squamous epithelium	epithelium
+brown fat adipose tissue invertebrate	animal
+salivary gland gland stratified squamous epithelium	epithelium
+central nervous-system organ system adipose tissue	connective tissue
+central nervous-system organ system adipose tissue	tissue
+protein denaturation by heat protein denaturation shivering	biological process
+epithelium tissue adipose tissue	connective tissue
+metabolism biological process stratified squamous epithelium	epithelium
+cartilage tissue cartilage	connective tissue
+cartilage tissue cartilage	tissue
+cartilage connective tissue cartilage	connective tissue
+protein denaturation by heat protein denaturation disease process	biological process
+cartilage tissue cartilage	connective tissue
+cartilage tissue cartilage	tissue
+cartilage connective tissue cartilage	connective tissue
+evaporative cooling of water evaporative cooling stomach	digestive organ
+epithelium tissue bone	connective tissue
+stomach digestive organ stomach	digestive organ
+aquatic organism organism bone	connective tissue
+cartilage tissue bone	connective tissue
+cartilage tissue bone	tissue
+cartilage connective tissue bone	connective tissue
+muscle contraction mechanical work disease process	biological process
+stratified squamous epithelium epithelium invertebrate	animal
+tongue organ cuboidal epithelium	epithelium
+tongue organ cuboidal epithelium	tissue
+central nervous-system organ system stratified squamous epithelium	epithelium
+central nervous-system organ system stratified squamous epithelium	tissue
+muscle tissue adipose tissue	connective tissue
+muscle tissue adipose tissue	tissue
+evaporative cooling of water evaporative cooling protein denaturation by heat	protein denaturation
+small intestine digestive organ salivary gland	gland
+adipose tissue tissue brown fat	adipose tissue
+adipose tissue tissue brown fat	connective tissue
+adipose tissue connective tissue brown fat	adipose tissue
+mammalian digestive system digestive system salivary gland	gland
+animal organism cartilage	connective tissue
+animal organism cartilage	tissue
+blood connective tissue evaporative cooling of water	evaporative cooling
+connective tissue tissue bone	connective tissue
+digestive system organ system adipose tissue	connective tissue
+digestive system organ system adipose tissue	tissue
+stomach digestive organ protein denaturation by heat	protein denaturation
+muscle contraction mechanical work aquatic organism	organism
+aquatic organism organism epithelium	tissue
+muscle contraction mechanical work metabolism	biological process
+thermoregulation regulation invertebrate	animal
+nervous tissue tissue metabolism	biological process
+muscle contraction mechanical work stratified squamous epithelium	epithelium
+protein denaturation by heat protein denaturation epithelium	tissue
+digestive system organ system cuboidal epithelium	epithelium
+digestive system organ system cuboidal epithelium	tissue
+invertebrate animal disease process	biological process
+connective tissue tissue metabolism	biological process
+cartilage connective tissue nervous tissue	tissue
+disease process biological process stomach	digestive organ
+metabolism biological process disease process	biological process
+metabolism biological process mammalian digestive system	digestive system
+protein denaturation by heat protein denaturation metabolism	biological process
+protein denaturation by heat protein denaturation protein denaturation by heat	protein denaturation
+animal organism adipose tissue	connective tissue
+animal organism adipose tissue	tissue
+animal organism cartilage	connective tissue
+animal organism cartilage	tissue
+tongue organ cartilage	connective tissue
+tongue organ cartilage	tissue
+shivering biological process connective tissue	tissue
+digestive system organ system bone	connective tissue
+digestive system organ system bone	tissue
+mammalian digestive system digestive system adipose tissue	connective tissue
+adipose tissue connective tissue stomach	digestive organ
+evaporative cooling of water evaporative cooling mammalian digestive system	digestive system
+mouse mammal metabolism	biological process
+brown fat adipose tissue stomach	digestive organ
+cartilage connective tissue stomach	digestive organ
+evaporative cooling of water evaporative cooling cartilage	connective tissue
+evaporative cooling of water evaporative cooling connective tissue	tissue
+evaporative cooling of water evaporative cooling mammalian digestive system	digestive system
+shivering biological process shivering	biological process
+adipose tissue connective tissue stomach	digestive organ
+muscle contraction mechanical work mouse	mammal
+nervous tissue tissue stratified squamous epithelium	epithelium
+salivary gland gland shivering	biological process
+connective tissue tissue shivering	biological process
+brown fat adipose tissue nervous tissue	tissue
+brown fat connective tissue bone	connective tissue
+brown fat connective tissue bone	tissue
+brown fat adipose tissue bone	connective tissue
+evaporative cooling of water evaporative cooling epithelium	tissue
+connective tissue tissue bone	connective tissue
+epithelium tissue aquatic organism	organism
+blood connective tissue epithelium	tissue
+metabolism biological process disease process	biological process
+mouse mammal evaporative cooling of water	evaporative cooling
+mammalian digestive system digestive system adipose tissue	connective tissue
+tendon tissue brown fat	adipose tissue
+tendon tissue brown fat	connective tissue
+tendon tissue brown fat	tissue
+tendon connective tissue brown fat	adipose tissue
+tendon connective tissue brown fat	connective tissue
+epithelium tissue bone	connective tissue
+connective tissue tissue metabolism	biological process
+epithelium tissue brown fat	adipose tissue
+mammalian digestive system digestive system connective tissue	tissue
+animal organism adipose tissue	connective tissue
+animal organism adipose tissue	tissue
+connective tissue tissue invertebrate	animal
+brown fat adipose tissue invertebrate	animal
+salivary gland gland shivering	biological process
+stratified squamous epithelium epithelium protein denaturation by heat	protein denaturation
+brown fat adipose tissue disease process	biological process
+aquatic organism organism invertebrate	animal
+bone connective tissue nervous tissue	tissue
+mouse mammal brown fat	adipose tissue
+bone connective tissue mouse	mammal
+blood tissue cuboidal epithelium	epithelium
+blood tissue cuboidal epithelium	tissue
+blood connective tissue cuboidal epithelium	epithelium
+evaporative cooling of water evaporative cooling invertebrate	animal
+digestive system organ system cuboidal epithelium	epithelium
+digestive system organ system cuboidal epithelium	tissue
+evaporative cooling of water evaporative cooling metabolism	biological process
+connective tissue tissue bone	connective tissue
+central nervous-system organ system bone	connective tissue
+central nervous-system organ system bone	tissue
+tongue organ adipose tissue	connective tissue
+tongue organ adipose tissue	tissue
+aquatic organism organism small intestine	digestive organ
+connective tissue tissue metabolism	biological process
+muscle contraction mechanical work connective tissue	tissue
+cartilage tissue brown fat	adipose tissue
+cartilage tissue brown fat	connective tissue
+cartilage connective tissue brown fat	adipose tissue
+disease process biological process evaporative cooling of water	evaporative cooling
+aquatic organism organism mammalian digestive system	digestive system
+smooth muscle tissue adipose tissue	connective tissue
+smooth muscle tissue adipose tissue	tissue
+cuboidal epithelium epithelium connective tissue	tissue
+cuboidal epithelium tissue brown fat	adipose tissue
+cuboidal epithelium tissue brown fat	connective tissue
+cuboidal epithelium epithelium brown fat	adipose tissue
+salivary gland gland invertebrate	animal
+cartilage tissue brown fat	adipose tissue
+cartilage tissue brown fat	connective tissue
+cartilage connective tissue brown fat	adipose tissue
+tendon connective tissue cuboidal epithelium	epithelium
+tendon connective tissue cuboidal epithelium	tissue
+mouse mammal protein denaturation by heat	protein denaturation
+tongue organ adipose tissue	connective tissue
+tongue organ adipose tissue	tissue
+protein denaturation by heat protein denaturation protein denaturation by heat	protein denaturation
+salivary gland gland shivering	biological process
+stomach digestive organ stratified squamous epithelium	epithelium
+thermoregulation regulation protein denaturation by heat	protein denaturation
+stratified squamous epithelium epithelium small intestine	digestive organ
+aquatic organism organism connective tissue	tissue
+bone connective tissue evaporative cooling of water	evaporative cooling
+connective tissue tissue brown fat	adipose tissue
+muscle contraction mechanical work mouse	mammal
+bone connective tissue evaporative cooling of water	evaporative cooling
+brown fat adipose tissue epithelium	tissue
+epithelium tissue stratified squamous epithelium	epithelium
+brown fat adipose tissue mammalian digestive system	digestive system
+protein denaturation by heat protein denaturation adipose tissue	connective tissue
+thermoregulation regulation mouse	mammal
+salivary gland gland evaporative cooling of water	evaporative cooling
+tongue organ stratified squamous epithelium	epithelium
+tongue organ stratified squamous epithelium	tissue
+shivering biological process brown fat	adipose tissue
+salivary gland gland evaporative cooling of water	evaporative cooling
+tongue organ brown fat	adipose tissue
+tongue organ brown fat	connective tissue
+mouse mammal invertebrate	animal
+mammalian digestive system digestive system adipose tissue	connective tissue
+protein denaturation by heat protein denaturation cuboidal epithelium	epithelium
+salivary gland gland cartilage	connective tissue
+evaporative cooling of water evaporative cooling mouse	mammal
+central nervous-system organ system stratified squamous epithelium	epithelium
+central nervous-system organ system stratified squamous epithelium	tissue
+metabolism biological process nervous tissue	tissue
+mouse mammal stomach	digestive organ
+small intestine digestive organ evaporative cooling of water	evaporative cooling
+erythrocyte blood cell cartilage	connective tissue
+invertebrate animal stratified squamous epithelium	epithelium
+mammalian digestive system digestive system cartilage	connective tissue
+muscle tissue brown fat	adipose tissue
+muscle tissue brown fat	connective tissue
+mammalian digestive system digestive system nervous tissue	tissue
+salivary gland gland small intestine	digestive organ
+mouse mammal mouse	mammal
+epithelium tissue evaporative cooling of water	evaporative cooling
+blood connective tissue protein denaturation by heat	protein denaturation
+evaporative cooling of water evaporative cooling cuboidal epithelium	epithelium
+mammalian digestive system digestive system stomach	digestive organ
+blood connective tissue protein denaturation by heat	protein denaturation
+small intestine digestive organ protein denaturation by heat	protein denaturation
+shivering biological process mammalian digestive system	digestive system
+connective tissue tissue disease process	biological process
+brown fat adipose tissue mammalian digestive system	digestive system
+cuboidal epithelium tissue stratified squamous epithelium	epithelium
+cuboidal epithelium tissue stratified squamous epithelium	tissue
+cuboidal epithelium epithelium stratified squamous epithelium	epithelium
+aquatic organism organism evaporative cooling of water	evaporative cooling
+brown fat adipose tissue salivary gland	gland
+protein denaturation by heat protein denaturation bone	connective tissue
+tendon connective tissue stratified squamous epithelium	epithelium
+tendon connective tissue stratified squamous epithelium	tissue
+protein denaturation by heat protein denaturation protein denaturation by heat	protein denaturation
+adipose tissue connective tissue disease process	biological process
+smooth muscle tissue stratified squamous epithelium	epithelium
+smooth muscle tissue stratified squamous epithelium	tissue
+shivering biological process metabolism	biological process
+mouse mammal adipose tissue	connective tissue
+epithelium tissue mouse	mammal
+connective tissue tissue connective tissue	tissue
+blood connective tissue epithelium	tissue
+invertebrate animal disease process	biological process
+stratified squamous epithelium epithelium connective tissue	tissue
+invertebrate animal protein denaturation by heat	protein denaturation
+brown fat adipose tissue connective tissue	tissue
+cuboidal epithelium epithelium mouse	mammal
+connective tissue tissue connective tissue	tissue
+metabolism biological process stratified squamous epithelium	epithelium
+invertebrate animal evaporative cooling of water	evaporative cooling
+tongue organ cuboidal epithelium	epithelium
+tongue organ cuboidal epithelium	tissue
+thermoregulation regulation mouse	mammal
+nervous tissue tissue mouse	mammal
+central nervous-system organ system adipose tissue	connective tissue
+central nervous-system organ system adipose tissue	tissue
+epithelium tissue stratified squamous epithelium	epithelium
+epithelium tissue cartilage	connective tissue
+mouse mammal salivary gland	gland
+evaporative cooling of water evaporative cooling mammalian digestive system	digestive system
+cuboidal epithelium epithelium invertebrate	animal
+bone tissue cuboidal epithelium	epithelium
+bone tissue cuboidal epithelium	tissue
+bone connective tissue cuboidal epithelium	epithelium
+nervous tissue tissue cuboidal epithelium	epithelium
+connective tissue tissue epithelium	tissue
+adipose tissue tissue cartilage	connective tissue
+adipose tissue tissue cartilage	tissue
+adipose tissue connective tissue cartilage	connective tissue
+disease process biological process evaporative cooling of water	evaporative cooling
+stomach digestive organ connective tissue	tissue
+adipose tissue connective tissue nervous tissue	tissue
+cuboidal epithelium tissue cuboidal epithelium	epithelium
+cuboidal epithelium tissue cuboidal epithelium	tissue
+cuboidal epithelium epithelium cuboidal epithelium	epithelium
+anterior pituitary organ brown fat	adipose tissue
+anterior pituitary organ brown fat	connective tissue
+anterior pituitary organ brown fat	tissue
+animal organism adipose tissue	connective tissue
+animal organism adipose tissue	tissue
+evaporative cooling of water evaporative cooling cartilage	connective tissue
+muscle tissue bone	connective tissue
+muscle tissue bone	tissue
+metabolism biological process connective tissue	tissue
+smooth muscle tissue cuboidal epithelium	epithelium
+smooth muscle tissue cuboidal epithelium	tissue
+stomach digestive organ small intestine	digestive organ
+connective tissue tissue small intestine	digestive organ
+hibernation biological process brown fat	adipose tissue
+hibernation biological process brown fat	connective tissue
+hibernation biological process brown fat	tissue
+blood connective tissue evaporative cooling of water	evaporative cooling
+invertebrate animal evaporative cooling of water	evaporative cooling
+bone connective tissue evaporative cooling of water	evaporative cooling
+muscle contraction mechanical work adipose tissue	connective tissue
+invertebrate animal evaporative cooling of water	evaporative cooling
+mammalian digestive system digestive system adipose tissue	connective tissue
+salivary gland gland cuboidal epithelium	epithelium
+bone connective tissue small intestine	digestive organ
+brown fat adipose tissue salivary gland	gland
+nervous tissue tissue mouse	mammal
+thermoregulation regulation cuboidal epithelium	epithelium
+protein denaturation by heat protein denaturation aquatic organism	organism
+epithelium tissue mouse	mammal
+muscle contraction mechanical work aquatic organism	organism
+cuboidal epithelium epithelium mouse	mammal
+aquatic organism organism mouse	mammal
+bone connective tissue invertebrate	animal
+protein denaturation by heat protein denaturation mouse	mammal
+stomach digestive organ invertebrate	animal
+stratified squamous epithelium tissue brown fat	adipose tissue
+stratified squamous epithelium tissue brown fat	connective tissue
+stratified squamous epithelium epithelium brown fat	adipose tissue
+muscle contraction mechanical work bone	connective tissue
+stratified squamous epithelium epithelium protein denaturation by heat	protein denaturation
+protein denaturation by heat protein denaturation connective tissue	tissue
+mammalian digestive system digestive system nervous tissue	tissue
+digestive system organ system bone	connective tissue
+digestive system organ system bone	tissue
+disease process biological process bone	connective tissue
+heart organ brown fat	adipose tissue
+heart organ brown fat	connective tissue
+heart organ brown fat	tissue
+mammalian digestive system digestive system mammalian digestive system	digestive system
+thermoregulation regulation invertebrate	animal
+shivering biological process small intestine	digestive organ
