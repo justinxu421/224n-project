@@ -24,7 +24,8 @@ from BertAnalogyDatasetReader import BertAnalogyDatasetReader
 from predictors import SentenceClassifierPredictor
 from typing import Iterator, List, Dict
 from config import Config
-import os
+import argparse
+
 #Modified based on https://github.com/allenai/allennlp and tutorial on RealWorldNLP
 
 DATA_ROOT='../data/analogy_data'
@@ -46,7 +47,7 @@ def bert_tokenizer(s: str):
 
 def predict(vocab2):
 	bert_token_indexer = PretrainedBertIndexer(
-	    pretrained_model="./biobert_pubmed/vocab.txt",
+	    pretrained_model="bert-large-uncased",
 	    max_pieces=config.max_seq_len,
 	    do_lowercase=True,
 	)
@@ -55,10 +56,10 @@ def predict(vocab2):
 		token_indexers={'tokens':bert_token_indexer}
 	)	
 
-	train_dataset, test_dataset, dev_dataset = (reader.read(DATA_ROOT + "/" + fname) for fname in ["train_sm.txt", "test_sm.txt", "val_sm.txt"])
+	train_dataset, test_dataset, dev_dataset = (reader.read(DATA_ROOT + "/" + fname) for fname in ["train_all.txt", "test_all.txt", "val_all.txt"])
 
 	bert_embedder = PretrainedBertEmbedder(
-	         pretrained_model='biobert_pubmed',
+	         pretrained_model='bert-large-uncased',
 	         top_layer_only=True, # conserve memory
 	)
 	word_embeddings: TextFieldEmbedder = BasicTextFieldEmbedder({"tokens": bert_embedder},
@@ -75,10 +76,15 @@ def predict(vocab2):
 	    @overrides
 	    def get_output_dim(self) -> int:
 	        return BERT_DIM
-	    
-	# vocab2 = Vocabulary.from_files("./bert_vocabulary")
+	        
+	# if not vocab2: 
+	# 	vocab2 = Vocabulary.from_files("./bert_vocabulary")
+
 	bert_encoder = BertSentencePooler(vocab2)
 	model2 = LstmModel(word_embeddings, bert_encoder, vocab2)
+	if USE_GPU: model2.cuda()
+	else: model2
+
 	with open("./bert_model.th", 'rb') as f:
 		model2.load_state_dict(torch.load(f))
 	
@@ -97,7 +103,7 @@ def predict(vocab2):
 
 	top_10_words_list = np.array(top_10_words_list)
 	print(top_10_words_list.shape)
-	np.savetxt('bert_top_10_words_list.out', np.array(top_10_words_list))
+	np.save('bert_top_10_words_list.npy', np.array(top_10_words_list))
 
 def eval_predictions(predict_path, gold_path):
 	lines_predict = []
@@ -124,7 +130,7 @@ def eval_predictions(predict_path, gold_path):
 def main():
 	#Initlizing the embeddings (BERT)
 	bert_token_indexer = PretrainedBertIndexer(
-	    pretrained_model="./biobert_pubmed/vocab.txt",
+	    pretrained_model="bert-base-uncased",
 	    max_pieces=config.max_seq_len,
 	    do_lowercase=True,
 	)
@@ -139,7 +145,7 @@ def main():
 
 
 	bert_embedder = PretrainedBertEmbedder(
-	         pretrained_model='biobert_pubmed',
+	         pretrained_model='bert-base-uncased',
 	         top_layer_only=True, # conserve memory
 	)
 	word_embeddings: TextFieldEmbedder = BasicTextFieldEmbedder({"tokens": bert_embedder},
@@ -189,8 +195,72 @@ def main():
 	vocab.save_to_files("bert_vocabulary")
 	return vocab
 
+def get_vocab():
+		#Initlizing the embeddings (BERT)
+	bert_token_indexer = PretrainedBertIndexer(
+	    pretrained_model="bert-large-uncased",
+	    max_pieces=config.max_seq_len,
+	    do_lowercase=True,
+	)
+	reader = BertAnalogyDatasetReader(
+		tokenizer=bert_tokenizer,
+		token_indexers={'tokens':bert_token_indexer}
+	)
+
+	train_dataset, test_dataset, dev_dataset = (reader.read(DATA_ROOT + "/" + fname) for fname in ["train_all.txt", "test_all.txt", "val_all.txt"])
+	
+	vocab = Vocabulary.from_instances(train_dataset + test_dataset + dev_dataset)
+
+
+	bert_embedder = PretrainedBertEmbedder(
+	         pretrained_model='bert-large-uncased',
+	         top_layer_only=True, # conserve memory
+	)
+	word_embeddings: TextFieldEmbedder = BasicTextFieldEmbedder({"tokens": bert_embedder},
+	                                                             # we'll be ignoring masks so we'll need to set this to True
+	                                                            allow_unmatched_keys = True)
+
+	BERT_DIM = word_embeddings.get_output_dim()
+
+	class BertSentencePooler(Seq2VecEncoder):
+	    def forward(self, embs: torch.tensor, 
+	                mask: torch.tensor=None) -> torch.tensor:
+	        # extract first token tensor
+	        return embs[:, 0]
+	    
+	    @overrides
+	    def get_output_dim(self) -> int:
+	        return BERT_DIM
+	 
+	#Initializing the model
+	#takes the hidden state at the last time step of the LSTM for every layer as one single output
+	bert_encoder = BertSentencePooler(vocab)
+
+	model = LstmModel(word_embeddings, bert_encoder, vocab)
+	if USE_GPU: model.cuda()
+	else: model
+
+	# Training the model 
+	optimizer = optim.Adam(model.parameters(), lr=1e-4, weight_decay=1e-5)
+	iterator = BucketIterator(batch_size=32, sorting_keys=[("tokens", "num_tokens")])
+	iterator.index_with(vocab)
+
+	trainer = Trainer(model=model,
+                  optimizer=optimizer,
+                  iterator=iterator,
+                  train_dataset=train_dataset,
+                  validation_dataset=dev_dataset,
+                  patience=10,
+                  cuda_device=0 if USE_GPU else -1,
+                  num_epochs=1)
+
+	# trainer.train()
+
+	return vocab
+
 if __name__ == '__main__':
-	vocab = main()
+	# vocab = main()
+	vocab = get_vocab()
 	predict(vocab)
 	eval_predictions("bert_predictions.txt", DATA_ROOT + "/" + "test_all.txt")
 
